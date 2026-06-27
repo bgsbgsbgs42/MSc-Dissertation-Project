@@ -1,0 +1,70 @@
+{
+  "preprocessing_report": {
+    "data_overview": {
+      "basic_stats": {
+        "mean": 22.61890858270109,
+        "std": 17.043156241728553,
+        "min": -17.15994964,
+        "max": 61.45671393937213,
+        "trend": "increasing"
+      },
+      "data_characteristics": {
+        "seasonality": "unknown",
+        "stationarity": "unknown",
+        "patterns": [
+          "data_loaded_successfully"
+        ]
+      }
+    },
+    "quality_assessment": {
+      "data_quality_score": 0.8,
+      "data_characteristics": "Data has been preprocessed and is ready for analysis"
+    },
+    "visualization_insights": {
+      "key_patterns": [
+        "data_available_for_analysis"
+      ],
+      "seasonal_components": "unknown",
+      "trend_analysis": "Overall trend appears to be increasing",
+      "distribution_characteristics": "Data distribution available for analysis"
+    },
+    "forecasting_readiness": {
+      "data_suitability": "suitable",
+      "potential_challenges": [
+        "limited_insights_due_to_llm_failure"
+      ],
+      "data_strengths": [
+        "preprocessed_data",
+        "basic_statistics_available"
+      ]
+    },
+    "recommendations": {
+      "model_suggestions": [
+        "ARIMA",
+        "ExponentialSmoothing",
+        "LinearRegression"
+      ],
+      "feature_engineering": [
+        "lag_features",
+        "rolling_statistics"
+      ],
+      "preprocessing_effectiveness": "preprocessing_completed_successfully"
+    }
+  },
+  "preprocessing_config": {
+    "missing_strategy": "none",
+    "outlier_detect_strategy": "iqr",
+    "outlier_handle_strategy": "none"
+  },
+  "validation_result": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": [],
+    "numeric_columns": [
+      "value"
+    ],
+    "total_rows": 162,
+    "total_columns": 1
+  },
+  "timestamp": "2025-12-06T13:31:32.510803"
+}

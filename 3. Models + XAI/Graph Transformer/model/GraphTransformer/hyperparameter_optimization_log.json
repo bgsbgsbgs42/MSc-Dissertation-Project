@@ -1,0 +1,607 @@
+{
+  "start_time": "2025-11-11T17:23:41.412663",
+  "data_info": {
+    "file": "./data/sm_data_g.csv",
+    "shape": [
+      162,
+      645
+    ],
+    "nodes": 645,
+    "time_steps": 162,
+    "sequence_length": 18,
+    "forecast_horizon": 36,
+    "feature_names": [
+      "DDoS-ALL",
+      "Phishing-ALL",
+      "Ransomware-ALL",
+      "Password Attack-ALL",
+      "SQL Injection-ALL",
+      "Account Hijacking-ALL",
+      "Defacement-ALL",
+      "Trojan-ALL",
+      "Vulnerability-ALL",
+      "Zero-day-ALL",
+      "..."
+    ]
+  },
+  "search_space": {
+    "channels": [
+      32,
+      64,
+      96,
+      128
+    ],
+    "num_layers": [
+      2,
+      3,
+      4
+    ],
+    "pe_dim": [
+      4,
+      8,
+      12
+    ],
+    "pe_walk_length": [
+      20
+    ],
+    "node_dim": [
+      1
+    ],
+    "num_heads": [
+      4,
+      6,
+      8
+    ],
+    "attn_type": [
+      "multihead"
+    ],
+    "attn_dropout": [
+      0.1,
+      0.15,
+      0.2
+    ],
+    "dropout": [
+      0.1,
+      0.2,
+      0.3
+    ],
+    "weight_decay": [
+      1e-05,
+      5e-05,
+      0.0001
+    ],
+    "learning_rate": [
+      5e-05,
+      0.0001,
+      0.00025,
+      0.0005
+    ],
+    "lr_scheduler": [
+      "cosine",
+      "step",
+      "none"
+    ],
+    "warmup_epochs": [
+      5,
+      10
+    ],
+    "batch_size": [
+      4,
+      8,
+      12
+    ],
+    "grad_clip": [
+      0.5,
+      1.0,
+      2.0
+    ],
+    "forecast_horizon": [
+      36
+    ],
+    "sequence_length": [
+      12,
+      15,
+      18
+    ],
+    "correlation_threshold": [
+      0.25,
+      0.3,
+      0.35
+    ],
+    "max_edges_per_node": [
+      10,
+      15
+    ],
+    "mc_samples": [
+      10,
+      15,
+      20
+    ],
+    "local_gnn_type": [
+      "GINE",
+      "GCN"
+    ],
+    "norm_type": [
+      "batch",
+      "layer"
+    ],
+    "head_hidden_dims": [
+      [
+        128,
+        64
+      ],
+      [
+        256,
+        128
+      ]
+    ],
+    "head_activation": [
+      "relu",
+      "gelu"
+    ],
+    "num_nodes": [
+      645
+    ]
+  },
+  "iterations": [
+    {
+      "iteration": 1,
+      "hyperparameters": {
+        "channels": 32,
+        "num_layers": 3,
+        "pe_dim": 4,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_type": "multihead",
+        "attn_dropout": 0.15,
+        "dropout": 0.3,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.00025,
+        "lr_scheduler": "step",
+        "warmup_epochs": 5,
+        "batch_size": 4,
+        "grad_clip": 0.5,
+        "forecast_horizon": 36,
+        "sequence_length": 18,
+        "correlation_threshold": 0.3,
+        "max_edges_per_node": 10,
+        "mc_samples": 10,
+        "local_gnn_type": "GINE",
+        "norm_type": "layer",
+        "head_hidden_dims": [
+          128,
+          64
+        ],
+        "head_activation": "gelu",
+        "num_nodes": 645
+      },
+      "start_time": "2025-11-11T17:23:41.413665",
+      "status": "success - new best",
+      "error": null,
+      "training_loss": 0.14475006461143494,
+      "validation_metrics": {
+        "rrse": 0.8013864755630493,
+        "rae": 0.33003848791122437
+      },
+      "end_time": "2025-11-11T17:27:07.793519"
+    },
+    {
+      "iteration": 2,
+      "hyperparameters": {
+        "channels": 32,
+        "num_layers": 3,
+        "pe_dim": 12,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_type": "multihead",
+        "attn_dropout": 0.2,
+        "dropout": 0.1,
+        "weight_decay": 1e-05,
+        "learning_rate": 5e-05,
+        "lr_scheduler": "step",
+        "warmup_epochs": 10,
+        "batch_size": 12,
+        "grad_clip": 1.0,
+        "forecast_horizon": 36,
+        "sequence_length": 15,
+        "correlation_threshold": 0.25,
+        "max_edges_per_node": 15,
+        "mc_samples": 15,
+        "local_gnn_type": "GCN",
+        "norm_type": "batch",
+        "head_hidden_dims": [
+          256,
+          128
+        ],
+        "head_activation": "relu",
+        "num_nodes": 645
+      },
+      "start_time": "2025-11-11T17:27:07.793935",
+      "status": "success",
+      "error": null,
+      "training_loss": 0.7753877639770508,
+      "validation_metrics": {
+        "rrse": 1.1334377527236938,
+        "rae": 0.5305556654930115
+      },
+      "end_time": "2025-11-11T17:30:49.220144"
+    },
+    {
+      "iteration": 3,
+      "hyperparameters": {
+        "channels": 96,
+        "num_layers": 4,
+        "pe_dim": 12,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 6,
+        "attn_type": "multihead",
+        "attn_dropout": 0.2,
+        "dropout": 0.1,
+        "weight_decay": 0.0001,
+        "learning_rate": 5e-05,
+        "lr_scheduler": "step",
+        "warmup_epochs": 10,
+        "batch_size": 4,
+        "grad_clip": 1.0,
+        "forecast_horizon": 36,
+        "sequence_length": 18,
+        "correlation_threshold": 0.3,
+        "max_edges_per_node": 10,
+        "mc_samples": 20,
+        "local_gnn_type": "GCN",
+        "norm_type": "layer",
+        "head_hidden_dims": [
+          256,
+          128
+        ],
+        "head_activation": "relu",
+        "num_nodes": 645
+      },
+      "start_time": "2025-11-11T17:30:49.220511",
+      "status": "success - new best",
+      "error": null,
+      "training_loss": 0.24325911402702333,
+      "validation_metrics": {
+        "rrse": 0.6141936779022217,
+        "rae": 0.25491863489151
+      },
+      "end_time": "2025-11-11T17:38:10.922883"
+    },
+    {
+      "iteration": 4,
+      "hyperparameters": {
+        "channels": 96,
+        "num_layers": 2,
+        "pe_dim": 8,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 8,
+        "attn_type": "multihead",
+        "attn_dropout": 0.2,
+        "dropout": 0.2,
+        "weight_decay": 5e-05,
+        "learning_rate": 0.0001,
+        "lr_scheduler": "none",
+        "warmup_epochs": 10,
+        "batch_size": 4,
+        "grad_clip": 0.5,
+        "forecast_horizon": 36,
+        "sequence_length": 15,
+        "correlation_threshold": 0.3,
+        "max_edges_per_node": 10,
+        "mc_samples": 10,
+        "local_gnn_type": "GINE",
+        "norm_type": "layer",
+        "head_hidden_dims": [
+          128,
+          64
+        ],
+        "head_activation": "relu",
+        "num_nodes": 645
+      },
+      "start_time": "2025-11-11T17:38:10.923218",
+      "status": "success",
+      "error": null,
+      "training_loss": 0.296277086250484,
+      "validation_metrics": {
+        "rrse": 2.6854703426361084,
+        "rae": 1.0710506439208984
+      },
+      "end_time": "2025-11-11T17:42:53.166003"
+    },
+    {
+      "iteration": 5,
+      "hyperparameters": {
+        "channels": 96,
+        "num_layers": 4,
+        "pe_dim": 8,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_type": "multihead",
+        "attn_dropout": 0.2,
+        "dropout": 0.1,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.00025,
+        "lr_scheduler": "none",
+        "warmup_epochs": 5,
+        "batch_size": 4,
+        "grad_clip": 1.0,
+        "forecast_horizon": 36,
+        "sequence_length": 18,
+        "correlation_threshold": 0.3,
+        "max_edges_per_node": 10,
+        "mc_samples": 20,
+        "local_gnn_type": "GCN",
+        "norm_type": "batch",
+        "head_hidden_dims": [
+          256,
+          128
+        ],
+        "head_activation": "gelu",
+        "num_nodes": 645
+      },
+      "start_time": "2025-11-11T17:42:53.166980",
+      "status": "success",
+      "error": null,
+      "training_loss": 0.12217902541160583,
+      "validation_metrics": {
+        "rrse": 0.8191196322441101,
+        "rae": 0.3876352310180664
+      },
+      "end_time": "2025-11-11T17:48:03.093842"
+    },
+    {
+      "iteration": 6,
+      "hyperparameters": {
+        "channels": 32,
+        "num_layers": 4,
+        "pe_dim": 8,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_type": "multihead",
+        "attn_dropout": 0.15,
+        "dropout": 0.1,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.0001,
+        "lr_scheduler": "step",
+        "warmup_epochs": 5,
+        "batch_size": 12,
+        "grad_clip": 0.5,
+        "forecast_horizon": 36,
+        "sequence_length": 18,
+        "correlation_threshold": 0.3,
+        "max_edges_per_node": 15,
+        "mc_samples": 10,
+        "local_gnn_type": "GCN",
+        "norm_type": "layer",
+        "head_hidden_dims": [
+          256,
+          128
+        ],
+        "head_activation": "relu",
+        "num_nodes": 645
+      },
+      "start_time": "2025-11-11T17:48:03.094152",
+      "status": "success",
+      "error": null,
+      "training_loss": 0.20571708381175996,
+      "validation_metrics": {
+        "rrse": 1.106533408164978,
+        "rae": 0.5378229022026062
+      },
+      "end_time": "2025-11-11T17:52:34.466755"
+    },
+    {
+      "iteration": 7,
+      "hyperparameters": {
+        "channels": 32,
+        "num_layers": 4,
+        "pe_dim": 4,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_type": "multihead",
+        "attn_dropout": 0.15,
+        "dropout": 0.3,
+        "weight_decay": 1e-05,
+        "learning_rate": 0.00025,
+        "lr_scheduler": "step",
+        "warmup_epochs": 10,
+        "batch_size": 8,
+        "grad_clip": 1.0,
+        "forecast_horizon": 36,
+        "sequence_length": 12,
+        "correlation_threshold": 0.35,
+        "max_edges_per_node": 15,
+        "mc_samples": 20,
+        "local_gnn_type": "GINE",
+        "norm_type": "layer",
+        "head_hidden_dims": [
+          128,
+          64
+        ],
+        "head_activation": "gelu",
+        "num_nodes": 645
+      },
+      "start_time": "2025-11-11T17:52:34.467077",
+      "status": "success",
+      "error": null,
+      "training_loss": 0.27552488446235657,
+      "validation_metrics": {
+        "rrse": 1.4723231792449951,
+        "rae": 0.7284599542617798
+      },
+      "end_time": "2025-11-11T17:57:39.236806"
+    },
+    {
+      "iteration": 8,
+      "hyperparameters": {
+        "channels": 96,
+        "num_layers": 2,
+        "pe_dim": 8,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 6,
+        "attn_type": "multihead",
+        "attn_dropout": 0.15,
+        "dropout": 0.1,
+        "weight_decay": 0.0001,
+        "learning_rate": 5e-05,
+        "lr_scheduler": "cosine",
+        "warmup_epochs": 5,
+        "batch_size": 4,
+        "grad_clip": 0.5,
+        "forecast_horizon": 36,
+        "sequence_length": 18,
+        "correlation_threshold": 0.25,
+        "max_edges_per_node": 10,
+        "mc_samples": 20,
+        "local_gnn_type": "GCN",
+        "norm_type": "batch",
+        "head_hidden_dims": [
+          256,
+          128
+        ],
+        "head_activation": "relu",
+        "num_nodes": 645
+      },
+      "start_time": "2025-11-11T17:57:39.237169",
+      "status": "success",
+      "error": null,
+      "training_loss": 0.3918065289656321,
+      "validation_metrics": {
+        "rrse": 1.333884835243225,
+        "rae": 0.6090060472488403
+      },
+      "end_time": "2025-11-11T18:01:27.648989"
+    },
+    {
+      "iteration": 9,
+      "hyperparameters": {
+        "channels": 96,
+        "num_layers": 3,
+        "pe_dim": 12,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 6,
+        "attn_type": "multihead",
+        "attn_dropout": 0.15,
+        "dropout": 0.2,
+        "weight_decay": 1e-05,
+        "learning_rate": 0.0001,
+        "lr_scheduler": "none",
+        "warmup_epochs": 5,
+        "batch_size": 12,
+        "grad_clip": 2.0,
+        "forecast_horizon": 36,
+        "sequence_length": 15,
+        "correlation_threshold": 0.35,
+        "max_edges_per_node": 10,
+        "mc_samples": 20,
+        "local_gnn_type": "GINE",
+        "norm_type": "layer",
+        "head_hidden_dims": [
+          256,
+          128
+        ],
+        "head_activation": "gelu",
+        "num_nodes": 645
+      },
+      "start_time": "2025-11-11T18:01:27.649392",
+      "status": "success",
+      "error": null,
+      "training_loss": 0.321307676533858,
+      "validation_metrics": {
+        "rrse": 1.382881999015808,
+        "rae": 0.6049725413322449
+      },
+      "end_time": "2025-11-11T18:07:15.445264"
+    },
+    {
+      "iteration": 10,
+      "hyperparameters": {
+        "channels": 96,
+        "num_layers": 2,
+        "pe_dim": 8,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_type": "multihead",
+        "attn_dropout": 0.1,
+        "dropout": 0.2,
+        "weight_decay": 5e-05,
+        "learning_rate": 0.00025,
+        "lr_scheduler": "cosine",
+        "warmup_epochs": 10,
+        "batch_size": 8,
+        "grad_clip": 0.5,
+        "forecast_horizon": 36,
+        "sequence_length": 12,
+        "correlation_threshold": 0.3,
+        "max_edges_per_node": 15,
+        "mc_samples": 10,
+        "local_gnn_type": "GCN",
+        "norm_type": "batch",
+        "head_hidden_dims": [
+          256,
+          128
+        ],
+        "head_activation": "gelu",
+        "num_nodes": 645
+      },
+      "start_time": "2025-11-11T18:07:15.445657",
+      "status": "success",
+      "error": null,
+      "training_loss": 0.15864686999056074,
+      "validation_metrics": {
+        "rrse": 1.7693382501602173,
+        "rae": 0.725709080696106
+      },
+      "end_time": "2025-11-11T18:10:19.652058"
+    }
+  ],
+  "best_results": {
+    "hyperparameters": {
+      "channels": 96,
+      "num_layers": 4,
+      "pe_dim": 12,
+      "pe_walk_length": 20,
+      "node_dim": 1,
+      "num_heads": 6,
+      "attn_type": "multihead",
+      "attn_dropout": 0.2,
+      "dropout": 0.1,
+      "weight_decay": 0.0001,
+      "learning_rate": 5e-05,
+      "lr_scheduler": "step",
+      "warmup_epochs": 10,
+      "batch_size": 4,
+      "grad_clip": 1.0,
+      "forecast_horizon": 36,
+      "sequence_length": 18,
+      "correlation_threshold": 0.3,
+      "max_edges_per_node": 10,
+      "mc_samples": 20,
+      "local_gnn_type": "GCN",
+      "norm_type": "layer",
+      "head_hidden_dims": [
+        256,
+        128
+      ],
+      "head_activation": "relu",
+      "num_nodes": 645
+    },
+    "validation_rrse": 0.6141936779022217,
+    "validation_rae": 0.25491863489151,
+    "model_saved": true
+  },
+  "end_time": "2025-11-11T18:10:19.652205",
+  "total_successful": 10,
+  "total_failed": 0,
+  "duration_seconds": 2798.239542
+}

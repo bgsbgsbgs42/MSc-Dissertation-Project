@@ -1,0 +1,121 @@
+Date,Attack,Technology,Gap
+2024-12-31,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.13924048747473694
+2025-01-30,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.22547494535256207
+2025-03-01,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.16143329438895737
+2025-03-31,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.08026673786005911
+2025-04-30,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.18160374989386907
+2025-05-30,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.1441028700604705
+2025-06-29,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.1762277292270935
+2025-07-29,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.10369221816949103
+2025-08-28,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.0608354466711053
+2025-09-27,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.15076772048996512
+2025-10-27,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.010987271037468993
+2025-11-26,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.14156581446462568
+2025-12-26,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,0.015496113452646454
+2026-01-25,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.2871298068013055
+2026-02-24,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.1536996253702031
+2026-03-26,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.10059457471256072
+2026-04-25,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.03956611345933292
+2026-05-25,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.1792577787869658
+2026-06-24,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.21509947675389873
+2026-07-24,Internal Denial of Service-ALL,Solution_RATE LIMITING_Mentions,-0.10199901073026985
+2024-12-31,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.29059310287387463
+2025-01-30,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.33574553098035764
+2025-03-01,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.46534804227608606
+2025-03-31,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.3786434361338094
+2025-04-30,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.38025325635828555
+2025-05-30,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.285770788662404
+2025-06-29,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.3085098556054071
+2025-07-29,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.41319550631253943
+2025-08-28,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.4229959350384068
+2025-09-27,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.42091228435127453
+2025-10-27,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.3571296861925445
+2025-11-26,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.3819665644486109
+2025-12-26,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.5048598119244405
+2026-01-25,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.20151794983209437
+2026-02-24,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.3729769277885114
+2026-03-26,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.4343071732846918
+2026-04-25,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.33079867150210984
+2026-05-25,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.29005592448113304
+2026-06-24,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.34665312837161744
+2026-07-24,Internal Denial of Service-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.3441349082884443
+2024-12-31,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-254.62549682133232
+2025-01-30,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-253.62144867590723
+2025-03-01,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-254.5199752072536
+2025-03-31,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-256.5650529634525
+2025-04-30,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-257.0234302268801
+2025-05-30,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-257.20642200675394
+2025-06-29,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-261.3131041167801
+2025-07-29,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-260.8346800055115
+2025-08-28,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-262.95623006757825
+2025-09-27,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-263.7268830519733
+2025-10-27,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-264.0934044383675
+2025-11-26,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-267.90603506912834
+2025-12-26,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-268.5261776193232
+2026-01-25,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-270.7886723883997
+2026-02-24,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-272.04031711354406
+2026-03-26,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-272.6282166988595
+2026-04-25,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-274.04693599101864
+2026-05-25,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-276.86901860720593
+2026-06-24,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-279.3800155860582
+2026-07-24,Internal Denial of Service-ALL,Solution_IDS/IPS_Mentions,-281.2352010891088
+2024-12-31,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-87.89389117856905
+2025-01-30,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-87.63738539180889
+2025-03-01,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-87.92009009655116
+2025-03-31,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-88.55403749794014
+2025-04-30,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-88.69982207912389
+2025-05-30,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-89.24538814117392
+2025-06-29,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-89.44615949300928
+2025-07-29,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-89.9724330248436
+2025-08-28,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-90.8034714505368
+2025-09-27,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-90.55046513512346
+2025-10-27,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-90.8862648749334
+2025-11-26,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-91.519809648304
+2025-12-26,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-91.86280335303101
+2026-01-25,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-92.36807347269792
+2026-02-24,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-92.54110844028484
+2026-03-26,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-92.96922433921046
+2026-04-25,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-93.67331146752056
+2026-05-25,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-94.54639986786688
+2026-06-24,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-95.24400133041267
+2026-07-24,Internal Denial of Service-ALL,Solution_ANOMALY DETECTION_Mentions,-95.24416929904301
+2024-12-31,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-248.8084897175534
+2025-01-30,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-249.79539629255981
+2025-03-01,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-250.1506610666973
+2025-03-31,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-250.82092047363756
+2025-04-30,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-251.60399444532894
+2025-05-30,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-253.20308145724573
+2025-06-29,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-253.40180490796362
+2025-07-29,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-254.43351889066977
+2025-08-28,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-255.33321013801813
+2025-09-27,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-255.6171560072389
+2025-10-27,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-256.4656227401983
+2025-11-26,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-256.52988311533215
+2025-12-26,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-257.7510432921762
+2026-01-25,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-259.2645944714948
+2026-02-24,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-260.62726451188263
+2026-03-26,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-260.71185643625444
+2026-04-25,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-262.3611009254383
+2026-05-25,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-263.76224259065555
+2026-06-24,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-265.19658782938404
+2026-07-24,Internal Denial of Service-ALL,Solution_ML/DL_Mentions,-265.6945978360138
+2024-12-31,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-7.833011762873254
+2025-01-30,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-7.638271189405538
+2025-03-01,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-8.147933988661777
+2025-03-31,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-7.57527024819074
+2025-04-30,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-7.787438867133826
+2025-05-30,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-8.048223796757195
+2025-06-29,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-8.068346550437704
+2025-07-29,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-7.952866699557496
+2025-08-28,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-7.924049602707728
+2025-09-27,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-7.978839875779441
+2025-10-27,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-7.862477695055015
+2025-11-26,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-7.8209937518152035
+2025-12-26,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-7.883999705120907
+2026-01-25,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-8.212448898024569
+2026-02-24,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-8.292676624016561
+2026-03-26,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-7.753968432437768
+2026-04-25,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-8.383100159458158
+2026-05-25,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-8.21764025310169
+2026-06-24,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-8.092005277766575
+2026-07-24,Internal Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,-8.047019319616602

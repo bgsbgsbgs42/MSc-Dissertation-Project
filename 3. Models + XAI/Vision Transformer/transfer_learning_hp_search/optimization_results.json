@@ -1,0 +1,262 @@
+{
+  "best_hyperparameters": {
+    "embed_dim": 128,
+    "sequence_length": 12,
+    "patch_size": 4,
+    "num_heads": 8,
+    "hidden_dim": 128,
+    "num_layers": 3,
+    "dropout": 0.1,
+    "mc_dropout": 0.1,
+    "learning_rate": 0.0003,
+    "weight_decay": 0.001,
+    "batch_size": 8,
+    "num_nodes": 645,
+    "forecast_horizon": 12
+  },
+  "best_performance": 0.07313711941242218,
+  "trial_history": [
+    {
+      "iteration": 0,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 1,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 2,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 3,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 4,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 5,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 6,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 7,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 8,
+      "config": {
+        "embed_dim": 128,
+        "sequence_length": 12,
+        "patch_size": 4,
+        "num_heads": 8,
+        "hidden_dim": 256,
+        "num_layers": 3,
+        "dropout": 0.1,
+        "mc_dropout": 0.1,
+        "learning_rate": 0.0001,
+        "weight_decay": 0.001,
+        "batch_size": 4,
+        "num_nodes": 645,
+        "forecast_horizon": 12
+      },
+      "performance": 0.07447802275419235,
+      "transferred_layers": 27,
+      "status": "success"
+    },
+    {
+      "iteration": 9,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 10,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 11,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 12,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 13,
+      "config": {
+        "embed_dim": 128,
+        "sequence_length": 12,
+        "patch_size": 4,
+        "num_heads": 8,
+        "hidden_dim": 256,
+        "num_layers": 3,
+        "dropout": 0.1,
+        "mc_dropout": 0.2,
+        "learning_rate": 0.0005,
+        "weight_decay": 0.0,
+        "batch_size": 4,
+        "num_nodes": 645,
+        "forecast_horizon": 12
+      },
+      "performance": 0.07379195094108582,
+      "transferred_layers": 27,
+      "status": "success"
+    },
+    {
+      "iteration": 14,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 15,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 16,
+      "config": {
+        "embed_dim": 128,
+        "sequence_length": 12,
+        "patch_size": 4,
+        "num_heads": 8,
+        "hidden_dim": 128,
+        "num_layers": 3,
+        "dropout": 0.1,
+        "mc_dropout": 0.1,
+        "learning_rate": 0.0003,
+        "weight_decay": 0.001,
+        "batch_size": 8,
+        "num_nodes": 645,
+        "forecast_horizon": 12
+      },
+      "performance": 0.07313711941242218,
+      "transferred_layers": 23,
+      "status": "success"
+    },
+    {
+      "iteration": 17,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 18,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 19,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 20,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 21,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 22,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 23,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 24,
+      "config": {
+        "embed_dim": 128,
+        "sequence_length": 12,
+        "patch_size": 4,
+        "num_heads": 8,
+        "hidden_dim": 512,
+        "num_layers": 3,
+        "dropout": 0.2,
+        "mc_dropout": 0.1,
+        "learning_rate": 0.0001,
+        "weight_decay": 0.0,
+        "batch_size": 4,
+        "num_nodes": 645,
+        "forecast_horizon": 12
+      },
+      "performance": 0.07351452112197876,
+      "transferred_layers": 23,
+      "status": "success"
+    },
+    {
+      "iteration": 25,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 26,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 27,
+      "status": "failed",
+      "reason": "invalid_training"
+    },
+    {
+      "iteration": 28,
+      "config": {
+        "embed_dim": 128,
+        "sequence_length": 12,
+        "patch_size": 2,
+        "num_heads": 4,
+        "hidden_dim": 256,
+        "num_layers": 2,
+        "dropout": 0.1,
+        "mc_dropout": 0.2,
+        "learning_rate": 0.0003,
+        "weight_decay": 0.001,
+        "batch_size": 4,
+        "num_nodes": 645,
+        "forecast_horizon": 12
+      },
+      "performance": 0.07539674639701843,
+      "transferred_layers": 19,
+      "status": "success"
+    },
+    {
+      "iteration": 29,
+      "status": "failed",
+      "reason": "invalid_training"
+    }
+  ],
+  "transferred_from": [
+    "imputed_ONS_data",
+    "imputed_yfinance_data",
+    "monthly_attack_summary_global_terrorism_database",
+    "monthly_averages_FRED_1975",
+    "transposed_JH_covid_deaths_global"
+  ],
+  "data_dimensions": {
+    "num_nodes": 645,
+    "forecast_horizon": 12
+  },
+  "timestamp": "2025-11-14T20:53:18.629543"
+}

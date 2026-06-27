@@ -1,0 +1,43 @@
+Hyperparameter Cross-Validation Results
+==================================================
+Timestamp: 2025-11-06 20:33:19
+Number of trials: 15
+Number of folds per trial: 3
+
+
+Trial 1:
+  Config: {'forecast_horizon': 13, 'num_nodes': 645, 'sequence_length': 12, 'patch_size': 2, 'embed_dim': 256, 'num_heads': 4, 'hidden_dim': 128, 'num_layers': 2, 'dropout': 0.1312037280884873, 'mc_dropout': 0.13119890406724052, 'learning_rate': 0.00011430983876313221, 'batch_size': 4}
+  Avg Val Loss: 0.683876 ± 0.047903
+  Successful folds: 2/3
+  Fold losses: [0.635972797870636, 0.7317786812782288]
+
+Trial 2:
+  Config: {'forecast_horizon': 13, 'num_nodes': 645, 'sequence_length': 12, 'patch_size': 3, 'embed_dim': 64, 'num_heads': 8, 'hidden_dim': 256, 'num_layers': 3, 'dropout': 0.10015575316820287, 'mc_dropout': 0.2984423118582435, 'learning_rate': 0.00041445893780130236, 'batch_size': 8}
+  Avg Val Loss: 0.674547 ± 0.055796
+  Successful folds: 2/3
+  Fold losses: [0.6187502145767212, 0.7303428649902344]
+
+Trial 3:
+  Config: {'forecast_horizon': 13, 'num_nodes': 645, 'sequence_length': 8, 'patch_size': 2, 'embed_dim': 64, 'num_heads': 4, 'hidden_dim': 512, 'num_layers': 4, 'dropout': 0.1799721943430511, 'mc_dropout': 0.1093331326427231, 'learning_rate': 0.0009413595196593634, 'batch_size': 16}
+  Avg Val Loss: 0.586172 ± 0.055555
+  Successful folds: 2/3
+  Fold losses: [0.5306167006492615, 0.6417274475097656]
+
+Trial 4:
+  Config: {'forecast_horizon': 13, 'num_nodes': 645, 'sequence_length': 8, 'patch_size': 4, 'embed_dim': 256, 'num_heads': 8, 'hidden_dim': 512, 'num_layers': 4, 'dropout': 0.29664617716135766, 'mc_dropout': 0.19335257864959599, 'learning_rate': 0.0007243365608351743, 'batch_size': 16}
+  Avg Val Loss: 0.595996 ± 0.038649
+  Successful folds: 2/3
+  Fold losses: [0.5573478937149048, 0.6346449851989746]
+
+Trial 5:
+  Config: {'forecast_horizon': 13, 'num_nodes': 645, 'sequence_length': 6, 'patch_size': 2, 'embed_dim': 256, 'num_heads': 8, 'hidden_dim': 128, 'num_layers': 3, 'dropout': 0.26167946962329225, 'mc_dropout': 0.16092275383467414, 'learning_rate': 0.00012521954287060395, 'batch_size': 16}
+  Avg Val Loss: 0.577858 ± 0.034276
+  Successful folds: 2/3
+  Fold losses: [0.5435817241668701, 0.6121340990066528]
+
+==================================================
+FINAL HYPERPARAMETER OPTIMIZATION RESULTS
+==================================================
+Best validation loss: 0.577858
+Best configuration: {'forecast_horizon': 13, 'num_nodes': 645, 'sequence_length': 6, 'patch_size': 2, 'embed_dim': 256, 'num_heads': 8, 'hidden_dim': 128, 'num_layers': 3, 'dropout': 0.26167946962329225, 'mc_dropout': 0.16092275383467414, 'learning_rate': 0.00012521954287060395, 'batch_size': 16}
+Successful trials: 5/15

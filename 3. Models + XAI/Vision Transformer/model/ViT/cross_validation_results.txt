@@ -1,0 +1,86 @@
+CROSS-VALIDATION RESULTS - FINAL MODEL
+============================================================
+Timestamp: 2025-11-06 20:34:59
+Number of folds: 5
+Ensemble model created: True
+Configuration: {'forecast_horizon': 13, 'num_nodes': 645, 'sequence_length': 6, 'patch_size': 2, 'embed_dim': 256, 'num_heads': 8, 'hidden_dim': 128, 'num_layers': 3, 'dropout': 0.26167946962329225, 'mc_dropout': 0.16092275383467414, 'learning_rate': 0.00012521954287060395, 'batch_size': 16}
+
+FOLD-WISE RESULTS:
+----------------------------------------
+Fold 1:
+  Train size: 85
+  Val size: 8
+  Test size: 15
+  Best Val Loss: 0.514849
+  Test Loss: 1.719605
+  MSE: 1.719605
+  RMSE: 1.311337
+  MAE: 0.925234
+  RSE: 1.035637
+  RAE: 0.997847
+
+Fold 2:
+  Train size: 84
+  Val size: 9
+  Test size: 15
+  Best Val Loss: 0.538007
+  Test Loss: 1.686061
+  MSE: 1.686061
+  RMSE: 1.298484
+  MAE: 0.911876
+  RSE: 1.025486
+  RAE: 0.983441
+
+Fold 3:
+  Train size: 85
+  Val size: 8
+  Test size: 15
+  Best Val Loss: 0.607738
+  Test Loss: 1.670038
+  MSE: 1.670038
+  RMSE: 1.292300
+  MAE: 0.908490
+  RSE: 1.020602
+  RAE: 0.979789
+
+Fold 4:
+  Train size: 85
+  Val size: 8
+  Test size: 15
+  Best Val Loss: 0.499600
+  Test Loss: 1.725055
+  MSE: 1.725055
+  RMSE: 1.313413
+  MAE: 0.922727
+  RSE: 1.037277
+  RAE: 0.995144
+
+Fold 5:
+  Train size: 87
+  Val size: 6
+  Test size: 15
+  Best Val Loss: 0.535252
+  Test Loss: 1.667354
+  MSE: 1.667354
+  RMSE: 1.291261
+  MAE: 0.905313
+  RSE: 1.019781
+  RAE: 0.976363
+
+AGGREGATED RESULTS:
+----------------------------------------
+Average Metrics across all folds (mean ± std):
+  MSE: 1.693623 ± 0.024358
+  RMSE: 1.301359 ± 0.009351
+  MAE: 0.914728 ± 0.007874
+  RSE: 1.027757 ± 0.007385
+  RAE: 0.986517 ± 0.008492
+
+STATISTICAL SUMMARY:
+----------------------------------------
+Total training samples: 426
+Total validation samples: 39
+Total test samples: 75
+Average fold train size: 85.2
+Average fold val size: 7.8
+Average fold test size: 15.0

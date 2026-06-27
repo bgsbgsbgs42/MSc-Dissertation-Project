@@ -1,0 +1,111 @@
+Hyperparameter Optimization with K-Fold Cross Validation
+======================================================================
+
+Trial 1:
+Parameters: {'channels': 32, 'num_layers': 8, 'pe_dim': 16, 'dropout': 0.3, 'lr': 0.001, 'attn_type': 'multihead'}
+Average MSE: 1809984196531541.250000
+Average RSE: 26046174.401907
+Average RAE: 157938662.666667
+Fold-wise metrics:
+  Fold 1: MSE=18521954189312.000000, RSE=5244048.915719, RAE=34418396.000000
+  Fold 2: MSE=5368332236619776.000000, RSE=67037870.329614, RAE=400289952.000000
+  Fold 3: MSE=43098398785536.000000, RSE=5856603.960388, RAE=39107640.000000
+--------------------------------------------------
+Trial 2:
+Parameters: {'channels': 64, 'num_layers': 8, 'pe_dim': 8, 'dropout': 0.1, 'lr': 0.0001, 'attn_type': 'performer'}
+Average MSE: 244096347493717.343750
+Average RSE: 14433865.024932
+Average RAE: 88472312.666667
+Fold-wise metrics:
+  Fold 1: MSE=254165997584384.000000, RSE=19425940.591094, RAE=129302088.000000
+  Fold 2: MSE=454016798556160.000000, RSE=19495594.235447, RAE=108395432.000000
+  Fold 3: MSE=24106246340608.000000, RSE=4380060.248254, RAE=27719418.000000
+--------------------------------------------------
+Trial 3:
+Parameters: {'channels': 32, 'num_layers': 5, 'pe_dim': 16, 'dropout': 0.2, 'lr': 0.0005, 'attn_type': 'multihead'}
+Average MSE: 41140439210.666664
+Average RSE: 173583.705652
+Average RAE: 1118625.968750
+Fold-wise metrics:
+  Fold 1: MSE=116661616640.000000, RSE=416185.865289, RAE=2795786.000000
+  Fold 2: MSE=4118579456.000000, RSE=58718.403726, RAE=261470.937500
+  Fold 3: MSE=2641121536.000000, RSE=45846.847939, RAE=298620.968750
+--------------------------------------------------
+Trial 4:
+Parameters: {'channels': 32, 'num_layers': 3, 'pe_dim': 16, 'dropout': 0.3, 'lr': 0.0005, 'attn_type': 'performer'}
+Average MSE: 498087146.666667
+Average RSE: 22426.173941
+Average RAE: 150455.895833
+Fold-wise metrics:
+  Fold 1: MSE=571678528.000000, RSE=29133.943356, RAE=204474.875000
+  Fold 2: MSE=639838912.000000, RSE=23143.862497, RAE=152027.343750
+  Fold 3: MSE=282744000.000000, RSE=15000.715970, RAE=94865.468750
+--------------------------------------------------
+Trial 5:
+Parameters: {'channels': 32, 'num_layers': 5, 'pe_dim': 8, 'dropout': 0.2, 'lr': 0.0005, 'attn_type': 'multihead'}
+Average MSE: 337722905770.666687
+Average RSE: 446980.438219
+Average RAE: 2329162.875000
+Fold-wise metrics:
+  Fold 1: MSE=7360609792.000000, RSE=104539.454306, RAE=571894.750000
+  Fold 2: MSE=258538455040.000000, RSE=465225.049609, RAE=1541598.875000
+  Fold 3: MSE=747269652480.000000, RSE=771176.810743, RAE=4873995.000000
+--------------------------------------------------
+Trial 6:
+Parameters: {'channels': 128, 'num_layers': 5, 'pe_dim': 4, 'dropout': 0.3, 'lr': 0.0001, 'attn_type': 'performer'}
+Average MSE: 89692233728.000000
+Average RSE: 264333.215315
+Average RAE: 1535151.416667
+Fold-wise metrics:
+  Fold 1: MSE=22397239296.000000, RSE=182356.217893, RAE=1258047.000000
+  Fold 2: MSE=190679040000.000000, RSE=399532.391274, RAE=2032552.750000
+  Fold 3: MSE=56000421888.000000, RSE=211111.036779, RAE=1314854.500000
+--------------------------------------------------
+Trial 7:
+Parameters: {'channels': 64, 'num_layers': 5, 'pe_dim': 16, 'dropout': 0.1, 'lr': 0.001, 'attn_type': 'multihead'}
+Average MSE: 35652916736.000000
+Average RSE: 167600.378417
+Average RAE: 919616.354167
+Fold-wise metrics:
+  Fold 1: MSE=6488068608.000000, RSE=98147.908203, RAE=560961.000000
+  Fold 2: MSE=55958536192.000000, RSE=216438.088085, RAE=983779.937500
+  Fold 3: MSE=44512145408.000000, RSE=188215.138962, RAE=1214108.125000
+--------------------------------------------------
+Trial 8:
+Parameters: {'channels': 32, 'num_layers': 3, 'pe_dim': 4, 'dropout': 0.1, 'lr': 0.001, 'attn_type': 'multihead'}
+Average MSE: 56936139.687500
+Average RSE: 6891.789436
+Average RAE: 45289.487956
+Fold-wise metrics:
+  Fold 1: MSE=93152712.000000, RSE=11760.372634, RAE=84105.000000
+  Fold 2: MSE=76624584.000000, RSE=8009.115950, RAE=45971.546875
+  Fold 3: MSE=1031123.062500, RSE=905.879725, RAE=5791.916992
+--------------------------------------------------
+Trial 9:
+Parameters: {'channels': 32, 'num_layers': 8, 'pe_dim': 16, 'dropout': 0.1, 'lr': 0.001, 'attn_type': 'multihead'}
+Average MSE: 167544044038826.656250
+Average RSE: 9061497.966531
+Average RAE: 53084575.333333
+Fold-wise metrics:
+  Fold 1: MSE=10513739153408.000000, RSE=3950953.607514, RAE=26969728.000000
+  Fold 2: MSE=479217988927488.000000, RSE=20029359.996185, RAE=111096736.000000
+  Fold 3: MSE=12900404035584.000000, RSE=3204180.295894, RAE=21187262.000000
+--------------------------------------------------
+Trial 10:
+Parameters: {'channels': 32, 'num_layers': 8, 'pe_dim': 8, 'dropout': 0.3, 'lr': 0.0005, 'attn_type': 'multihead'}
+Average MSE: 132097642943829.328125
+Average RSE: 9456395.837717
+Average RAE: 58461349.333333
+Fold-wise metrics:
+  Fold 1: MSE=49724291809280.000000, RSE=8592264.436286, RAE=59321452.000000
+  Fold 2: MSE=335035936800768.000000, RSE=16747354.477571, RAE=96938984.000000
+  Fold 3: MSE=11532700221440.000000, RSE=3029568.599294, RAE=19123612.000000
+--------------------------------------------------
+
+BEST TRIAL SUMMARY:
+==============================
+Trial: 8
+Parameters: {'channels': 32, 'num_layers': 3, 'pe_dim': 4, 'dropout': 0.1, 'lr': 0.001, 'attn_type': 'multihead'}
+Average MSE: 56936139.687500
+Average RSE: 6891.789436
+Average RAE: 45289.487956

@@ -1,0 +1,660 @@
+{
+  "start_time": "2025-11-18T13:21:52.854689",
+  "data_info": {
+    "file": "./data/sm_data_g.csv",
+    "shape": [
+      138,
+      123
+    ],
+    "nodes": 123,
+    "time_steps": 138,
+    "sequence_length": 18,
+    "forecast_horizon": 36,
+    "feature_names": [
+      "DDoS-ALL",
+      "Phishing-ALL",
+      "Ransomware-ALL",
+      "Password Attack-ALL",
+      "Account Hijacking-ALL",
+      "Trojan-ALL",
+      "Vulnerability-ALL",
+      "Zero-day-ALL",
+      "Advanced persistent threat-ALL",
+      "Malware-ALL",
+      "..."
+    ]
+  },
+  "search_space": {
+    "channels": [
+      32,
+      64,
+      96
+    ],
+    "num_layers": [
+      2,
+      3,
+      4
+    ],
+    "pe_dim": [
+      4,
+      8,
+      12
+    ],
+    "pe_walk_length": [
+      20
+    ],
+    "node_dim": [
+      1
+    ],
+    "num_heads": [
+      4,
+      6,
+      8
+    ],
+    "attn_dropout": [
+      0.1,
+      0.2
+    ],
+    "dropout": [
+      0.1,
+      0.2,
+      0.3
+    ],
+    "weight_decay": [
+      1e-05,
+      0.0001
+    ],
+    "learning_rate": [
+      0.0001,
+      0.0005,
+      0.001
+    ],
+    "batch_size": [
+      8,
+      16,
+      32
+    ],
+    "forecast_horizon": [
+      36
+    ],
+    "sequence_length": [
+      12,
+      18,
+      24
+    ],
+    "correlation_threshold": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "local_gnn_type": [
+      "GINE",
+      "GCN"
+    ],
+    "num_nodes": [
+      123
+    ]
+  },
+  "iterations": [
+    {
+      "iteration": 1,
+      "hyperparameters": {
+        "channels": 32,
+        "num_layers": 3,
+        "pe_dim": 4,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_dropout": 0.1,
+        "dropout": 0.2,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.0005,
+        "batch_size": 8,
+        "forecast_horizon": 36,
+        "sequence_length": 12,
+        "correlation_threshold": 0.3,
+        "local_gnn_type": "GCN",
+        "num_nodes": 123
+      },
+      "status": "success - new best",
+      "training_loss": 0.04354962659999728,
+      "validation_metrics": {
+        "rrse": 0.5288882255554199,
+        "rae": 0.24489060044288635
+      }
+    },
+    {
+      "iteration": 2,
+      "hyperparameters": {
+        "channels": 96,
+        "num_layers": 2,
+        "pe_dim": 4,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_dropout": 0.2,
+        "dropout": 0.1,
+        "weight_decay": 1e-05,
+        "learning_rate": 0.0005,
+        "batch_size": 32,
+        "forecast_horizon": 36,
+        "sequence_length": 12,
+        "correlation_threshold": 0.2,
+        "local_gnn_type": "GINE",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.16287042200565338,
+      "validation_metrics": {
+        "rrse": 0.9708280563354492,
+        "rae": 0.5508657693862915
+      }
+    },
+    {
+      "iteration": 3,
+      "hyperparameters": {
+        "channels": 96,
+        "num_layers": 2,
+        "pe_dim": 4,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 6,
+        "attn_dropout": 0.2,
+        "dropout": 0.2,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.0001,
+        "batch_size": 16,
+        "forecast_horizon": 36,
+        "sequence_length": 24,
+        "correlation_threshold": 0.3,
+        "local_gnn_type": "GINE",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.21622563153505325,
+      "validation_metrics": {
+        "rrse": 1.0100988149642944,
+        "rae": 0.5749078989028931
+      }
+    },
+    {
+      "iteration": 4,
+      "hyperparameters": {
+        "channels": 96,
+        "num_layers": 4,
+        "pe_dim": 12,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 6,
+        "attn_dropout": 0.2,
+        "dropout": 0.3,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.001,
+        "batch_size": 32,
+        "forecast_horizon": 36,
+        "sequence_length": 18,
+        "correlation_threshold": 0.4,
+        "local_gnn_type": "GINE",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.16532813757658005,
+      "validation_metrics": {
+        "rrse": 0.9254864454269409,
+        "rae": 0.5229608416557312
+      }
+    },
+    {
+      "iteration": 5,
+      "hyperparameters": {
+        "channels": 96,
+        "num_layers": 2,
+        "pe_dim": 12,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 8,
+        "attn_dropout": 0.2,
+        "dropout": 0.1,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.0005,
+        "batch_size": 32,
+        "forecast_horizon": 36,
+        "sequence_length": 12,
+        "correlation_threshold": 0.4,
+        "local_gnn_type": "GCN",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.16292285174131393,
+      "validation_metrics": {
+        "rrse": 0.9772407412528992,
+        "rae": 0.5546371936798096
+      }
+    },
+    {
+      "iteration": 6,
+      "hyperparameters": {
+        "channels": 64,
+        "num_layers": 4,
+        "pe_dim": 8,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 8,
+        "attn_dropout": 0.1,
+        "dropout": 0.3,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.0001,
+        "batch_size": 16,
+        "forecast_horizon": 36,
+        "sequence_length": 18,
+        "correlation_threshold": 0.4,
+        "local_gnn_type": "GINE",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.20234223455190659,
+      "validation_metrics": {
+        "rrse": 1.1036823987960815,
+        "rae": 0.5682823061943054
+      }
+    },
+    {
+      "iteration": 7,
+      "hyperparameters": {
+        "channels": 96,
+        "num_layers": 3,
+        "pe_dim": 8,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_dropout": 0.1,
+        "dropout": 0.3,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.0005,
+        "batch_size": 16,
+        "forecast_horizon": 36,
+        "sequence_length": 12,
+        "correlation_threshold": 0.2,
+        "local_gnn_type": "GCN",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.11546868644654751,
+      "validation_metrics": {
+        "rrse": 0.9250016808509827,
+        "rae": 0.5223225951194763
+      }
+    },
+    {
+      "iteration": 8,
+      "hyperparameters": {
+        "channels": 32,
+        "num_layers": 2,
+        "pe_dim": 8,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 6,
+        "attn_dropout": 0.2,
+        "dropout": 0.1,
+        "weight_decay": 1e-05,
+        "learning_rate": 0.001,
+        "batch_size": 8,
+        "forecast_horizon": 36,
+        "sequence_length": 24,
+        "correlation_threshold": 0.2,
+        "local_gnn_type": "GINE",
+        "num_nodes": 123
+      },
+      "status": "failed",
+      "training_loss": null,
+      "validation_metrics": null,
+      "error": "embed_dim must be divisible by num_heads"
+    },
+    {
+      "iteration": 9,
+      "hyperparameters": {
+        "channels": 64,
+        "num_layers": 2,
+        "pe_dim": 12,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 8,
+        "attn_dropout": 0.2,
+        "dropout": 0.1,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.0005,
+        "batch_size": 16,
+        "forecast_horizon": 36,
+        "sequence_length": 24,
+        "correlation_threshold": 0.3,
+        "local_gnn_type": "GCN",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.058954634703695774,
+      "validation_metrics": {
+        "rrse": 0.5418338775634766,
+        "rae": 0.25209641456604004
+      }
+    },
+    {
+      "iteration": 10,
+      "hyperparameters": {
+        "channels": 64,
+        "num_layers": 2,
+        "pe_dim": 12,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_dropout": 0.1,
+        "dropout": 0.2,
+        "weight_decay": 1e-05,
+        "learning_rate": 0.001,
+        "batch_size": 8,
+        "forecast_horizon": 36,
+        "sequence_length": 24,
+        "correlation_threshold": 0.3,
+        "local_gnn_type": "GCN",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.027455183810421398,
+      "validation_metrics": {
+        "rrse": 0.5378395318984985,
+        "rae": 0.26425233483314514
+      }
+    },
+    {
+      "iteration": 11,
+      "hyperparameters": {
+        "channels": 32,
+        "num_layers": 4,
+        "pe_dim": 8,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_dropout": 0.2,
+        "dropout": 0.3,
+        "weight_decay": 1e-05,
+        "learning_rate": 0.001,
+        "batch_size": 8,
+        "forecast_horizon": 36,
+        "sequence_length": 18,
+        "correlation_threshold": 0.2,
+        "local_gnn_type": "GINE",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.07935281523636409,
+      "validation_metrics": {
+        "rrse": 0.7430046200752258,
+        "rae": 0.40847712755203247
+      }
+    },
+    {
+      "iteration": 12,
+      "hyperparameters": {
+        "channels": 64,
+        "num_layers": 4,
+        "pe_dim": 4,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 8,
+        "attn_dropout": 0.2,
+        "dropout": 0.2,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.0001,
+        "batch_size": 8,
+        "forecast_horizon": 36,
+        "sequence_length": 24,
+        "correlation_threshold": 0.4,
+        "local_gnn_type": "GINE",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.19506265010152543,
+      "validation_metrics": {
+        "rrse": 0.9700397849082947,
+        "rae": 0.5533555150032043
+      }
+    },
+    {
+      "iteration": 13,
+      "hyperparameters": {
+        "channels": 64,
+        "num_layers": 4,
+        "pe_dim": 4,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 8,
+        "attn_dropout": 0.2,
+        "dropout": 0.1,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.001,
+        "batch_size": 8,
+        "forecast_horizon": 36,
+        "sequence_length": 18,
+        "correlation_threshold": 0.3,
+        "local_gnn_type": "GCN",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.08006644674709865,
+      "validation_metrics": {
+        "rrse": 0.7499008774757385,
+        "rae": 0.41597622632980347
+      }
+    },
+    {
+      "iteration": 14,
+      "hyperparameters": {
+        "channels": 32,
+        "num_layers": 4,
+        "pe_dim": 4,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_dropout": 0.1,
+        "dropout": 0.2,
+        "weight_decay": 1e-05,
+        "learning_rate": 0.0001,
+        "batch_size": 32,
+        "forecast_horizon": 36,
+        "sequence_length": 12,
+        "correlation_threshold": 0.3,
+        "local_gnn_type": "GINE",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.6438316404819489,
+      "validation_metrics": {
+        "rrse": 1.9078205823898315,
+        "rae": 0.8837468028068542
+      }
+    },
+    {
+      "iteration": 15,
+      "hyperparameters": {
+        "channels": 96,
+        "num_layers": 2,
+        "pe_dim": 8,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_dropout": 0.2,
+        "dropout": 0.3,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.0005,
+        "batch_size": 16,
+        "forecast_horizon": 36,
+        "sequence_length": 24,
+        "correlation_threshold": 0.2,
+        "local_gnn_type": "GINE",
+        "num_nodes": 123
+      },
+      "status": "success - new best",
+      "training_loss": 0.07314846478402615,
+      "validation_metrics": {
+        "rrse": 0.48350605368614197,
+        "rae": 0.2212565690279007
+      }
+    },
+    {
+      "iteration": 16,
+      "hyperparameters": {
+        "channels": 96,
+        "num_layers": 4,
+        "pe_dim": 8,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 8,
+        "attn_dropout": 0.1,
+        "dropout": 0.2,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.0005,
+        "batch_size": 32,
+        "forecast_horizon": 36,
+        "sequence_length": 18,
+        "correlation_threshold": 0.3,
+        "local_gnn_type": "GINE",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.1922139748930931,
+      "validation_metrics": {
+        "rrse": 0.97055584192276,
+        "rae": 0.5515784621238708
+      }
+    },
+    {
+      "iteration": 17,
+      "hyperparameters": {
+        "channels": 64,
+        "num_layers": 3,
+        "pe_dim": 4,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 4,
+        "attn_dropout": 0.2,
+        "dropout": 0.2,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.0001,
+        "batch_size": 32,
+        "forecast_horizon": 36,
+        "sequence_length": 18,
+        "correlation_threshold": 0.2,
+        "local_gnn_type": "GCN",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.2713298201560974,
+      "validation_metrics": {
+        "rrse": 1.0152137279510498,
+        "rae": 0.5785430669784546
+      }
+    },
+    {
+      "iteration": 18,
+      "hyperparameters": {
+        "channels": 32,
+        "num_layers": 3,
+        "pe_dim": 12,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 6,
+        "attn_dropout": 0.1,
+        "dropout": 0.3,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.0005,
+        "batch_size": 8,
+        "forecast_horizon": 36,
+        "sequence_length": 24,
+        "correlation_threshold": 0.4,
+        "local_gnn_type": "GCN",
+        "num_nodes": 123
+      },
+      "status": "failed",
+      "training_loss": null,
+      "validation_metrics": null,
+      "error": "embed_dim must be divisible by num_heads"
+    },
+    {
+      "iteration": 19,
+      "hyperparameters": {
+        "channels": 32,
+        "num_layers": 4,
+        "pe_dim": 8,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 8,
+        "attn_dropout": 0.2,
+        "dropout": 0.1,
+        "weight_decay": 0.0001,
+        "learning_rate": 0.001,
+        "batch_size": 32,
+        "forecast_horizon": 36,
+        "sequence_length": 18,
+        "correlation_threshold": 0.2,
+        "local_gnn_type": "GINE",
+        "num_nodes": 123
+      },
+      "status": "success",
+      "training_loss": 0.16507574915885925,
+      "validation_metrics": {
+        "rrse": 0.9353681802749634,
+        "rae": 0.5287184119224548
+      }
+    },
+    {
+      "iteration": 20,
+      "hyperparameters": {
+        "channels": 32,
+        "num_layers": 2,
+        "pe_dim": 8,
+        "pe_walk_length": 20,
+        "node_dim": 1,
+        "num_heads": 6,
+        "attn_dropout": 0.1,
+        "dropout": 0.2,
+        "weight_decay": 1e-05,
+        "learning_rate": 0.0005,
+        "batch_size": 16,
+        "forecast_horizon": 36,
+        "sequence_length": 24,
+        "correlation_threshold": 0.2,
+        "local_gnn_type": "GCN",
+        "num_nodes": 123
+      },
+      "status": "failed",
+      "training_loss": null,
+      "validation_metrics": null,
+      "error": "embed_dim must be divisible by num_heads"
+    }
+  ],
+  "best_results": {
+    "hyperparameters": {
+      "channels": 96,
+      "num_layers": 2,
+      "pe_dim": 8,
+      "pe_walk_length": 20,
+      "node_dim": 1,
+      "num_heads": 4,
+      "attn_dropout": 0.2,
+      "dropout": 0.3,
+      "weight_decay": 0.0001,
+      "learning_rate": 0.0005,
+      "batch_size": 16,
+      "forecast_horizon": 36,
+      "sequence_length": 24,
+      "correlation_threshold": 0.2,
+      "local_gnn_type": "GINE",
+      "num_nodes": 123
+    },
+    "validation_rrse": 0.48350605368614197,
+    "validation_rae": 0.2212565690279007,
+    "model_saved": true
+  },
+  "total_successful": 17,
+  "total_failed": 3,
+  "end_time": "2025-11-18T13:50:24.791517"
+}

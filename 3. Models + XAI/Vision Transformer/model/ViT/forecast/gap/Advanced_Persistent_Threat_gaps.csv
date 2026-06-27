@@ -1,0 +1,505 @@
+Date,Attack,Technology,Gap
+2025-11-04,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.4861987485731056
+2025-12-04,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.8157841987399785
+2026-01-03,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.707869915090968
+2026-02-02,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.5922576197103564
+2026-03-04,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.46251738137684
+2026-04-03,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.4259143317982748
+2026-05-03,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-1.8892092613862825
+2026-06-02,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.8082078833644526
+2026-07-02,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.7929386773374314
+2026-08-01,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.0591934349650085
+2026-08-31,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.7481843725437782
+2026-09-30,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-1.8453319802125931
+2026-10-30,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.715688376122991
+2026-11-29,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.0608121046333343
+2026-12-29,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.0320375817477836
+2027-01-28,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.6791201584230624
+2027-02-27,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.0658270328159842
+2027-03-29,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.184740400847971
+2027-04-28,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.448387267394906
+2027-05-28,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.1719557322502676
+2027-06-27,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.518356636703881
+2027-07-27,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.6109174170175993
+2027-08-26,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.6727831264495405
+2027-09-25,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-1.822602732668735
+2027-10-25,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.705886865798067
+2027-11-24,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.8071949334853303
+2027-12-24,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.0879171242911347
+2028-01-23,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.038152880536177
+2028-02-22,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.436197747596717
+2028-03-23,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.1794655663255096
+2028-04-22,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.5619346749696748
+2028-05-22,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.344561444929416
+2028-06-21,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-2.619392517517181
+2028-07-21,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.428319223354459
+2028-08-20,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.5723811649973123
+2028-09-19,Advanced persistent threat-ALL,Solution_MULTI FACTOR AUTHENTICATION_Mentions,-3.1475469249861234
+2025-11-04,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.4155857369785143
+2025-12-04,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.6777478342427322
+2026-01-03,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.47780475305885384
+2026-02-02,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.07129083020522373
+2026-03-04,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.740582288409849
+2026-04-03,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.2797467819836629
+2026-05-03,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.4524290717455469
+2026-06-02,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,0.1551754170785247
+2026-07-02,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.5990248505968274
+2026-08-01,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,0.10869880533403647
+2026-08-31,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.4792785846874448
+2026-09-30,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.4908158247189355
+2026-10-30,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,0.02906422450667101
+2026-11-29,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.4729172162814721
+2026-12-29,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.4411999670296376
+2027-01-28,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.4056885345149399
+2027-02-27,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.7349568222569912
+2027-03-29,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.5655353979495001
+2027-04-28,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.3452674469917643
+2027-05-28,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.35945928189477977
+2027-06-27,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.9793548671555765
+2027-07-27,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.49739512457853274
+2027-08-26,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-1.0082838873080264
+2027-09-25,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.5227460222385776
+2027-10-25,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.1667802046007142
+2027-11-24,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.22675285967573994
+2027-12-24,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.7266563191017991
+2028-01-23,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.29348679051346127
+2028-02-22,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.44102119227125935
+2028-03-23,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.39530151596226715
+2028-04-22,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.3380999079960648
+2028-05-22,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.34460765302924007
+2028-06-21,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.4033187830845103
+2028-07-21,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.44446474303933203
+2028-08-20,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.09847941879015126
+2028-09-19,Advanced persistent threat-ALL,Solution_USER BEHAVIOR ANALYTICS_Mentions,-0.4893105621503751
+2025-11-04,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.8307569080839416
+2025-12-04,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.0843462643361361
+2026-01-03,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.8787035056344132
+2026-02-02,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.0386887792750936
+2026-03-04,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.9475685920110488
+2026-04-03,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.6937023411773018
+2026-05-03,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.8913678927319795
+2026-06-02,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.9023033982170887
+2026-07-02,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.8440573678140567
+2026-08-01,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.7331913080566405
+2026-08-31,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.4794674577313285
+2026-09-30,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.019459955234283
+2026-10-30,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.8350352857624522
+2026-11-29,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.8988486667701562
+2026-12-29,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.1851713320503916
+2027-01-28,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.4943130505460707
+2027-02-27,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.4304352536893379
+2027-03-29,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.6964551493576125
+2027-04-28,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.8090680855126167
+2027-05-28,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.9367609582361781
+2027-06-27,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.1897081748063982
+2027-07-27,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.2555414850454725
+2027-08-26,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.6306063996082387
+2027-09-25,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.1321176035596179
+2027-10-25,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.8998937182481839
+2027-11-24,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.4452292370770254
+2027-12-24,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.6505168131550901
+2028-01-23,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.9791768097207731
+2028-02-22,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.2184218742642816
+2028-03-23,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.2789889214841712
+2028-04-22,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.3498528588569192
+2028-05-22,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.072505187873496
+2028-06-21,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.2778875471777378
+2028-07-21,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-1.3522654896304784
+2028-08-20,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.6988581979109512
+2028-09-19,Advanced persistent threat-ALL,Solution_DATA LOSS PREVENTION_Mentions,-0.561605984258513
+2025-11-04,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-88.0051637056506
+2025-12-04,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-104.263105650733
+2026-01-03,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-112.44521267583
+2026-02-02,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-127.94751801072098
+2026-03-04,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-100.20361428658248
+2026-04-03,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-83.21626038245813
+2026-05-03,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-140.64584142960055
+2026-06-02,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-116.08013047392689
+2026-07-02,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-68.25368251858595
+2026-08-01,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-107.96408754194835
+2026-08-31,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-93.04469149782061
+2026-09-30,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-111.03751477144395
+2026-10-30,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-124.7034721175098
+2026-11-29,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-119.5893388520745
+2026-12-29,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-158.90864301821003
+2027-01-28,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-132.22369398520092
+2027-02-27,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-110.38244070061488
+2027-03-29,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-135.3222907846748
+2027-04-28,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-111.0917414589123
+2027-05-28,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-120.31139095397674
+2027-06-27,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-112.41907571585706
+2027-07-27,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-60.311885034928274
+2027-08-26,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-104.98405301521453
+2027-09-25,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-96.91505304112715
+2027-10-25,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-114.92128621848742
+2027-11-24,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-120.93605228548994
+2027-12-24,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-140.55299779627808
+2028-01-23,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-122.98209137460324
+2028-02-22,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-127.88524616430851
+2028-03-23,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-104.96484553708518
+2028-04-22,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-114.83760407586848
+2028-05-22,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-112.45954398428938
+2028-06-21,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-167.72439857095736
+2028-07-21,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-143.78763498911616
+2028-08-20,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-101.76777354620991
+2028-09-19,Advanced persistent threat-ALL,Solution_DECEPTION TECHNOLOGY_Mentions,-116.50588672525456
+2025-11-04,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-21.992243149509715
+2025-12-04,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-16.00917265609251
+2026-01-03,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-20.796981921453792
+2026-02-02,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-16.351112385265434
+2026-03-04,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-20.853235225012497
+2026-04-03,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-20.319826816192297
+2026-05-03,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-21.787802866847358
+2026-06-02,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-18.739527417214234
+2026-07-02,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-21.404477431516074
+2026-08-01,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-25.000327041518734
+2026-08-31,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-18.141517320779062
+2026-09-30,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-22.345458742826565
+2026-10-30,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-24.02857535094896
+2026-11-29,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-14.491575750608042
+2026-12-29,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-23.866373075917842
+2027-01-28,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-22.766923817789824
+2027-02-27,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-16.3172000371672
+2027-03-29,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-23.120456624384612
+2027-04-28,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-19.165950033129068
+2027-05-28,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-24.236787067299797
+2027-06-27,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-22.455341302911847
+2027-07-27,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-22.732245873791214
+2027-08-26,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-16.488406912231948
+2027-09-25,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-16.25769223803682
+2027-10-25,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-18.516723881774258
+2027-11-24,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-18.280612846592646
+2027-12-24,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-26.026094820053096
+2028-01-23,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-21.008105623005545
+2028-02-22,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-19.63412964673482
+2028-03-23,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-24.550771196421138
+2028-04-22,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-16.775141965626936
+2028-05-22,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-16.965150829255908
+2028-06-21,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-19.929403174877542
+2028-07-21,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-21.886940748272256
+2028-08-20,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-21.252794204009223
+2028-09-19,Advanced persistent threat-ALL,Solution_IDS/IPS_Mentions,-18.644841267818602
+2025-11-04,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.09459931047360237
+2025-12-04,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.09809644226334174
+2026-01-03,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.06499636941851863
+2026-02-02,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.003423885101933477
+2026-03-04,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.13479351332137673
+2026-04-03,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.1197554519758679
+2026-05-03,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.17414529567435091
+2026-06-02,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.06921996960568993
+2026-07-02,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.047706148779005225
+2026-08-01,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.07641277416871728
+2026-08-31,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.04755396367998216
+2026-09-30,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.1925649202436041
+2026-10-30,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.07486919924310487
+2026-11-29,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.14036418626366495
+2026-12-29,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.29357073346465173
+2027-01-28,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.20680137995325137
+2027-02-27,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.0051882109844440805
+2027-03-29,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.13850053715785043
+2027-04-28,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.019182026433311572
+2027-05-28,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.10487371177197309
+2027-06-27,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.08168660034573874
+2027-07-27,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.11096408260130236
+2027-08-26,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.2675080874808457
+2027-09-25,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.056801053701661275
+2027-10-25,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.13415409345659368
+2027-11-24,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.16915260521770076
+2027-12-24,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.06695212878446893
+2028-01-23,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.0803337744133984
+2028-02-22,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.09690826586430354
+2028-03-23,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.011970059025339208
+2028-04-22,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.05789108471628027
+2028-05-22,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.26968603529217533
+2028-06-21,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.09270679834571313
+2028-07-21,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.05477049810508339
+2028-08-20,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,0.0009857074851379044
+2028-09-19,Advanced persistent threat-ALL,Solution_NETWORK SEGMENTATION_Mentions,-0.16932152073887224
+2025-11-04,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.1509863718058576
+2025-12-04,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.5584727794524644
+2026-01-03,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.05445080904210764
+2026-02-02,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.28659175486023647
+2026-03-04,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.2867717953215492
+2026-04-03,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.09378951758725629
+2026-05-03,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.1812572158487167
+2026-06-02,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.6688853472810813
+2026-07-02,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.4723379542009526
+2026-08-01,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.050420121942723495
+2026-08-31,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.5168601416565557
+2026-09-30,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.4601684190261055
+2026-10-30,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.7267966080272753
+2026-11-29,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.5312430640452079
+2026-12-29,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.6425249152012271
+2027-01-28,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.10480773524500958
+2027-02-27,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.7746485140800946
+2027-03-29,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,0.024470998065863114
+2027-04-28,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.2245872591984222
+2027-05-28,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.7606357925170987
+2027-06-27,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.3711944417470189
+2027-07-27,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.6617669046067152
+2027-08-26,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,0.010357031815781362
+2027-09-25,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.35791127063389905
+2027-10-25,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.5319284689739892
+2027-11-24,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.3381699498453274
+2027-12-24,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.45245991409305675
+2028-01-23,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.42030368595882595
+2028-02-22,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.549321275221772
+2028-03-23,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.33602779186188225
+2028-04-22,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.7327039354359645
+2028-05-22,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.38115605589733076
+2028-06-21,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.49230530254964955
+2028-07-21,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.29791003294744023
+2028-08-20,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.2443356049997955
+2028-09-19,Advanced persistent threat-ALL,Solution_RISK ASSESSMENT_Mentions,-0.538859994965221
+2025-11-04,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.28752439534700613
+2025-12-04,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.5831764066265177
+2026-01-03,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.22563346604339796
+2026-02-02,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.41581856145037455
+2026-03-04,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.4648073967425101
+2026-04-03,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.46097268767198757
+2026-05-03,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.4957649026661055
+2026-06-02,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.550076033742044
+2026-07-02,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.5919372216878738
+2026-08-01,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.3101329756878486
+2026-08-31,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.4549129394927267
+2026-09-30,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.45718876943623155
+2026-10-30,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.14019518225207678
+2026-11-29,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.6901599008839087
+2026-12-29,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.21361602470191698
+2027-01-28,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.6571187415521709
+2027-02-27,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.3003790075563375
+2027-03-29,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.5313033599826156
+2027-04-28,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.27493482669323765
+2027-05-28,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.43729197646609624
+2027-06-27,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.44076222854241603
+2027-07-27,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.40494439585976605
+2027-08-26,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.5880730820125791
+2027-09-25,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.39567657666996453
+2027-10-25,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.5961093628829999
+2027-11-24,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.4808936047338898
+2027-12-24,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.4864791657913726
+2028-01-23,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.12448122079447452
+2028-02-22,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.31058296081225223
+2028-03-23,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.5935328957045246
+2028-04-22,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.3169015811133725
+2028-05-22,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.3715140120331231
+2028-06-21,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.5114256837110068
+2028-07-21,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.5527190875600786
+2028-08-20,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.5533761940974198
+2028-09-19,Advanced persistent threat-ALL,Solution_GAME THEORY_Mentions,-0.6304043429455488
+2025-11-04,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-2.004387111654516
+2025-12-04,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.9671898425263117
+2026-01-03,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.444815449629545
+2026-02-02,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.4695711087334328
+2026-03-04,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.6688590940272756
+2026-04-03,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.7544116174165747
+2026-05-03,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.6694395631261534
+2026-06-02,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.4541942969152337
+2026-07-02,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.5915685198875769
+2026-08-01,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.2933165979424381
+2026-08-31,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.5900431168097695
+2026-09-30,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.059318344540839826
+2026-10-30,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.8051463849091184
+2026-11-29,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.2248138677273959
+2026-12-29,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.591276726251539
+2027-01-28,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.37167886132275674
+2027-02-27,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.19612814609272014
+2027-03-29,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.4783443391592301
+2027-04-28,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.1194381526868056
+2027-05-28,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.1260456437084851
+2027-06-27,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.3361666228307438
+2027-07-27,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.4672225298069872
+2027-08-26,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.9729851239495365
+2027-09-25,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.48045198440537423
+2027-10-25,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.8858080404158032
+2027-11-24,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.9447131237288853
+2027-12-24,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.3217766737644194
+2028-01-23,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.5642711803643394
+2028-02-22,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.7094519980867975
+2028-03-23,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.5473182414971498
+2028-04-22,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.2225477571951464
+2028-05-22,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.2223030155258374
+2028-06-21,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-0.38331342423187365
+2028-07-21,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.6661575854197208
+2028-08-20,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.4032429248817258
+2028-09-19,Advanced persistent threat-ALL,Solution_DYNAMIC RESOURCE MANAGEMENT_Mentions,-1.6040446179318888
+2025-11-04,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-712.465942654324
+2025-12-04,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-770.6731468745443
+2026-01-03,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-701.360151918844
+2026-02-02,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-409.1542325560046
+2026-03-04,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-795.477590338969
+2026-04-03,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-685.1817959500632
+2026-05-03,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-610.6260928741451
+2026-06-02,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-637.5656623770755
+2026-07-02,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-404.68213767650343
+2026-08-01,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-658.4067740245674
+2026-08-31,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-654.133461921131
+2026-09-30,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-596.1091313030544
+2026-10-30,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-695.8940162048937
+2026-11-29,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-621.0352209475861
+2026-12-29,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-535.3332328012098
+2027-01-28,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-719.8480826069082
+2027-02-27,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-555.5187960860633
+2027-03-29,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-653.696676023842
+2027-04-28,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-549.1221307872764
+2027-05-28,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-362.09872039688867
+2027-06-27,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-559.712403094092
+2027-07-27,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-595.7502842112809
+2027-08-26,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-492.8808799788921
+2027-09-25,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-580.6252839070836
+2027-10-25,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-598.5492875685651
+2027-11-24,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-768.2296841531662
+2027-12-24,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-663.5667311373398
+2028-01-23,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-941.4072937078934
+2028-02-22,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-512.8098433171286
+2028-03-23,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-660.5608593068592
+2028-04-22,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-836.3544578837709
+2028-05-22,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-630.9677979399784
+2028-06-21,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-547.4527070288788
+2028-07-21,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-545.651387871053
+2028-08-20,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-716.6637205410931
+2028-09-19,Advanced persistent threat-ALL,Solution_ACCESS CONTROL_Mentions,-524.9129532489384
+2025-11-04,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-93.09766340479167
+2025-12-04,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-71.36730049955719
+2026-01-03,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-96.09059592333647
+2026-02-02,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-81.12981667239535
+2026-03-04,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-82.34287218818925
+2026-04-03,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-66.56900753797515
+2026-05-03,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-88.53050534091696
+2026-06-02,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-67.66728564549258
+2026-07-02,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-67.99943265222454
+2026-08-01,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-71.55727991794708
+2026-08-31,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-42.77411594125429
+2026-09-30,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-83.18898335098328
+2026-10-30,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-74.60701199906674
+2026-11-29,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-70.73001812467292
+2026-12-29,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-97.42276183357157
+2027-01-28,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-53.308181720533526
+2027-02-27,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-62.0693987904901
+2027-03-29,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-80.24720818941813
+2027-04-28,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-53.66335316927772
+2027-05-28,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-41.76734300795098
+2027-06-27,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-92.83709792578514
+2027-07-27,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-89.6227196370128
+2027-08-26,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-82.27131369286425
+2027-09-25,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-88.95877661088986
+2027-10-25,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-80.08738319829945
+2027-11-24,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-102.52873026523092
+2027-12-24,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-57.86333490728271
+2028-01-23,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-82.25461359317508
+2028-02-22,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-60.7727664356948
+2028-03-23,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-83.65421627635837
+2028-04-22,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-78.50190592158687
+2028-05-22,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-96.67589118017835
+2028-06-21,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-92.76237430893262
+2028-07-21,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-79.04752304990573
+2028-08-20,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-76.47269987664373
+2028-09-19,Advanced persistent threat-ALL,Solution_ML/DL_Mentions,-78.859107936709
+2025-11-04,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.351015838647575
+2025-12-04,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.5943646145961327
+2026-01-03,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.4778961491004172
+2026-02-02,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.5243119867810659
+2026-03-04,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.7380459989635555
+2026-04-03,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.400214833588913
+2026-05-03,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.6516991685805226
+2026-06-02,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.6350603015984877
+2026-07-02,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.46776564992862446
+2026-08-01,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.6197954957925941
+2026-08-31,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.5757540326522154
+2026-09-30,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.7451874604717932
+2026-10-30,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.3866395075013891
+2026-11-29,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.7496741003189965
+2026-12-29,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.8412023893444504
+2027-01-28,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.7014590076379628
+2027-02-27,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.7470342504952173
+2027-03-29,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.611617142347626
+2027-04-28,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.7066722953404636
+2027-05-28,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.5964169189953612
+2027-06-27,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.7218898627602872
+2027-07-27,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.574554065390679
+2027-08-26,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.3708280342685812
+2027-09-25,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.3261596446421875
+2027-10-25,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.6022742245047789
+2027-11-24,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.7175381808185133
+2027-12-24,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.5783272924645002
+2028-01-23,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.6401157590418378
+2028-02-22,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.3650650041979667
+2028-03-23,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.4440696900259741
+2028-04-22,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.7271456526833623
+2028-05-22,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.45804850049286977
+2028-06-21,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.5425254062180916
+2028-07-21,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.7094733995602427
+2028-08-20,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.46095164213256895
+2028-09-19,Advanced persistent threat-ALL,Solution_LEAST PRIVILEGE_Mentions,-0.643866338813674
+2025-11-04,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-221.44173598961603
+2025-12-04,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-249.53974741974153
+2026-01-03,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-251.05617819855354
+2026-02-02,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-273.89964952420297
+2026-03-04,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-211.0067219671453
+2026-04-03,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-190.16866383224962
+2026-05-03,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-244.18552952786553
+2026-06-02,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-223.14818834447883
+2026-07-02,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-192.24690856895467
+2026-08-01,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-225.83891123758903
+2026-08-31,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-188.0249547836813
+2026-09-30,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-125.58776831543904
+2026-10-30,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-177.53519987076226
+2026-11-29,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-229.45589185035317
+2026-12-29,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-202.4211315107543
+2027-01-28,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-153.86304599282062
+2027-02-27,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-244.9762503546401
+2027-03-29,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-257.12592607444685
+2027-04-28,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-279.8822079629917
+2027-05-28,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-197.70638760140235
+2027-06-27,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-234.3647707694415
+2027-07-27,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-205.00366089724972
+2027-08-26,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-213.55992489627386
+2027-09-25,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-167.58985827335098
+2027-10-25,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-198.28900295446158
+2027-11-24,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-287.92818759446794
+2027-12-24,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-167.43824784826856
+2028-01-23,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-277.85475999835563
+2028-02-22,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-212.28962069160403
+2028-03-23,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-200.7508205336053
+2028-04-22,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-248.6195109475098
+2028-05-22,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-214.02285965688236
+2028-06-21,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-171.26949619728742
+2028-07-21,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-97.7582102920592
+2028-08-20,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-203.048952155118
+2028-09-19,Advanced persistent threat-ALL,Solution_PENETRATION TESTING_Mentions,-152.16306909653508
+2025-11-04,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-8.222169470200127
+2025-12-04,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-10.038494753486395
+2026-01-03,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-5.84686602984575
+2026-02-02,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-0.35953046976093983
+2026-03-04,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-5.415287271802608
+2026-04-03,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-6.31268029772018
+2026-05-03,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-4.275139006554989
+2026-06-02,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-9.583735426215773
+2026-07-02,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-3.7083050667387885
+2026-08-01,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-7.4050370876470275
+2026-08-31,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-5.495248786464073
+2026-09-30,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-2.823073805945598
+2026-10-30,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-1.9522058066416523
+2026-11-29,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-4.735750467097251
+2026-12-29,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-6.3191934784737915
+2027-01-28,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-3.527970166285405
+2027-02-27,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-4.920250855243852
+2027-03-29,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-7.4648502815452344
+2027-04-28,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-8.684418884422104
+2027-05-28,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-3.671953935189525
+2027-06-27,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-5.034392455726996
+2027-07-27,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-4.29181190458151
+2027-08-26,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-4.492330955558313
+2027-09-25,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-4.778962091693141
+2027-10-25,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-5.035002113419963
+2027-11-24,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-2.2683069257796746
+2027-12-24,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-6.705126632580501
+2028-01-23,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-7.599031680169525
+2028-02-22,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-8.434319292770816
+2028-03-23,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-5.229987091581352
+2028-04-22,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-6.681403206935586
+2028-05-22,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-3.6261304680479025
+2028-06-21,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-6.41572528018051
+2028-07-21,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-4.189654604047416
+2028-08-20,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-5.602312035933977
+2028-09-19,Advanced persistent threat-ALL,Solution_NLP/LLM_Mentions,-6.877142308032164

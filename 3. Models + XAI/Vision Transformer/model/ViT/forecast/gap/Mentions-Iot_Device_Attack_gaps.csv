@@ -1,0 +1,221 @@
+Date,Attack,Technology,Gap
+2024-12-31,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,45.65497033510853
+2025-01-30,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,46.01836368250551
+2025-03-01,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,46.01387066862415
+2025-03-31,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,45.93141557058756
+2025-04-30,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,45.85042711312049
+2025-05-30,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,46.271932274528
+2025-06-29,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,46.44424546751502
+2025-07-29,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,46.515179337460204
+2025-08-28,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,46.45237101696942
+2025-09-27,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,46.7017727001537
+2025-10-27,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,46.69365564875397
+2025-11-26,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,47.01676852961112
+2025-12-26,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,47.2024315537338
+2026-01-25,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,47.35579093458262
+2026-02-24,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,47.46044543978299
+2026-03-26,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,47.851576348905944
+2026-04-25,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,48.36603131473046
+2026-05-25,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,48.21603379183726
+2026-06-24,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,48.29327734834036
+2026-07-24,Mentions-IoT Device Attack,Solution_SECURE BOOT_Mentions,48.62997233440836
+2024-12-31,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-491.3257051157641
+2025-01-30,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-497.24607805334216
+2025-03-01,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-499.3436048667871
+2025-03-31,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-502.9525318699613
+2025-04-30,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-505.17758422293673
+2025-05-30,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-510.4321908875353
+2025-06-29,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-518.1827523681417
+2025-07-29,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-520.2611166384851
+2025-08-28,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-524.0465222621331
+2025-09-27,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-528.1010524380627
+2025-10-27,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-528.820910557675
+2025-11-26,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-535.1563196680368
+2025-12-26,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-534.3100011290484
+2026-01-25,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-538.1971560906205
+2026-02-24,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-541.6753978292294
+2026-03-26,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-544.0403777056508
+2026-04-25,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-548.6920480878781
+2026-05-25,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-549.8206640114265
+2026-06-24,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-554.8790536211691
+2026-07-24,Mentions-IoT Device Attack,Solution_CRYPTOGRAPHY_Mentions,-554.7910961177575
+2024-12-31,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,33.43518990230854
+2025-01-30,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,33.21523434170634
+2025-03-01,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,33.247107374849975
+2025-03-31,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,33.10725401021953
+2025-04-30,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,33.26094419407322
+2025-05-30,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,33.50680038771064
+2025-06-29,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,33.827064979188066
+2025-07-29,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,33.34373439584325
+2025-08-28,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,33.65217554358824
+2025-09-27,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,34.12590588453182
+2025-10-27,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,34.14498857028311
+2025-11-26,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,34.28084169860563
+2025-12-26,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,34.09467297230461
+2026-01-25,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,34.61073702079915
+2026-02-24,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,34.29060437682915
+2026-03-26,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,35.04818748646703
+2026-04-25,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,35.43326344335317
+2026-05-25,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,35.24545486238156
+2026-06-24,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,35.18603386224032
+2026-07-24,Mentions-IoT Device Attack,Solution_IDENTITY MANAGEMENT_Mentions,36.08673626319343
+2024-12-31,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-312.24165332165285
+2025-01-30,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-312.05257337128836
+2025-03-01,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-311.8194670013089
+2025-03-31,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-312.1676242990315
+2025-04-30,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-311.75136324986977
+2025-05-30,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-312.1807703635299
+2025-06-29,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-311.7956603795536
+2025-07-29,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-312.45780965223435
+2025-08-28,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-311.83192712196586
+2025-09-27,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-312.008540859521
+2025-10-27,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-312.65443500634245
+2025-11-26,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-312.04533009806335
+2025-12-26,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-312.56789717137417
+2026-01-25,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-312.5788483051608
+2026-02-24,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-312.4284847640479
+2026-03-26,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-312.98230863946037
+2026-04-25,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-313.44090277171205
+2026-05-25,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-314.35102377272216
+2026-06-24,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-315.78682359491506
+2026-07-24,Mentions-IoT Device Attack,Solution_BLOCKCHAIN_Mentions,-316.61228198741924
+2024-12-31,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-744.6467390702226
+2025-01-30,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-749.9739902235724
+2025-03-01,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-751.3630962110487
+2025-03-31,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-759.364248890414
+2025-04-30,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-766.3193387368509
+2025-05-30,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-774.1588102483141
+2025-06-29,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-772.7960473480665
+2025-07-29,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-775.8685168858912
+2025-08-28,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-782.9565402790082
+2025-09-27,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-789.3578535920382
+2025-10-27,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-789.8011263719682
+2025-11-26,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-794.8651208023273
+2025-12-26,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-800.7917523401429
+2026-01-25,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-803.7916388679117
+2026-02-24,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-808.7819715577645
+2026-03-26,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-816.6785064781096
+2026-04-25,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-817.4895775580404
+2026-05-25,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-825.9089351571924
+2026-06-24,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-826.3616221591648
+2026-07-24,Mentions-IoT Device Attack,Solution_ENCRYPTION_Mentions,-843.2900159562946
+2024-12-31,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,46.944637029476425
+2025-01-30,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,47.25269927451605
+2025-03-01,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,47.25282181278293
+2025-03-31,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,47.21135231458518
+2025-04-30,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,47.21324511269911
+2025-05-30,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,47.56111773663767
+2025-06-29,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,47.86942685634242
+2025-07-29,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,47.752661770415415
+2025-08-28,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,47.693375231545865
+2025-09-27,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,47.998539907031656
+2025-10-27,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,47.9794194703774
+2025-11-26,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,48.36037037963796
+2025-12-26,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,48.4312184813089
+2026-01-25,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,48.588870221183704
+2026-02-24,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,48.877337432082314
+2026-03-26,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,49.18201872536755
+2026-04-25,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,49.717510269108736
+2026-05-25,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,49.68643027337289
+2026-06-24,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,49.57803394515074
+2026-07-24,Mentions-IoT Device Attack,Solution_MERKLE SIGNATURE_Mentions,50.006110043702066
+2024-12-31,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-202.52810725007475
+2025-01-30,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-203.21208951350096
+2025-03-01,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-203.6925042909901
+2025-03-31,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-204.34708021334444
+2025-04-30,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-205.07574318926473
+2025-05-30,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-206.28604133860762
+2025-06-29,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-206.19756543468029
+2025-07-29,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-207.42790398053273
+2025-08-28,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-208.38561265360778
+2025-09-27,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-208.36202183319398
+2025-10-27,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-209.22672892055937
+2025-11-26,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-208.85517285866632
+2025-12-26,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-210.16878124166973
+2026-01-25,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-211.2532565383952
+2026-02-24,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-212.4698723259819
+2026-03-26,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-212.35394441609944
+2026-04-25,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-213.40696818592735
+2026-05-25,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-214.71940502144912
+2026-06-24,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-216.28528953533055
+2026-07-24,Mentions-IoT Device Attack,Solution_ML/DL_Mentions,-216.33371982380822
+2024-12-31,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,35.41577544831655
+2025-01-30,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,35.31540823928797
+2025-03-01,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,35.5889943056809
+2025-03-31,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,35.46455290729108
+2025-04-30,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,35.28054262381827
+2025-05-30,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,35.54379962828489
+2025-06-29,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,35.77383487799851
+2025-07-29,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,35.729120460066454
+2025-08-28,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,35.49641219350627
+2025-09-27,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,35.68850494459552
+2025-10-27,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,35.60526284754481
+2025-11-26,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,35.85832843348424
+2025-12-26,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,36.062278352264876
+2026-01-25,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,36.26229876725545
+2026-02-24,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,36.44502953023653
+2026-03-26,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,36.69404739212041
+2026-04-25,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,37.351547577976916
+2026-05-25,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,36.861909548967326
+2026-06-24,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,36.79930570069134
+2026-07-24,Mentions-IoT Device Attack,Solution_MULTI FACTOR AUTHENTICATION_Mentions,37.45749022768869
+2024-12-31,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-208.34511435385366
+2025-01-30,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-207.03814189684837
+2025-03-01,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-208.06181843154638
+2025-03-31,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-210.09121270315939
+2025-04-30,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-210.49517897081594
+2025-05-30,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-210.28938188811583
+2025-06-29,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-214.1088646434968
+2025-07-29,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-213.82906509537446
+2025-08-28,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-216.00863258316792
+2025-09-27,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-216.47174887792835
+2025-10-27,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-216.85451061872857
+2025-11-26,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-220.2313248124625
+2025-12-26,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-220.94391556881678
+2026-01-25,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-222.7773344553001
+2026-02-24,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-223.88292492764333
+2026-03-26,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-224.2703046787045
+2026-04-25,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-225.09280325150772
+2026-05-25,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-227.8261810379995
+2026-06-24,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-230.46871729200473
+2026-07-24,Mentions-IoT Device Attack,Solution_IDS/IPS_Mentions,-231.87432307690318
+2024-12-31,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-41.61350871109039
+2025-01-30,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-41.05407861275004
+2025-03-01,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-41.461933320843954
+2025-03-31,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-42.080197237647
+2025-04-30,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-42.17157082305969
+2025-05-30,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-42.328348022535806
+2025-06-29,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-42.24192001972594
+2025-07-29,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-42.96681811470656
+2025-08-28,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-43.85587396612644
+2025-09-27,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-43.295330961078555
+2025-10-27,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-43.647371055294514
+2025-11-26,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-43.8450993916382
+2025-12-26,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-44.2805413025246
+2026-01-25,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-44.356735539598326
+2026-02-24,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-44.38371625438411
+2026-03-26,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-44.61131231905543
+2026-04-25,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-44.719178728009645
+2026-05-25,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-45.50356229866046
+2026-06-24,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-46.33270303635922
+2026-07-24,Mentions-IoT Device Attack,Solution_ANOMALY DETECTION_Mentions,-45.88329128683743
+2024-12-31,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,38.4473707046054
+2025-01-30,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,38.945035589653315
+2025-03-01,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,38.310222787045426
+2025-03-31,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,38.898570012102404
+2025-04-30,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,38.74081238893037
+2025-05-30,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,38.868816321880914
+2025-06-29,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,39.13589292284563
+2025-07-29,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,39.05274821057954
+2025-08-28,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,39.02354788170264
+2025-09-27,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,39.27629429826547
+2025-10-27,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,39.376416124583876
+2025-11-26,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,39.85371650485061
+2025-12-26,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,39.698262345385515
+2026-01-25,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,39.79888903507502
+2026-02-24,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,39.86471556188417
+2026-03-26,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,40.603943587717254
+2026-04-25,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,40.57103258005276
+2026-05-25,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,40.82519731610473
+2026-06-24,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,40.81929301628688
+2026-07-24,Mentions-IoT Device Attack,Solution_PENETRATION TESTING_Mentions,41.31385869258898

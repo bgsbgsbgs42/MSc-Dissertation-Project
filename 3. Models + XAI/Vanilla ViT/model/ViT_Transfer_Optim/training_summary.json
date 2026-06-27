@@ -1,0 +1,32 @@
+{
+  "hyperparameters": {
+    "sequence_length": 24,
+    "patch_size": 8,
+    "embed_dim": 64,
+    "num_heads": 4,
+    "hidden_dim": 256,
+    "num_layers": 4,
+    "dropout": 0.1,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.01,
+    "batch_size": 4,
+    "forecast_horizon": 12,
+    "num_nodes": 645
+  },
+  "transfer_strategy": "full",
+  "pretrained_model": "transfer_learning_pretrain/transferred_model_finetuned.pt",
+  "transferred_layers_count": 6,
+  "final_loss": 3335016.4342105263,
+  "timestamp": "2025-11-21T15:35:11.798557",
+  "data_shape": [
+    162,
+    645
+  ],
+  "device": "cpu",
+  "best_val_rrse": 0.5728070735931396,
+  "best_val_rae": 0.228228360414505,
+  "test_rrse": Infinity,
+  "test_rae": Infinity,
+  "successful_iterations": 2,
+  "total_iterations": 20
+}

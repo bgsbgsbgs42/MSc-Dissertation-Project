@@ -1,0 +1,6 @@
+services:
+  superoctodoodle:
+    image: superoctodoodle
+    build:
+      context: .
+      dockerfile: ./Dockerfile

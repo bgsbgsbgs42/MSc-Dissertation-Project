@@ -1,0 +1,43 @@
+{
+  "config": {
+    "sequence_length": 12,
+    "forecast_horizon": 36,
+    "num_nodes": 645,
+    "vit_patch_size": 6,
+    "vit_embed_dim": 128,
+    "vit_num_heads": 8,
+    "vit_hidden_dim": 256,
+    "vit_num_layers": 3,
+    "graph_hidden_dim": 128,
+    "graph_num_layers": 2,
+    "fusion_dim": 256,
+    "dropout": 0.1,
+    "mc_dropout": 0.2,
+    "learning_rate": 0.001,
+    "batch_size": 4,
+    "weight_decay": 1e-05
+  },
+  "layer_breakdown": {
+    "Conv1d": 1,
+    "NonDynamicallyQuantizableLinear": 6,
+    "Linear": 16,
+    "Dropout": 21,
+    "LayerNorm": 10,
+    "ReLU": 3
+  },
+  "computational_requirements": {},
+  "compatibility_analysis": {
+    "data_features": 0,
+    "model_expects": 645,
+    "features_match": false,
+    "minimum_sequence_length": 48,
+    "available_sequences": 0
+  },
+  "component_parameters": {
+    "attention_weights": 2,
+    "vit_branch": 6894004,
+    "graph_branch": 347648,
+    "cross_attention": 66048,
+    "forecast_head": 3094068
+  }
+}

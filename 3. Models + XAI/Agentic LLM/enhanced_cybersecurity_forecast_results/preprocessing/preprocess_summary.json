@@ -1,0 +1,33 @@
+{
+  "data_shape": [
+    162,
+    1
+  ],
+  "data_columns": [
+    "value"
+  ],
+  "data_types": {
+    "value": "float64"
+  },
+  "missing_values": {
+    "value": 0
+  },
+  "basic_stats": {
+    "mean": {
+      "value": 22.61890858270109
+    },
+    "std": {
+      "value": 17.043156241728553
+    },
+    "min": {
+      "value": -17.15994964
+    },
+    "max": {
+      "value": 61.45671393937213
+    },
+    "median": {
+      "value": 20.96015288392538
+    }
+  },
+  "timestamp": "2025-12-06T13:31:32.156829"
+}

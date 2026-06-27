@@ -1,0 +1,49 @@
+B-MTGNN MODEL EVALUATION REPORT
+Generated: 2025-12-05 20:44:31
+Model: ./Dissertation/Bayesian MTGNN/model/o_model.pt
+Data: ./Dissertation/Bayesian MTGNN/data/sm_data_g.csv
+
+MODEL CONFIGURATION
+gcn_true: True
+buildA_true: True
+num_nodes: 645
+seq_length: 12
+forecast_horizon: 36
+dropout: 0.3
+subgraph_size: 20
+node_dim: 80
+dilation_exponential: 1
+conv_channels: 4
+residual_channels: 16
+skip_channels: 64
+end_channels: 1024
+layers: 3
+propalpha: 0.05
+tanhalpha: 3
+gcn_depth: 3
+normalize: 2
+batch_size: 4
+
+EXECUTIVE SUMMARY
+Average M-SMAPE: 345.47%
+Average MAE: 833056512.0000
+Average MAPE: 667022720.00%
+Average RMSE: 8375800320.0000
+Average RAE: 1.0715
+Average RRSE: 1.0160
+Average AUC-ROC: 0.506
+
+DETAILED METRICS
+Accuracy Metrics:
+  M-SMAPE_Test: 341.60%
+  M-SMAPE_Train: 349.33%
+  MAE_Test: 1666113024.0000
+  MAE_Train: 0.5433
+  MAPE_Test: 596857536.00%
+  MAPE_Train: 737187968.00%
+  RAE_Test: 0.9944
+  RAE_Train: 1.1486
+  RMSE_Test: 16751600640.0000
+  RMSE_Train: 0.7523
+  RRSE_Test: 0.9991
+  RRSE_Train: 1.0328

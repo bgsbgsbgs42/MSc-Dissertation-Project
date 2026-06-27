@@ -1,0 +1,29 @@
+{
+  "hyperparameters": {
+    "sequence_length": 8,
+    "patch_size": 4,
+    "embed_dim": 64,
+    "num_heads": 8,
+    "hidden_dim": 256,
+    "num_layers": 2,
+    "dropout": 0.1,
+    "learning_rate": 0.001,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "forecast_horizon": 12,
+    "num_nodes": 645
+  },
+  "final_loss": 20.242884454221663,
+  "timestamp": "2025-11-18T11:55:03.135411",
+  "data_shape": [
+    162,
+    645
+  ],
+  "device": "cpu",
+  "best_val_rrse": 0.30029046535491943,
+  "best_val_rae": 0.10051598399877548,
+  "test_rrse": 0.8546502590179443,
+  "test_rae": 0.42312219738960266,
+  "successful_iterations": 1,
+  "total_iterations": 2
+}

@@ -1,0 +1,301 @@
+Date,Attack,Technology,Gap
+2024-12-31,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,23.97432928998788
+2025-01-30,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,23.712148342763196
+2025-03-01,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,24.13584961913738
+2025-03-31,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,23.98722369417988
+2025-04-30,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,24.15118994384055
+2025-05-30,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,24.374691237594497
+2025-06-29,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,25.00805747555454
+2025-07-29,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,25.06544895260094
+2025-08-28,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,25.136232838037103
+2025-09-27,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,24.823602452450146
+2025-10-27,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,25.044125053491193
+2025-11-26,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,25.073476918034387
+2025-12-26,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,25.18441365272887
+2026-01-25,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,25.06075306797856
+2026-02-24,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,25.618541330251595
+2026-03-26,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,25.916041926596673
+2026-04-25,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,25.54153584030483
+2026-05-25,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,25.508008354152093
+2026-06-24,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,26.060214746230553
+2026-07-24,Mentions-Insider Threat,Solution_DATA LEAKAGE DETECTION/PREVENTION_Mentions,25.643085217518074
+2024-12-31,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-230.26459763806503
+2025-01-30,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-229.48861200625768
+2025-03-01,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-230.04245175253024
+2025-03-31,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-232.2377664551598
+2025-04-30,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-232.51332312003822
+2025-05-30,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-232.4412207308134
+2025-06-29,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-235.97161785901872
+2025-07-29,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-235.57482028846192
+2025-08-28,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-237.52650527612005
+2025-09-27,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-238.50865260437848
+2025-10-27,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-238.77730267178177
+2025-11-26,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-242.34860237990748
+2025-12-26,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-243.11371752919052
+2026-01-25,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-245.28724674176087
+2026-02-24,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-246.05614377026393
+2026-03-26,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-246.58582459335753
+2026-04-25,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-248.18852379665302
+2026-05-25,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-250.8998853411187
+2026-06-24,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-253.01859361408927
+2026-07-24,Mentions-Insider Threat,Solution_IDS/IPS_Mentions,-255.15438679576545
+2024-12-31,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-63.53299199530176
+2025-01-30,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-63.50454872215936
+2025-03-01,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-63.44256664182781
+2025-03-31,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-64.22675098964743
+2025-04-30,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-64.18971497228196
+2025-05-30,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-64.48018686523336
+2025-06-29,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-64.10467323524787
+2025-07-29,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-64.71257330779405
+2025-08-28,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-65.37374665907858
+2025-09-27,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-65.33223468752868
+2025-10-27,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-65.57016310834769
+2025-11-26,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-65.96237695908317
+2025-12-26,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-66.45034326289836
+2026-01-25,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-66.86664782605911
+2026-02-24,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-66.5569350970047
+2026-03-26,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-66.92683223370848
+2026-04-25,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-67.81489927315494
+2026-05-25,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-68.57726660177966
+2026-06-24,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-68.88257935844375
+2026-07-24,Mentions-Insider Threat,Solution_ANOMALY DETECTION_Mentions,-69.16335500569969
+2024-12-31,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,24.89133114846478
+2025-01-30,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,24.72596463506685
+2025-03-01,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,25.170193525462228
+2025-03-31,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,24.94067281253269
+2025-04-30,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,25.107358121911926
+2025-05-30,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,25.357752860747546
+2025-06-29,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,25.93077809247271
+2025-07-29,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,25.94192508965653
+2025-08-28,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,26.070777141380127
+2025-09-27,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,25.863903055256298
+2025-10-27,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,25.984033987188255
+2025-11-26,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,26.16971183728655
+2025-12-26,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,26.14282878455612
+2026-01-25,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,26.027754801695664
+2026-02-24,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,26.589300036472135
+2026-03-26,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,26.740553983178383
+2026-04-25,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,26.499219978782453
+2026-05-25,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,26.533228406034514
+2026-06-24,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,26.988481355520307
+2026-07-24,Mentions-Insider Threat,Solution_USER BEHAVIOR ANALYTICS_Mentions,26.64258771295433
+2024-12-31,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,24.25438520189146
+2025-01-30,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,23.97829982173232
+2025-03-01,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,24.47454573144357
+2025-03-31,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,24.285737548812328
+2025-04-30,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,24.415951715572056
+2025-05-30,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,24.58766848687599
+2025-06-29,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,25.305597687101315
+2025-07-29,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,25.119736881790928
+2025-08-28,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,25.36231005379485
+2025-09-27,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,25.245564430052944
+2025-10-27,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,25.362933262614895
+2025-11-26,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,25.505457224900418
+2025-12-26,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,25.44144171233136
+2026-01-25,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,25.349552963705133
+2026-02-24,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,25.85059011242165
+2026-03-26,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,26.105910567998567
+2026-04-25,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,25.85121209734454
+2026-05-25,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,25.857738739635362
+2026-06-24,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,26.262122656950638
+2026-07-24,Mentions-Insider Threat,Solution_ACTIVITY MONITORING_Mentions,25.8964262243894
+2024-12-31,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-224.71708473824032
+2025-01-30,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-229.70722254882756
+2025-03-01,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-230.0705089456828
+2025-03-31,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-231.47139583452517
+2025-04-30,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-234.87299624405173
+2025-05-30,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-235.49476143235555
+2025-06-29,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-237.95261370463098
+2025-07-29,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-238.98642498268106
+2025-08-28,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-239.38852090190838
+2025-09-27,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-240.80478057909204
+2025-10-27,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-242.95898497401626
+2025-11-26,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-245.22903995652197
+2025-12-26,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-246.62015794811663
+2026-01-25,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-246.45237589669696
+2026-02-24,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-248.0674338840737
+2026-03-26,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-247.39371515954474
+2026-04-25,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-248.17645813337762
+2026-05-25,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-251.31002096297982
+2026-06-24,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-252.6906120848503
+2026-07-24,Mentions-Insider Threat,Solution_ACCESS CONTROL_Mentions,-253.37707151524683
+2024-12-31,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-766.566222354434
+2025-01-30,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-772.4244603329817
+2025-03-01,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-773.3437295320325
+2025-03-31,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-781.5108026424145
+2025-04-30,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-788.3374828860732
+2025-05-30,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-796.3106490910117
+2025-06-29,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-794.6588005635884
+2025-07-29,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-797.6142720789786
+2025-08-28,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-804.4744129719603
+2025-09-27,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-811.3947573184884
+2025-10-27,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-811.7239184250213
+2025-11-26,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-816.9823983697722
+2025-12-26,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-822.9615543005167
+2026-01-25,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-826.3015511543724
+2026-02-24,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-830.955190400385
+2026-03-26,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-838.9940263927626
+2026-04-25,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-840.5852981031858
+2026-05-25,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-848.9826394603116
+2026-06-24,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-848.9114984812493
+2026-07-24,Mentions-Insider Threat,Solution_ENCRYPTION_Mentions,-866.5700796751569
+2024-12-31,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.259306746737513
+2025-01-30,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.266172403025946
+2025-03-01,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.927080059649914
+2025-03-31,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.234013337505077
+2025-04-30,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.17119370277416
+2025-05-30,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.297408570950287
+2025-06-29,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,14.10811252875585
+2025-07-29,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.736942846025105
+2025-08-28,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,14.016839352731232
+2025-09-27,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.68396241039751
+2025-10-27,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.605601103397635
+2025-11-26,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.702550334071722
+2025-12-26,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.674500924626345
+2026-01-25,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.503840862265967
+2026-02-24,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,14.18358748775259
+2026-03-26,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,14.035180030040355
+2026-04-25,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.82584169889188
+2026-05-25,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.677787538846662
+2026-06-24,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,14.422811401661821
+2026-07-24,Mentions-Insider Threat,Solution_MOVING TARGET DEFENSE_Mentions,13.459074142670314
+2024-12-31,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,20.540580147117396
+2025-01-30,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,20.28151929703708
+2025-03-01,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,20.684225390971072
+2025-03-31,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,20.210570598354007
+2025-04-30,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,20.700513924272045
+2025-05-30,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,20.798491911047716
+2025-06-29,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,21.299496667387306
+2025-07-29,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,21.36882146713033
+2025-08-28,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,21.47678471950601
+2025-09-27,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,21.334271284568217
+2025-10-27,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,21.596730680090648
+2025-11-26,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,21.75278167869216
+2025-12-26,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,21.692783574443013
+2026-01-25,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,21.2785546459151
+2026-02-24,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,22.065913002013858
+2026-03-26,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,22.241348218230158
+2026-04-25,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,21.568690114424435
+2026-05-25,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,22.209039787828516
+2026-06-24,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,22.260481393819397
+2026-07-24,Mentions-Insider Threat,Solution_KEYSTROKE DYNAMICS_Mentions,22.52411497776984
+2024-12-31,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,21.358315775588153
+2025-01-30,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,21.10040240993724
+2025-03-01,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,21.313529050354347
+2025-03-31,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,21.506650469315034
+2025-04-30,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,21.573097287830986
+2025-05-30,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,21.704817149844406
+2025-06-29,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,22.034473665894822
+2025-07-29,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,22.360891321567763
+2025-08-28,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,21.94538493727523
+2025-09-27,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,21.97726116245691
+2025-10-27,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,22.060853910711696
+2025-11-26,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,22.35631448169014
+2025-12-26,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,22.256551707692985
+2026-01-25,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,21.909856596406325
+2026-02-24,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,22.92667071658921
+2026-03-26,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,23.046963991557377
+2026-04-25,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,22.60943273858391
+2026-05-25,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,22.652907228580563
+2026-06-24,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,23.121683636061015
+2026-07-24,Mentions-Insider Threat,Solution_ATTACK TREE_Mentions,22.81699696576395
+2024-12-31,Mentions-Insider Threat,Solution_ML/DL_Mentions,-224.44759053428612
+2025-01-30,Mentions-Insider Threat,Solution_ML/DL_Mentions,-225.66255962291027
+2025-03-01,Mentions-Insider Threat,Solution_ML/DL_Mentions,-225.67313761197394
+2025-03-31,Mentions-Insider Threat,Solution_ML/DL_Mentions,-226.49363396534486
+2025-04-30,Mentions-Insider Threat,Solution_ML/DL_Mentions,-227.093887338487
+2025-05-30,Mentions-Insider Threat,Solution_ML/DL_Mentions,-228.4378801813052
+2025-06-29,Mentions-Insider Threat,Solution_ML/DL_Mentions,-228.06031865020222
+2025-07-29,Mentions-Insider Threat,Solution_ML/DL_Mentions,-229.1736591736202
+2025-08-28,Mentions-Insider Threat,Solution_ML/DL_Mentions,-229.9034853465599
+2025-09-27,Mentions-Insider Threat,Solution_ML/DL_Mentions,-230.3989255596441
+2025-10-27,Mentions-Insider Threat,Solution_ML/DL_Mentions,-231.14952097361257
+2025-11-26,Mentions-Insider Threat,Solution_ML/DL_Mentions,-230.9724504261113
+2025-12-26,Mentions-Insider Threat,Solution_ML/DL_Mentions,-232.33858320204348
+2026-01-25,Mentions-Insider Threat,Solution_ML/DL_Mentions,-233.76316882485597
+2026-02-24,Mentions-Insider Threat,Solution_ML/DL_Mentions,-234.6430911686025
+2026-03-26,Mentions-Insider Threat,Solution_ML/DL_Mentions,-234.66946433075248
+2026-04-25,Mentions-Insider Threat,Solution_ML/DL_Mentions,-236.50268873107265
+2026-05-25,Mentions-Insider Threat,Solution_ML/DL_Mentions,-237.79310932456832
+2026-06-24,Mentions-Insider Threat,Solution_ML/DL_Mentions,-238.8351658574151
+2026-07-24,Mentions-Insider Threat,Solution_ML/DL_Mentions,-239.6137835426705
+2024-12-31,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,22.22010080835341
+2025-01-30,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,21.863203640651523
+2025-03-01,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,22.49123148401674
+2025-03-31,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,22.2106108666424
+2025-04-30,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,22.339248843907512
+2025-05-30,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,22.611849123388513
+2025-06-29,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,23.32679380278192
+2025-07-29,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,22.98831122732271
+2025-08-28,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,23.431192209268005
+2025-09-27,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,23.050699877352496
+2025-10-27,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,23.10394465945605
+2025-11-26,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,23.4912910286096
+2025-12-26,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,23.253272769333776
+2026-01-25,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,23.42028701918258
+2026-02-24,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,23.824851580885515
+2026-03-26,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,23.985890786650206
+2026-04-25,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,23.4867434776558
+2026-05-25,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,23.83506269537863
+2026-06-24,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,24.21652082021201
+2026-07-24,Mentions-Insider Threat,Solution_LEAST PRIVILEGE_Mentions,23.947470426695787
+2024-12-31,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,16.52788742039403
+2025-01-30,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,16.494565480243995
+2025-03-01,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,16.329589466061577
+2025-03-31,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,16.752016260101982
+2025-04-30,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,16.7226682397081
+2025-05-30,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,16.71697747918336
+2025-06-29,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,17.273139707323693
+2025-07-29,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,17.306993017492058
+2025-08-28,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,17.5056751887505
+2025-09-27,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,17.239390571815335
+2025-10-27,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,17.453624071530697
+2025-11-26,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,17.73643893740563
+2025-12-26,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,17.528460385011755
+2026-01-25,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,17.288976748614246
+2026-02-24,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,17.691496719263583
+2026-03-26,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,18.2884236730642
+2026-04-25,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,17.47531203490747
+2026-05-25,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,17.75149301298554
+2026-06-24,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,18.26941669420235
+2026-07-24,Mentions-Insider Threat,Solution_PENETRATION TESTING_Mentions,18.03379497372672
+2024-12-31,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-513.2451883999755
+2025-01-30,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-519.6965481627515
+2025-03-01,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-521.3242381877709
+2025-03-31,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-525.0990856219618
+2025-04-30,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-527.195728372159
+2025-05-30,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-532.5840297302328
+2025-06-29,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-540.0455055836636
+2025-07-29,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-542.0068718315725
+2025-08-28,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-545.5643949550852
+2025-09-27,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-550.1379561645128
+2025-10-27,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-550.7437026107282
+2025-11-26,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-557.2735972354817
+2025-12-26,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-556.4798030894221
+2026-01-25,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-560.7070683770812
+2026-02-24,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-563.84861667185
+2026-03-26,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-566.3558976203038
+2026-04-25,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-571.7877686330235
+2026-05-25,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-572.8943683145457
+2026-06-24,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-577.4289299432536
+2026-07-24,Mentions-Insider Threat,Solution_CRYPTOGRAPHY_Mentions,-578.0711598366197
+2024-12-31,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,1.7740178871188945
+2025-01-30,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,1.5662279497491625
+2025-03-01,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,2.035398119744581
+2025-03-31,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,1.4810014192860486
+2025-04-30,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,1.659370736921364
+2025-05-30,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,1.7685817896400238
+2025-06-29,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,2.4629707181898226
+2025-07-29,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,2.335934645494479
+2025-08-28,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,2.4320974173326633
+2025-09-27,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,2.2537133801764355
+2025-10-27,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,2.1973662415752173
+2025-11-26,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,2.452613487434906
+2025-12-26,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,2.4156672070387053
+2026-01-25,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,2.3213102522149995
+2026-02-24,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,3.0459898022943612
+2026-03-26,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,3.127784712834753
+2026-04-25,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,2.6307870584476163
+2026-05-25,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,2.746781430560908
+2026-06-24,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,3.122614097408821
+2026-07-24,Mentions-Insider Threat,Solution_NLP/LLM_Mentions,2.9459194367107955

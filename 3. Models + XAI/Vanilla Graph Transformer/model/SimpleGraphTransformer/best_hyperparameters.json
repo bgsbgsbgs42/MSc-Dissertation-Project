@@ -1,0 +1,18 @@
+{
+  "channels": 96,
+  "num_layers": 2,
+  "pe_dim": 8,
+  "pe_walk_length": 20,
+  "node_dim": 1,
+  "num_heads": 4,
+  "attn_dropout": 0.2,
+  "dropout": 0.3,
+  "weight_decay": 0.0001,
+  "learning_rate": 0.0005,
+  "batch_size": 16,
+  "forecast_horizon": 36,
+  "sequence_length": 24,
+  "correlation_threshold": 0.2,
+  "local_gnn_type": "GINE",
+  "num_nodes": 123
+}

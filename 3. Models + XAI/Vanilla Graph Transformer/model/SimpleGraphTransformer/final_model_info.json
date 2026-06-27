@@ -1,0 +1,460 @@
+{
+  "hyperparameters": {
+    "channels": 64,
+    "num_layers": 2,
+    "pe_dim": 12,
+    "pe_walk_length": 20,
+    "node_dim": 1,
+    "num_heads": 4,
+    "attn_dropout": 0.1,
+    "dropout": 0.2,
+    "weight_decay": 1e-05,
+    "learning_rate": 0.001,
+    "batch_size": 8,
+    "forecast_horizon": 36,
+    "sequence_length": 24,
+    "correlation_threshold": 0.3,
+    "local_gnn_type": "GCN",
+    "num_nodes": 123
+  },
+  "model_state_dict_summary": {
+    "node_emb.weight": {
+      "shape": [
+        52,
+        1
+      ],
+      "dtype": "torch.float32"
+    },
+    "node_emb.bias": {
+      "shape": [
+        52
+      ],
+      "dtype": "torch.float32"
+    },
+    "pe_lin.weight": {
+      "shape": [
+        12,
+        20
+      ],
+      "dtype": "torch.float32"
+    },
+    "pe_lin.bias": {
+      "shape": [
+        12
+      ],
+      "dtype": "torch.float32"
+    },
+    "pe_norm.weight": {
+      "shape": [
+        20
+      ],
+      "dtype": "torch.float32"
+    },
+    "pe_norm.bias": {
+      "shape": [
+        20
+      ],
+      "dtype": "torch.float32"
+    },
+    "pe_norm.running_mean": {
+      "shape": [
+        20
+      ],
+      "dtype": "torch.float32"
+    },
+    "pe_norm.running_var": {
+      "shape": [
+        20
+      ],
+      "dtype": "torch.float32"
+    },
+    "pe_norm.num_batches_tracked": {
+      "shape": [],
+      "dtype": "torch.int64"
+    },
+    "edge_emb.weight": {
+      "shape": [
+        2,
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.conv.conv.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.conv.conv.lin.weight": {
+      "shape": [
+        64,
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.attn.in_proj_weight": {
+      "shape": [
+        192,
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.attn.in_proj_bias": {
+      "shape": [
+        192
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.attn.out_proj.weight": {
+      "shape": [
+        64,
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.attn.out_proj.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.mlp.0.weight": {
+      "shape": [
+        128,
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.mlp.0.bias": {
+      "shape": [
+        128
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.mlp.3.weight": {
+      "shape": [
+        64,
+        128
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.mlp.3.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.norm1.module.weight": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.norm1.module.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.norm1.module.running_mean": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.norm1.module.running_var": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.norm1.module.num_batches_tracked": {
+      "shape": [],
+      "dtype": "torch.int64"
+    },
+    "convs.0.norm2.module.weight": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.norm2.module.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.norm2.module.running_mean": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.norm2.module.running_var": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.norm2.module.num_batches_tracked": {
+      "shape": [],
+      "dtype": "torch.int64"
+    },
+    "convs.0.norm3.module.weight": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.norm3.module.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.norm3.module.running_mean": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.norm3.module.running_var": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.0.norm3.module.num_batches_tracked": {
+      "shape": [],
+      "dtype": "torch.int64"
+    },
+    "convs.1.conv.conv.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.conv.conv.lin.weight": {
+      "shape": [
+        64,
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.attn.in_proj_weight": {
+      "shape": [
+        192,
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.attn.in_proj_bias": {
+      "shape": [
+        192
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.attn.out_proj.weight": {
+      "shape": [
+        64,
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.attn.out_proj.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.mlp.0.weight": {
+      "shape": [
+        128,
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.mlp.0.bias": {
+      "shape": [
+        128
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.mlp.3.weight": {
+      "shape": [
+        64,
+        128
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.mlp.3.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.norm1.module.weight": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.norm1.module.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.norm1.module.running_mean": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.norm1.module.running_var": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.norm1.module.num_batches_tracked": {
+      "shape": [],
+      "dtype": "torch.int64"
+    },
+    "convs.1.norm2.module.weight": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.norm2.module.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.norm2.module.running_mean": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.norm2.module.running_var": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.norm2.module.num_batches_tracked": {
+      "shape": [],
+      "dtype": "torch.int64"
+    },
+    "convs.1.norm3.module.weight": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.norm3.module.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.norm3.module.running_mean": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.norm3.module.running_var": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "convs.1.norm3.module.num_batches_tracked": {
+      "shape": [],
+      "dtype": "torch.int64"
+    },
+    "norm.weight": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "norm.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "norm.running_mean": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "norm.running_var": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "norm.num_batches_tracked": {
+      "shape": [],
+      "dtype": "torch.int64"
+    },
+    "forecast_head.0.weight": {
+      "shape": [
+        128,
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "forecast_head.0.bias": {
+      "shape": [
+        128
+      ],
+      "dtype": "torch.float32"
+    },
+    "forecast_head.3.weight": {
+      "shape": [
+        64,
+        128
+      ],
+      "dtype": "torch.float32"
+    },
+    "forecast_head.3.bias": {
+      "shape": [
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "forecast_head.5.weight": {
+      "shape": [
+        4428,
+        64
+      ],
+      "dtype": "torch.float32"
+    },
+    "forecast_head.5.bias": {
+      "shape": [
+        4428
+      ],
+      "dtype": "torch.float32"
+    }
+  },
+  "model_state_dict_saved_path": "model/SimpleGraphTransformer/final_model.pt",
+  "training_completed": true,
+  "epochs": 200,
+  "timestamp": "2025-11-27T17:12:01.765597",
+  "parameters": 380568,
+  "data_info": {
+    "file": "Dissertation/Vanilla Graph Transformer/data/sm_data_g.csv",
+    "nodes": 123,
+    "training_sequences": 55,
+    "validation_sequences": 11,
+    "test_sequences": 13
+  }
+}

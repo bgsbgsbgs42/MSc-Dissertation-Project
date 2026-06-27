@@ -1,0 +1,91 @@
+GRAPH TRANSFORMER MODEL EVALUATION REPORT
+Generated: 2025-12-05 21:05:32
+Model: Dissertation/Vanilla Graph Transformer/model/SimpleGraphTransformer/final_model.pt
+Data: Dissertation/Vanilla Graph Transformer/data/sm_data_g.csv
+
+MODEL CONFIGURATION
+sequence_length: 12
+embed_dim: 128
+num_heads: 4
+hidden_dim: 256
+num_layers: 2
+dropout: 0.1
+mc_dropout: 0.2
+learning_rate: 0.001
+batch_size: 8
+forecast_horizon: 29
+num_nodes: 123
+channels: 64
+node_dim: 1
+pe_dim: 8
+attn_type: multihead
+
+EXECUTIVE SUMMARY
+
+Average M-SMAPE: 399.17%
+Average MAE: 99146.7500
+Average MAPE: 4238199488512.00%
+Average RMSE: 328036.9375
+Average RAE: 1395.7266
+Average RRSE: 2118.5476
+Average AUC-ROC: 0.498
+Average Operational Readiness: 0.556
+
+DETAILED METRICS
+Accuracy Metrics:
+  Directional_Accuracy_Test: 0.506
+  Directional_Accuracy_Train: 0.501
+  M-SMAPE_Test: 399.06%
+  M-SMAPE_Train: 399.28%
+  MAE_Test: 137677.0469
+  MAE_Train: 60616.4492
+  MAPE_Test: 1557406.88%
+  MAPE_Train: 8476397404160.00%
+  RAE_Test: 1294.9387
+  RAE_Train: 1496.5145
+  RMSE_Test: 458704.4375
+  RMSE_Train: 197369.4219
+  RRSE_Test: 2233.6099
+  RRSE_Train: 2003.4852
+
+Detection Quality Metrics:
+  AUC_ROC_Test: 0.497
+  AUC_ROC_Train: 0.499
+  Alert_Precision_Test: 0.626
+  Alert_Precision_Train: 0.361
+  Attack_Coverage_Test: 0.488
+  Attack_Coverage_Train: 0.492
+  FPR_Test: 0.494
+  FPR_Train: 0.493
+
+Temporal Performance Metrics:
+  Temporal_Correlation_Test: 0.006
+  Temporal_Correlation_Train: 0.001
+
+Robustness and Distribution Metrics:
+  Adversarial_Robustness_Test: 0.926
+  Adversarial_Robustness_Train: 0.926
+  JS_Divergence_Test: 0.271
+  JS_Divergence_Train: 0.254
+  KS_Statistic_Test: 0.504
+  KS_Statistic_Train: 0.500
+  KS_p_value_Test: 0.0000
+  KS_p_value_Train: 0.0000
+
+Uncertainty Quantification (Quantile Loss):
+  Quantile_Loss_Test_quantile_10: 65933.5625
+  Quantile_Loss_Test_quantile_50: 68838.5234
+  Quantile_Loss_Test_quantile_90: 71743.4688
+  Quantile_Loss_Train_quantile_10: 29055.7383
+  Quantile_Loss_Train_quantile_50: 30308.2246
+  Quantile_Loss_Train_quantile_90: 31560.7129
+
+PERFORMANCE ASSESSMENT
+Detection Quality: POOR (AUC-ROC: 0.498)
+RMSE Performance: POOR (RMSE: 328036.9375)
+Forecast Accuracy: POOR (M-SMAPE: 399.17%)
+Relative Accuracy (RAE): POOR (RAE: 1395.7266)
+Relative Squared Error (RRSE): POOR (RRSE: 2118.5476)
+
+
+================================================================================

@@ -1,0 +1,48 @@
+{
+  "hyperparameters": {
+    "sequence_length": 12,
+    "patch_size": 1,
+    "embed_dim": 128,
+    "num_heads": 4,
+    "hidden_dim": 256,
+    "num_layers": 4,
+    "dropout": 0.3,
+    "mc_dropout": 0.2,
+    "learning_rate": 0.0005,
+    "weight_decay": 0.0,
+    "batch_size": 4,
+    "scheduler_patience": 5,
+    "scheduler_factor": 0.7,
+    "positional_encoding_type": "learned",
+    "mc_inference_runs": 30,
+    "forecast_horizon": 12,
+    "grad_clip_value": 1.0,
+    "activation": "relu",
+    "optimization_horizon": 12,
+    "operational_horizon": 36,
+    "num_nodes": 645,
+    "transfer_strategy": "selective",
+    "fine_tune_all": true,
+    "pretrained_models_used": 6
+  },
+  "final_loss": 19.627401802238285,
+  "total_epochs": 7,
+  "timestamp": "2025-11-20T11:45:39.599459",
+  "data_shape": [
+    162,
+    645
+  ],
+  "device": "cpu",
+  "best_val_rrse": 0.2949378192424774,
+  "best_val_rae": 0.11130889505147934,
+  "test_rrse": Infinity,
+  "test_rae": Infinity,
+  "successful_iterations": 6,
+  "total_iterations": 60,
+  "transfer_learning": {
+    "enabled": true,
+    "strategy": "selective",
+    "fine_tune_all": true,
+    "pretrained_models_loaded": 6
+  }
+}

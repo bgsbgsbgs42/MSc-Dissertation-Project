@@ -1,0 +1,949 @@
+{
+  "total_parameters": 10401770,
+  "trainable_parameters": 10401770,
+  "parameter_stats": {
+    "attention_weights": {
+      "shape": [
+        2
+      ],
+      "numel": 2,
+      "requires_grad": true,
+      "mean": 0.9983507394790649,
+      "std": 0.18104583024978638,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.patch_embed.cls_token": {
+      "shape": [
+        1,
+        1,
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.043083395808935165,
+      "std": 0.7429037094116211,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.patch_embed.position_embeddings": {
+      "shape": [
+        1,
+        3,
+        128
+      ],
+      "numel": 384,
+      "requires_grad": true,
+      "mean": -0.029467890039086342,
+      "std": 0.752887487411499,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.patch_embed.projection.weight": {
+      "shape": [
+        128,
+        645,
+        6
+      ],
+      "numel": 495360,
+      "requires_grad": true,
+      "mean": 5.766746471635997e-05,
+      "std": 0.013679798692464828,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.patch_embed.projection.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.0010317603591829538,
+      "std": 0.012339957058429718,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.0.self_attn.in_proj_weight": {
+      "shape": [
+        384,
+        128
+      ],
+      "numel": 49152,
+      "requires_grad": true,
+      "mean": -0.00021212664432823658,
+      "std": 0.0551101416349411,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.0.self_attn.in_proj_bias": {
+      "shape": [
+        384
+      ],
+      "numel": 384,
+      "requires_grad": true,
+      "mean": 0.0001269582862732932,
+      "std": 0.010045826435089111,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.0.self_attn.out_proj.weight": {
+      "shape": [
+        128,
+        128
+      ],
+      "numel": 16384,
+      "requires_grad": true,
+      "mean": -0.000486121658468619,
+      "std": 0.04721718654036522,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.0.self_attn.out_proj.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": -0.00021798466332256794,
+      "std": 0.009160492569208145,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.0.linear1.weight": {
+      "shape": [
+        256,
+        128
+      ],
+      "numel": 32768,
+      "requires_grad": true,
+      "mean": -0.0002253659040434286,
+      "std": 0.03661014139652252,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.0.linear1.bias": {
+      "shape": [
+        256
+      ],
+      "numel": 256,
+      "requires_grad": true,
+      "mean": -0.03129832446575165,
+      "std": 0.039422377943992615,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.0.linear2.weight": {
+      "shape": [
+        128,
+        256
+      ],
+      "numel": 32768,
+      "requires_grad": true,
+      "mean": -0.00026913752662949264,
+      "std": 0.028468409553170204,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.0.linear2.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": -0.003620654344558716,
+      "std": 0.03548910468816757,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.0.norm1.weight": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.9246608018875122,
+      "std": 0.03281969577074051,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.0.norm1.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.0003600225900299847,
+      "std": 0.011058068834245205,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.0.norm2.weight": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.9246561527252197,
+      "std": 0.03161010146141052,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.0.norm2.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": -0.00025990651920437813,
+      "std": 0.00781503226608038,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.1.self_attn.in_proj_weight": {
+      "shape": [
+        384,
+        128
+      ],
+      "numel": 49152,
+      "requires_grad": true,
+      "mean": -0.0001154598212451674,
+      "std": 0.04395730793476105,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.1.self_attn.in_proj_bias": {
+      "shape": [
+        384
+      ],
+      "numel": 384,
+      "requires_grad": true,
+      "mean": 0.0001701945875538513,
+      "std": 0.01100823376327753,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.1.self_attn.out_proj.weight": {
+      "shape": [
+        128,
+        128
+      ],
+      "numel": 16384,
+      "requires_grad": true,
+      "mean": -0.00041375658474862576,
+      "std": 0.04618445411324501,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.1.self_attn.out_proj.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.001084199990145862,
+      "std": 0.010788357816636562,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.1.linear1.weight": {
+      "shape": [
+        256,
+        128
+      ],
+      "numel": 32768,
+      "requires_grad": true,
+      "mean": -0.00023982897982932627,
+      "std": 0.03748727962374687,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.1.linear1.bias": {
+      "shape": [
+        256
+      ],
+      "numel": 256,
+      "requires_grad": true,
+      "mean": -0.03212747350335121,
+      "std": 0.03977373242378235,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.1.linear2.weight": {
+      "shape": [
+        128,
+        256
+      ],
+      "numel": 32768,
+      "requires_grad": true,
+      "mean": 0.00017260837194044143,
+      "std": 0.02907317690551281,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.1.linear2.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": -0.002740335650742054,
+      "std": 0.03448092192411423,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.1.norm1.weight": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.9293172955513,
+      "std": 0.03244883194565773,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.1.norm1.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.000821690249722451,
+      "std": 0.010740641504526138,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.1.norm2.weight": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.9344047904014587,
+      "std": 0.028491344302892685,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.1.norm2.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.00012200155470054597,
+      "std": 0.0070010642521083355,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.2.self_attn.in_proj_weight": {
+      "shape": [
+        384,
+        128
+      ],
+      "numel": 49152,
+      "requires_grad": true,
+      "mean": -9.713749750517309e-05,
+      "std": 0.04304061084985733,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.2.self_attn.in_proj_bias": {
+      "shape": [
+        384
+      ],
+      "numel": 384,
+      "requires_grad": true,
+      "mean": 0.00017855821351986378,
+      "std": 0.013346363790333271,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.2.self_attn.out_proj.weight": {
+      "shape": [
+        128,
+        128
+      ],
+      "numel": 16384,
+      "requires_grad": true,
+      "mean": -0.0006109054666012526,
+      "std": 0.0485135018825531,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.2.self_attn.out_proj.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.0005892097833566368,
+      "std": 0.010991199873387814,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.2.linear1.weight": {
+      "shape": [
+        256,
+        128
+      ],
+      "numel": 32768,
+      "requires_grad": true,
+      "mean": -0.0001736342383082956,
+      "std": 0.04177974537014961,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.2.linear1.bias": {
+      "shape": [
+        256
+      ],
+      "numel": 256,
+      "requires_grad": true,
+      "mean": -0.029935140162706375,
+      "std": 0.044121962040662766,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.2.linear2.weight": {
+      "shape": [
+        128,
+        256
+      ],
+      "numel": 32768,
+      "requires_grad": true,
+      "mean": -0.00029803195502609015,
+      "std": 0.03233824297785759,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.2.linear2.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": -0.0038272798992693424,
+      "std": 0.0352078340947628,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.2.norm1.weight": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.9507360458374023,
+      "std": 0.022710472345352173,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.2.norm1.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.0002988859487231821,
+      "std": 0.011208678595721722,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.2.norm2.weight": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.982147216796875,
+      "std": 0.01693269982933998,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.transformer.layers.2.norm2.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": -0.0017513844650238752,
+      "std": 0.010164396837353706,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.forecast_head.0.weight": {
+      "shape": [
+        256,
+        128
+      ],
+      "numel": 32768,
+      "requires_grad": true,
+      "mean": -0.0003117996093351394,
+      "std": 0.05101611465215683,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.forecast_head.0.bias": {
+      "shape": [
+        256
+      ],
+      "numel": 256,
+      "requires_grad": true,
+      "mean": 0.0004831503611057997,
+      "std": 0.04986572265625,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.forecast_head.3.weight": {
+      "shape": [
+        23220,
+        256
+      ],
+      "numel": 5944320,
+      "requires_grad": true,
+      "mean": 2.7497937480802648e-05,
+      "std": 0.03608842194080353,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "vit_branch.forecast_head.3.bias": {
+      "shape": [
+        23220
+      ],
+      "numel": 23220,
+      "requires_grad": true,
+      "mean": -0.0001606602018000558,
+      "std": 0.036220114678144455,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.node_proj.weight": {
+      "shape": [
+        128,
+        645
+      ],
+      "numel": 82560,
+      "requires_grad": true,
+      "mean": 9.621272329241037e-05,
+      "std": 0.02344561368227005,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.node_proj.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.0013110609725117683,
+      "std": 0.02256542444229126,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.0.self_attn.in_proj_weight": {
+      "shape": [
+        384,
+        128
+      ],
+      "numel": 49152,
+      "requires_grad": true,
+      "mean": -0.00015735204215161502,
+      "std": 0.036829669028520584,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.0.self_attn.in_proj_bias": {
+      "shape": [
+        384
+      ],
+      "numel": 384,
+      "requires_grad": true,
+      "mean": -0.00034370229695923626,
+      "std": 0.006476461887359619,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.0.self_attn.out_proj.weight": {
+      "shape": [
+        128,
+        128
+      ],
+      "numel": 16384,
+      "requires_grad": true,
+      "mean": 0.0003639952919911593,
+      "std": 0.04453418403863907,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.0.self_attn.out_proj.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 3.6893601645715535e-05,
+      "std": 0.008893140591681004,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.0.linear1.weight": {
+      "shape": [
+        256,
+        128
+      ],
+      "numel": 32768,
+      "requires_grad": true,
+      "mean": -0.00019538334163371474,
+      "std": 0.03882543370127678,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.0.linear1.bias": {
+      "shape": [
+        256
+      ],
+      "numel": 256,
+      "requires_grad": true,
+      "mean": -0.041707843542099,
+      "std": 0.040724221616983414,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.0.linear2.weight": {
+      "shape": [
+        128,
+        256
+      ],
+      "numel": 32768,
+      "requires_grad": true,
+      "mean": -9.967569349100813e-05,
+      "std": 0.029230616986751556,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.0.linear2.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": -0.0013566035777330399,
+      "std": 0.033065978437662125,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.0.norm1.weight": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.9465306401252747,
+      "std": 0.02958657220005989,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.0.norm1.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.00027151720132678747,
+      "std": 0.009857355616986752,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.0.norm2.weight": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.9493848085403442,
+      "std": 0.025631310418248177,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.0.norm2.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.00025653146440163255,
+      "std": 0.0060349516570568085,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.1.self_attn.in_proj_weight": {
+      "shape": [
+        384,
+        128
+      ],
+      "numel": 49152,
+      "requires_grad": true,
+      "mean": -0.00022893001732882112,
+      "std": 0.03957376629114151,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.1.self_attn.in_proj_bias": {
+      "shape": [
+        384
+      ],
+      "numel": 384,
+      "requires_grad": true,
+      "mean": -7.428034587064758e-05,
+      "std": 0.0069017475470900536,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.1.self_attn.out_proj.weight": {
+      "shape": [
+        128,
+        128
+      ],
+      "numel": 16384,
+      "requires_grad": true,
+      "mean": 0.00010262633441016078,
+      "std": 0.047863468527793884,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.1.self_attn.out_proj.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.00011941736738663167,
+      "std": 0.009693163447082043,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.1.linear1.weight": {
+      "shape": [
+        256,
+        128
+      ],
+      "numel": 32768,
+      "requires_grad": true,
+      "mean": -0.00042294044396840036,
+      "std": 0.04282401129603386,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.1.linear1.bias": {
+      "shape": [
+        256
+      ],
+      "numel": 256,
+      "requires_grad": true,
+      "mean": -0.03588171675801277,
+      "std": 0.044594667851924896,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.1.linear2.weight": {
+      "shape": [
+        128,
+        256
+      ],
+      "numel": 32768,
+      "requires_grad": true,
+      "mean": 8.399800572078675e-05,
+      "std": 0.033469244837760925,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.1.linear2.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.00012469134526327252,
+      "std": 0.03277622535824776,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.1.norm1.weight": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.9614421129226685,
+      "std": 0.018169023096561432,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.1.norm1.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.0016553469467908144,
+      "std": 0.010019742883741856,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.1.norm2.weight": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 1.011401891708374,
+      "std": 0.014638069085776806,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "graph_branch.layers.1.norm2.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.0009088374208658934,
+      "std": 0.00972684845328331,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "cross_attention.in_proj_weight": {
+      "shape": [
+        384,
+        128
+      ],
+      "numel": 49152,
+      "requires_grad": true,
+      "mean": 0.0002489628968760371,
+      "std": 0.062438398599624634,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "cross_attention.in_proj_bias": {
+      "shape": [
+        384
+      ],
+      "numel": 384,
+      "requires_grad": true,
+      "mean": 0.0,
+      "std": 0.0,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "cross_attention.out_proj.weight": {
+      "shape": [
+        128,
+        128
+      ],
+      "numel": 16384,
+      "requires_grad": true,
+      "mean": -0.0007545980042777956,
+      "std": 0.05090051144361496,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "cross_attention.out_proj.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.0,
+      "std": 0.0,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "forecast_head.0.weight": {
+      "shape": [
+        256,
+        256
+      ],
+      "numel": 65536,
+      "requires_grad": true,
+      "mean": -4.5327498810365796e-05,
+      "std": 0.04309505969285965,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "forecast_head.0.bias": {
+      "shape": [
+        256
+      ],
+      "numel": 256,
+      "requires_grad": true,
+      "mean": 0.013975412584841251,
+      "std": 0.0382009819149971,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "forecast_head.3.weight": {
+      "shape": [
+        128,
+        256
+      ],
+      "numel": 32768,
+      "requires_grad": true,
+      "mean": -0.0071500991471111774,
+      "std": 0.04438726603984833,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "forecast_head.3.bias": {
+      "shape": [
+        128
+      ],
+      "numel": 128,
+      "requires_grad": true,
+      "mean": 0.02867356687784195,
+      "std": 0.03661412000656128,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "forecast_head.6.weight": {
+      "shape": [
+        23220,
+        128
+      ],
+      "numel": 2972160,
+      "requires_grad": true,
+      "mean": 0.0010234488872811198,
+      "std": 0.02141684852540493,
+      "grad_mean": null,
+      "grad_std": null
+    },
+    "forecast_head.6.bias": {
+      "shape": [
+        23220
+      ],
+      "numel": 23220,
+      "requires_grad": true,
+      "mean": 0.0029606965836137533,
+      "std": 0.02637689933180809,
+      "grad_mean": null,
+      "grad_std": null
+    }
+  },
+  "model_config": {
+    "sequence_length": 12,
+    "forecast_horizon": 36,
+    "num_nodes": 645,
+    "vit_patch_size": 6,
+    "vit_embed_dim": 128,
+    "vit_num_heads": 8,
+    "vit_hidden_dim": 256,
+    "vit_num_layers": 3,
+    "graph_hidden_dim": 128,
+    "graph_num_layers": 2,
+    "fusion_dim": 256,
+    "dropout": 0.1,
+    "mc_dropout": 0.2,
+    "learning_rate": 0.001,
+    "batch_size": 4,
+    "weight_decay": 1e-05
+  }
+}

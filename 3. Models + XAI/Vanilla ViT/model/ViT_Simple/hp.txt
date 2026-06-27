@@ -1,0 +1,14 @@
+{
+  "sequence_length": 8,
+  "patch_size": 4,
+  "embed_dim": 64,
+  "num_heads": 8,
+  "hidden_dim": 256,
+  "num_layers": 2,
+  "dropout": 0.1,
+  "learning_rate": 0.001,
+  "weight_decay": 0.01,
+  "batch_size": 16,
+  "forecast_horizon": 12,
+  "num_nodes": 645
+}

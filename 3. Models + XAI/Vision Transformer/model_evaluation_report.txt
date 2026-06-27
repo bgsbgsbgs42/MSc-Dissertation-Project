@@ -1,0 +1,77 @@
+CYBER THREAT FORECASTING MODEL EVALUATION REPORT
+Generated: 2025-12-07 18:12:44
+Model: ./final_transfer_model/final_model.pt
+Data: ./data/sm_data_g.csv
+
+MODEL CONFIGURATION
+sequence_length: 12
+patch_size: 4
+embed_dim: 128
+num_heads: 8
+hidden_dim: 256
+num_layers: 3
+dropout: 0.1
+mc_dropout: 0.2
+learning_rate: 0.001
+batch_size: 8
+forecast_horizon: 36
+num_nodes: 645
+
+EXECUTIVE SUMMARY
+Average M-SMAPE: 152.14%
+Average MAE: 456.1860
+Average MAPE: 4853696519.04%
+Average AUC-ROC: 0.500
+Average RMSE: 11052.2661
+Average RAE: 0.3887
+Average RRSE: 0.7771
+Average Operational Readiness: 0.510
+
+DETAILED METRICS
+Accuracy Metrics:
+  M-SMAPE_Train: 118.71%
+  M-SMAPE_Test: 185.57%
+  MAE_Train: 103.8433
+  MAE_Test: 808.5286
+  MAPE_Train: 9707392287.25%
+  MAPE_Test: 750.84%
+  Directional_Accuracy_Train: 0.501
+  Directional_Accuracy_Test: 0.501
+
+Detection Quality Metrics:
+  AUC_ROC_Train: 0.500
+  AUC_ROC_Test: 0.500
+  FPR_Train: 0.000
+  FPR_Test: 0.000
+  Attack_Coverage_Train: 0.000
+  Attack_Coverage_Test: 0.001
+  Alert_Precision_Train: 0.000
+  Alert_Precision_Test: 1.000
+
+Temporal Performance Metrics:
+  Temporal_Correlation_Train: -0.015
+  Temporal_Correlation_Test: -0.029
+
+Robustness and Distribution Metrics:
+  KS_Statistic_Train: 0.282
+  KS_Statistic_Test: 0.229
+  KS_p_value_Train: 0.0000
+  KS_p_value_Test: 0.0000
+  JS_Divergence_Train: 0.037
+  JS_Divergence_Test: 0.037
+  Adversarial_Robustness_Train: 0.926
+  Adversarial_Robustness_Test: 0.926
+
+Uncertainty Quantification (Quantile Loss):
+  Quantile_Loss_Train_quantile_10: 46.3678
+  Quantile_Loss_Train_quantile_50: 51.9216
+  Quantile_Loss_Train_quantile_90: 57.4755
+  Quantile_Loss_Test_quantile_10: 97.6917
+  Quantile_Loss_Test_quantile_50: 404.2643
+  Quantile_Loss_Test_quantile_90: 710.8369
+
+PERFORMANCE ASSESSMENT
+Detection Quality: POOR (AUC-ROC: 0.500)
+Forecast Accuracy: POOR (M-SMAPE: 152.14%)
+
+================================================================================

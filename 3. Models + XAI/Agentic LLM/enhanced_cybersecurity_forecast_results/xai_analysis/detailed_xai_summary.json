@@ -1,0 +1,97 @@
+{
+  "execution_summary": {
+    "total_methods_configured": 11,
+    "successful_methods": 11,
+    "failed_methods": 0,
+    "success_rate": 1.0
+  },
+  "method_insights": {
+    "shap": {
+      "status": "success",
+      "execution_time": "N/A",
+      "result_size": 0,
+      "models_analyzed": []
+    },
+    "lime": {
+      "status": "success",
+      "execution_time": "N/A",
+      "result_size": 0
+    },
+    "attention": {
+      "status": "success",
+      "execution_time": "N/A",
+      "result_size": 0
+    },
+    "permutation": {
+      "status": "success",
+      "execution_time": "N/A",
+      "result_size": 0
+    },
+    "counterfactual": {
+      "status": "success",
+      "execution_time": "N/A",
+      "result_size": 0
+    },
+    "causal": {
+      "status": "success",
+      "execution_time": "N/A",
+      "result_size": 0
+    },
+    "faithfulness": {
+      "status": "success",
+      "execution_time": "N/A",
+      "result_size": 1158,
+      "average_faithfulness": 0.5
+    },
+    "dynamic_weights": {
+      "status": "success",
+      "execution_time": "N/A",
+      "result_size": 0
+    },
+    "dice": {
+      "status": "success",
+      "execution_time": "N/A",
+      "result_size": 0
+    },
+    "consensus": {
+      "status": "success",
+      "execution_time": "N/A",
+      "result_size": 2846,
+      "high_agreement_features": [
+        "Solution_MULTI FACTOR AUTHENTICATION_Mentions",
+        "Solution_CRYPTOGRAPHY_Mentions",
+        "Solution_BLACKLISTING_Mentions",
+        "Solution_ENCRYPTION_Mentions",
+        "Solution_DECEPTION TECHNOLOGY_Mentions"
+      ],
+      "disagreement_features": [
+        "Unnamed: 26",
+        "Unnamed: 27",
+        "Unnamed: 23",
+        "Unnamed: 24",
+        "Unnamed: 20"
+      ]
+    },
+    "anchors": {
+      "status": "success",
+      "execution_time": "N/A",
+      "result_size": 798
+    }
+  },
+  "model_coverage": {
+    "total_models": 2,
+    "models_analyzed": [
+      "RandomForest",
+      "LSTM"
+    ],
+    "model_types": [
+      "RandomForestRegressor",
+      "NoneType"
+    ]
+  },
+  "key_findings": [
+    "High model agreement on features: Solution_MULTI FACTOR AUTHENTICATION_Mentions, Solution_CRYPTOGRAPHY_Mentions, Solution_BLACKLISTING_Mentions",
+    "Model disagreement on features: Unnamed: 26, Unnamed: 27, Unnamed: 23",
+    "Highest explanation faithfulness: RandomForest (0.500)"
+  ]
+}

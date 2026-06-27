@@ -1,0 +1,671 @@
+{
+  "executive_summary": {
+    "total_nodes_analyzed": 1,
+    "models_used": [
+      "LSTM",
+      "RandomForest"
+    ],
+    "key_metrics": {
+      "MAE": 27.637928785490033,
+      "RMSE": 35.9019890656955,
+      "Operational_Readiness_Index": 0.8678571423635204
+    },
+    "pat_recommendations_summary": {},
+    "overall_assessment": "EXCELLENT - High operational readiness with strong predictive capabilities",
+    "timestamp": "2025-12-06T13:46:53.960270"
+  },
+  "technical_analysis": {
+    "data_characteristics": {},
+    "model_performance_comparison": {
+      "average_scores": {
+        "RandomForest": 0.8678571423635204,
+        "LSTM": 0.0
+      },
+      "ranking": [
+        [
+          "RandomForest",
+          0.8678571423635204
+        ],
+        [
+          "LSTM",
+          0.0
+        ]
+      ],
+      "best_model": [
+        "RandomForest",
+        0.8678571423635204
+      ]
+    },
+    "xai_insights": {},
+    "validation_results": {
+      "validation_results": {
+        "validation_summary": {
+          "total_tested": 13,
+          "successfully_tested": 6,
+          "selected_models": 3,
+          "best_model": "RandomForest",
+          "best_score": 5.572016743960323
+        },
+        "model_performance": {
+          "ARIMA": {
+            "validation_score": 7.4478927779374136,
+            "metrics": {
+              "mse": 94.37516881064384,
+              "mae": 7.4478927779374136,
+              "mape": 44.560683181608816,
+              "r2": -1.3276231646201975
+            },
+            "hyperparameters": {
+              "p": 0,
+              "d": 0,
+              "q": 0
+            }
+          },
+          "ExponentialSmoothing": {
+            "validation_score": 8.006858594053668,
+            "metrics": {
+              "mse": 104.65550957710218,
+              "mae": 8.006858594053668,
+              "mape": 49.20709717669262,
+              "r2": -1.5811724785950303
+            },
+            "hyperparameters": {
+              "trend": "add",
+              "seasonal": "add",
+              "seasonal_periods": 12
+            }
+          },
+          "RandomForest": {
+            "validation_score": 5.572016743960323,
+            "metrics": {
+              "mse": 45.03729214416497,
+              "mae": 5.572016743960323,
+              "mape": 49.72305063184756,
+              "r2": -0.11077782204404052
+            },
+            "hyperparameters": {
+              "n_estimators": 100,
+              "max_depth": 5,
+              "min_samples_split": 2
+            }
+          },
+          "LinearRegression": {
+            "validation_score": 8.636563012030592,
+            "metrics": {
+              "mse": 103.29696926991528,
+              "mae": 8.636563012030592,
+              "mape": 116.13131140426316,
+              "r2": -1.5476661026178586
+            },
+            "hyperparameters": {
+              "fit_intercept": true
+            }
+          },
+          "LSTM": {
+            "validation_score": 5.572016743960324,
+            "metrics": {
+              "mse": 40.545725031931106,
+              "mae": 5.572016743960324,
+              "mape": 59.41243843649343,
+              "r2": 0.0
+            },
+            "hyperparameters": {
+              "hidden_dim": 32,
+              "num_layers": 1,
+              "sequence_length": 6,
+              "epochs": 50,
+              "learning_rate": 0.001
+            }
+          },
+          "Prophet": {
+            "validation_score": 1948.6331670499912,
+            "metrics": {
+              "mse": 3797302.6071694344,
+              "mae": 1948.6331670499912,
+              "mape": 19782.84351360305,
+              "r2": -93653.82067909582
+            },
+            "hyperparameters": {
+              "yearly_seasonality": false,
+              "weekly_seasonality": false,
+              "daily_seasonality": false,
+              "changepoint_prior_scale": 0.05
+            }
+          },
+          "SpatioTemporalEnsemble": {
+            "validation_score": Infinity,
+            "metrics": {
+              "mse": Infinity,
+              "mae": Infinity,
+              "mape": Infinity
+            },
+            "hyperparameters": {
+              "sequence_length": [
+                12,
+                24,
+                36
+              ],
+              "vit_patch_size": [
+                2,
+                3,
+                4,
+                6
+              ],
+              "vit_embed_dim": [
+                64,
+                96,
+                128,
+                160
+              ],
+              "vit_num_heads": [
+                4,
+                8
+              ],
+              "vit_hidden_dim": [
+                128,
+                192,
+                256,
+                320
+              ],
+              "vit_num_layers": [
+                2,
+                3,
+                4
+              ],
+              "graph_hidden_dim": [
+                64,
+                96,
+                128,
+                160
+              ],
+              "graph_num_layers": [
+                1,
+                2,
+                3
+              ],
+              "fusion_dim": [
+                128,
+                192,
+                256,
+                320
+              ],
+              "dropout": [
+                0.1,
+                0.2,
+                0.3
+              ],
+              "mc_dropout": [
+                0.1,
+                0.2,
+                0.3,
+                0.4
+              ],
+              "learning_rate": [
+                0.0001,
+                0.0003,
+                0.0005,
+                0.001,
+                0.002
+              ],
+              "weight_decay": [
+                0.001,
+                0.01,
+                0.05
+              ],
+              "batch_size": [
+                4,
+                8,
+                16
+              ]
+            }
+          },
+          "VisionTransformer": {
+            "validation_score": Infinity,
+            "metrics": {
+              "mse": Infinity,
+              "mae": Infinity,
+              "mape": Infinity
+            },
+            "hyperparameters": {
+              "sequence_length": [
+                12,
+                24,
+                36
+              ],
+              "patch_size": [
+                2,
+                4,
+                6
+              ],
+              "embed_dim": [
+                64,
+                128,
+                256
+              ],
+              "num_heads": [
+                4,
+                8
+              ],
+              "hidden_dim": [
+                128,
+                256,
+                512
+              ],
+              "num_layers": [
+                2,
+                3,
+                4
+              ],
+              "dropout": [
+                0.1,
+                0.2,
+                0.3
+              ],
+              "learning_rate": [
+                0.0001,
+                0.0005,
+                0.001
+              ],
+              "batch_size": [
+                8,
+                16,
+                32
+              ]
+            }
+          },
+          "SimpleVisionTransformer": {
+            "validation_score": Infinity,
+            "metrics": {
+              "mse": Infinity,
+              "mae": Infinity,
+              "mape": Infinity
+            },
+            "hyperparameters": {
+              "sequence_length": [
+                12,
+                24
+              ],
+              "patch_size": [
+                2,
+                4,
+                6
+              ],
+              "embed_dim": [
+                64,
+                128
+              ],
+              "num_heads": [
+                4,
+                8
+              ],
+              "hidden_dim": [
+                128,
+                256
+              ],
+              "num_layers": [
+                2,
+                3
+              ],
+              "dropout": [
+                0.1,
+                0.2
+              ],
+              "learning_rate": [
+                0.0001,
+                0.001
+              ],
+              "batch_size": [
+                8,
+                16
+              ]
+            }
+          },
+          "VisionTransformerForTimeSeries": {
+            "validation_score": Infinity,
+            "metrics": {
+              "mse": Infinity,
+              "mae": Infinity,
+              "mape": Infinity
+            },
+            "hyperparameters": {
+              "sequence_length": [
+                12,
+                24,
+                36
+              ],
+              "patch_size": [
+                2,
+                3,
+                4,
+                6
+              ],
+              "embed_dim": [
+                64,
+                96,
+                128,
+                160
+              ],
+              "num_heads": [
+                4,
+                8
+              ],
+              "hidden_dim": [
+                128,
+                192,
+                256,
+                320
+              ],
+              "num_layers": [
+                2,
+                3,
+                4
+              ],
+              "dropout": [
+                0.1,
+                0.2,
+                0.3
+              ],
+              "mc_dropout": [
+                0.1,
+                0.2,
+                0.3,
+                0.4
+              ],
+              "learning_rate": [
+                0.0001,
+                0.0003,
+                0.0005,
+                0.001,
+                0.002
+              ],
+              "weight_decay": [
+                0.001,
+                0.01,
+                0.05
+              ],
+              "batch_size": [
+                4,
+                8,
+                16
+              ]
+            }
+          },
+          "BMTGNN": {
+            "validation_score": Infinity,
+            "metrics": {
+              "mse": Infinity,
+              "mae": Infinity,
+              "mape": Infinity
+            },
+            "hyperparameters": {
+              "gcn_depth": [
+                1,
+                2,
+                3
+              ],
+              "conv_channels": [
+                4,
+                8,
+                16
+              ],
+              "residual_channels": [
+                16,
+                32,
+                64
+              ],
+              "skip_channels": [
+                64,
+                128,
+                256
+              ],
+              "end_channels": [
+                256,
+                512,
+                1024
+              ],
+              "layers": [
+                1,
+                2
+              ],
+              "subgraph_size": [
+                20,
+                30
+              ],
+              "dropout": [
+                0.2,
+                0.3,
+                0.4
+              ],
+              "dilation_exponential": [
+                1,
+                2
+              ],
+              "node_dim": [
+                40,
+                50,
+                60
+              ],
+              "propalpha": [
+                0.05,
+                0.1,
+                0.2
+              ],
+              "tanhalpha": [
+                1,
+                2,
+                3
+              ],
+              "learning_rate": [
+                0.001,
+                0.0005,
+                0.0001
+              ]
+            }
+          },
+          "SimpleGraphTransformer": {
+            "validation_score": Infinity,
+            "metrics": {
+              "mse": Infinity,
+              "mae": Infinity,
+              "mape": Infinity
+            },
+            "hyperparameters": {
+              "channels": [
+                32,
+                64,
+                96
+              ],
+              "num_layers": [
+                2,
+                3,
+                4
+              ],
+              "pe_dim": [
+                4,
+                8,
+                12
+              ],
+              "pe_walk_length": [
+                10,
+                15,
+                20
+              ],
+              "node_dim": [
+                1
+              ],
+              "num_heads": [
+                4,
+                6,
+                8
+              ],
+              "attn_dropout": [
+                0.1,
+                0.15,
+                0.2
+              ],
+              "dropout": [
+                0.1,
+                0.2,
+                0.3
+              ],
+              "forecast_horizon": [
+                6,
+                12,
+                24
+              ],
+              "sequence_length": [
+                12,
+                18,
+                24
+              ],
+              "correlation_threshold": [
+                0.2,
+                0.3,
+                0.4
+              ],
+              "local_gnn_type": [
+                "GINE",
+                "GCN"
+              ],
+              "learning_rate": [
+                0.0001,
+                0.0005,
+                0.001
+              ],
+              "batch_size": [
+                8,
+                16,
+                32
+              ]
+            }
+          },
+          "GraphTransformer": {
+            "validation_score": Infinity,
+            "metrics": {
+              "mse": Infinity,
+              "mae": Infinity,
+              "mape": Infinity
+            },
+            "hyperparameters": {
+              "channels": [
+                32,
+                64,
+                96,
+                128
+              ],
+              "num_layers": [
+                2,
+                3,
+                4
+              ],
+              "pe_dim": [
+                4,
+                8,
+                12
+              ],
+              "pe_walk_length": [
+                20
+              ],
+              "node_dim": [
+                1
+              ],
+              "num_heads": [
+                4,
+                6,
+                8
+              ],
+              "attn_dropout": [
+                0.1,
+                0.15,
+                0.2
+              ],
+              "dropout": [
+                0.1,
+                0.2,
+                0.3
+              ],
+              "weight_decay": [
+                1e-05,
+                5e-05,
+                0.0001
+              ],
+              "learning_rate": [
+                5e-05,
+                0.0001,
+                0.00025,
+                0.0005
+              ],
+              "batch_size": [
+                4,
+                8,
+                12
+              ],
+              "forecast_horizon": [
+                36
+              ],
+              "sequence_length": [
+                12,
+                15,
+                18
+              ],
+              "correlation_threshold": [
+                0.25,
+                0.3,
+                0.35
+              ],
+              "max_edges_per_node": [
+                10,
+                15
+              ],
+              "local_gnn_type": [
+                "GINE",
+                "GCN"
+              ],
+              "norm_type": [
+                "batch",
+                "layer"
+              ],
+              "head_hidden_dims": [
+                [
+                  128,
+                  64
+                ],
+                [
+                  256,
+                  128
+                ]
+              ],
+              "head_activation": [
+                "relu",
+                "gelu"
+              ],
+              "grad_clip": [
+                0.5,
+                1.0,
+                2.0
+              ]
+            }
+          }
+        },
+        "recommendations": [
+          "Top performing model: RandomForest (Score: 5.5720)",
+          "Recommended for ensemble: ['RandomForest', 'LSTM', 'ARIMA']"
+        ]
+      },
+      "best_models": [
+        {
+          "model": "RandomForest",
+          "hyperparameters": {
+            "n_estimators": 100,
+            "max_depth": 5,
+            "min_samples_split": 2
+          },
+          "validation_score": 5.572016743960323,
+          "validation_metrics": {
+            "mse": 45.03729214416497,
+            "mae": 5.572016743960323,
+            "mape": 49.72305063184756,
+            "r2": -0.11077782204404052
+          },
+          "reason": "Robust to outliers and anomalies in threat data",
+          "trained_model": 

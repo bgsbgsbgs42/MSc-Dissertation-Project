@@ -1,0 +1,175 @@
+{
+  "shap": {},
+  "lime": {},
+  "attention": {},
+  "permutation": {},
+  "counterfactual": {},
+  "causal": {},
+  "faithfulness": {
+    "RandomForest": {
+      "sufficiency_mean": 0.5,
+      "sufficiency_std": 0.1,
+      "sufficiency_min": 0.4,
+      "sufficiency_max": 0.6,
+      "comprehensiveness_mean": 0.5,
+      "comprehensiveness_std": 0.1,
+      "comprehensiveness_min": 0.4,
+      "comprehensiveness_max": 0.6,
+      "monotonicity_mean": 0.5,
+      "monotonicity_std": 0.1,
+      "monotonicity_min": 0.4,
+      "monotonicity_max": 0.6,
+      "robustness_mean": 0.5,
+      "robustness_std": 0.1,
+      "robustness_min": 0.4,
+      "robustness_max": 0.6,
+      "faithfulness_score_mean": 0.5,
+      "faithfulness_score_std": 0.1,
+      "faithfulness_score_min": 0.4,
+      "faithfulness_score_max": 0.6,
+      "num_samples_evaluated": 0
+    },
+    "LSTM": {
+      "sufficiency_mean": 0.5,
+      "sufficiency_std": 0.1,
+      "sufficiency_min": 0.4,
+      "sufficiency_max": 0.6,
+      "comprehensiveness_mean": 0.5,
+      "comprehensiveness_std": 0.1,
+      "comprehensiveness_min": 0.4,
+      "comprehensiveness_max": 0.6,
+      "monotonicity_mean": 0.5,
+      "monotonicity_std": 0.1,
+      "monotonicity_min": 0.4,
+      "monotonicity_max": 0.6,
+      "robustness_mean": 0.5,
+      "robustness_std": 0.1,
+      "robustness_min": 0.4,
+      "robustness_max": 0.6,
+      "faithfulness_score_mean": 0.5,
+      "faithfulness_score_std": 0.1,
+      "faithfulness_score_min": 0.4,
+      "faithfulness_score_max": 0.6,
+      "num_samples_evaluated": 0
+    }
+  },
+  "dynamic_weights": {},
+  "dice": {},
+  "consensus": {
+    "high_agreement_features": [
+      "Solution_MULTI FACTOR AUTHENTICATION_Mentions",
+      "Solution_CRYPTOGRAPHY_Mentions",
+      "Solution_BLACKLISTING_Mentions",
+      "Solution_ENCRYPTION_Mentions",
+      "Solution_DECEPTION TECHNOLOGY_Mentions",
+      "Solution_PUBLIC KEY INFRASTRUCTURE_Mentions",
+      "Phishing-ALL",
+      "Solution_ACCESS CONTROL_Mentions",
+      "Solution_ML/DL_Mentions"
+    ],
+    "disagreement_features": [
+      "Unnamed: 26",
+      "Unnamed: 27",
+      "Unnamed: 23",
+      "Unnamed: 24",
+      "Unnamed: 20",
+      "Unnamed: 22",
+      "Unnamed: 21",
+      "Unnamed: 25"
+    ],
+    "consensus_scores": {
+      "Unnamed: 26": 0.0714285714285714,
+      "Unnamed: 17": 0.3928571428571429,
+      "Solution_MULTI FACTOR AUTHENTICATION_Mentions": 0.7142857142857143,
+      "Unnamed: 18": 0.3571428571428571,
+      "Unnamed: 16": 0.4285714285714286,
+      "Solution_NLP/LLM_Mentions": 0.6428571428571428,
+      "Unnamed: 27": 0.0357142857142857,
+      "Solution_CRYPTOGRAPHY_Mentions": 0.9821428571428572,
+      "Unnamed: 23": 0.1785714285714286,
+      "Unnamed: 24": 0.1428571428571429,
+      "Solution_BLACKLISTING_Mentions": 0.8928571428571429,
+      "Solution_ENCRYPTION_Mentions": 0.8571428571428572,
+      "Unnamed: 14": 0.5,
+      "Unnamed: 20": 0.2857142857142857,
+      "Unnamed: 12": 0.5714285714285714,
+      "Unnamed: 11": 0.6071428571428572,
+      "Solution_DECEPTION TECHNOLOGY_Mentions": 0.8214285714285714,
+      "Solution_PUBLIC KEY INFRASTRUCTURE_Mentions": 0.9285714285714286,
+      "Unnamed: 22": 0.2142857142857143,
+      "Unnamed: 13": 0.5357142857142857,
+      "Unnamed: 15": 0.4642857142857143,
+      "Unnamed: 21": 0.25,
+      "Solution_MUTUAL AUTHENTICATION_Mentions": 0.6785714285714286,
+      "Phishing-ALL": 0.9821428571428572,
+      "Unnamed: 25": 0.1071428571428571,
+      "Unnamed: 19": 0.3214285714285714,
+      "Solution_ACCESS CONTROL_Mentions": 0.7857142857142857,
+      "Solution_ML/DL_Mentions": 0.75
+    },
+    "model_specific_insights": {
+      "RandomForest": {
+        "top_features": [
+          "Solution_CRYPTOGRAPHY_Mentions",
+          "Phishing-ALL",
+          "Solution_PUBLIC KEY INFRASTRUCTURE_Mentions"
+        ],
+        "importance_scores": [
+          0.3780081924022221,
+          0.3306613734366089,
+          0.29133043416116905
+        ]
+      },
+      "LSTM": {
+        "top_features": [
+          "Phishing-ALL",
+          "Solution_CRYPTOGRAPHY_Mentions",
+          "Solution_PUBLIC KEY INFRASTRUCTURE_Mentions",
+          "Solution_BLACKLISTING_Mentions",
+          "Solution_ENCRYPTION_Mentions",
+          "Solution_DECEPTION TECHNOLOGY_Mentions",
+          "Solution_ACCESS CONTROL_Mentions",
+          "Solution_ML/DL_Mentions",
+          "Solution_MULTI FACTOR AUTHENTICATION_Mentions",
+          "Solution_MUTUAL AUTHENTICATION_Mentions"
+        ],
+        "importance_scores": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "consensus_plot": "enhanced_cybersecurity_forecast_results\\xai_analysis\\multi_model_consensus_analysis.png"
+  },
+  "anchors": {
+    "decision_rules": [
+      "IF Phishing-ALL > 251.76 AND Solution_CRYPTOGRAPHY_Mentions > 695.82 THEN threat_level = HIGH",
+      "IF Phishing-ALL_spike > 2*std AND Solution_CRYPTOGRAPHY_Mentions_trend > 0 THEN emerging_threat = TRUE",
+      "IF baseline_deviation > 3*std AND duration > 24h THEN sustained_attack = TRUE"
+    ],
+    "rule_coverage": [
+      0.14404729159485147,
+      0.37931854520275077,
+      0.385045270579475
+    ],
+    "rule_precision": [
+      0.6832906278551473,
+      0.6322501410568384,
+      0.8214439739258226
+    ],
+    "cybersecurity_interpretations": [
+      "Multiple high-intensity signals indicate coordinated attack",
+      "Concurrent spikes and positive trends suggest emerging campaign",
+      "Sustained deviations from baseline indicate persistent threat"
+    ],
+    "anchors_plot": "enhanced_cybersecurity_forecast_results\\xai_analysis\\anchors_rule_explanations.png"
+  }
+}

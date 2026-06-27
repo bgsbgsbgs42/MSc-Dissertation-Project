@@ -1,0 +1,13 @@
+{
+  "total_domains": 6,
+  "successful_domains": 6,
+  "domains": [
+    "sm_gimputed_2000_FRED_data_hybrid",
+    "sm_gimputed_ONS_data",
+    "sm_gimputed_yfinance_data",
+    "sm_gmonthly_attack_summary_global_terrorism_database",
+    "sm_gmonthly_averages_FRED_1975",
+    "sm_gtransposed_JH_covid_deaths_global"
+  ],
+  "timestamp": "2025-11-19T18:38:20.365162"
+}

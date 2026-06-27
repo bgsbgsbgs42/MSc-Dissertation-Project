@@ -1,0 +1,181 @@
+Date,Attack,Technology,Gap
+2024-12-31,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.4683217435631954
+2025-01-30,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.080966247248663
+2025-03-01,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.4125734707252637
+2025-03-31,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.317706447060222
+2025-04-30,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.0003192379055243
+2025-05-30,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.478802549894577
+2025-06-29,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.582750572835566
+2025-07-29,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.286761979734736
+2025-08-28,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.428748772812291
+2025-09-27,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.278280474043511
+2025-10-27,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.332729412126593
+2025-11-26,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.446692004924156
+2025-12-26,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.034657481324484
+2026-01-25,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.306342971253616
+2026-02-24,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.2152828117250447
+2026-03-26,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.4148826672863564
+2026-04-25,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.470020162241944
+2026-05-25,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.2961489821278973
+2026-06-24,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.22366509836876
+2026-07-24,Mentions-Data Poisoning,Solution_DATA SANITIZATION_Mentions,3.7364931392803076
+2024-12-31,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.576044308615387
+2025-01-30,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-2.00157284792375
+2025-03-01,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.6010582940872093
+2025-03-31,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.854813289694449
+2025-04-30,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-2.0599097930059456
+2025-05-30,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.8827973969024114
+2025-06-29,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.7289529073643082
+2025-07-29,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.5668152096947936
+2025-08-28,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.5964096970466253
+2025-09-27,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.6293683371632306
+2025-10-27,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.7329210891323288
+2025-11-26,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.8422370580385938
+2025-12-26,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.8635189834164785
+2026-01-25,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-2.20495479761177
+2026-02-24,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-2.0307860002945737
+2026-03-26,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.7828981523396554
+2026-04-25,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.8715110974366924
+2026-05-25,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.8026040970502692
+2026-06-24,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.7529594509215944
+2026-07-24,Mentions-Data Poisoning,Solution_OUTLIER DETECTION_Mentions,-1.5707319740580594
+2024-12-31,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,0.2774895040229519
+2025-01-30,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,-0.11938861411558088
+2025-03-01,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,0.10221477331821882
+2025-03-31,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,-0.03313680327124713
+2025-04-30,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,-0.3559173405264433
+2025-05-30,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,0.06376499354599074
+2025-06-29,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,0.1892089936872119
+2025-07-29,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,0.2862566975625618
+2025-08-28,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,0.43255873727487426
+2025-09-27,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,-0.31494339564033025
+2025-10-27,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,0.12081068378392823
+2025-11-26,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,0.2786227352013628
+2025-12-26,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,-0.10524856153971518
+2026-01-25,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,-0.09046074785407132
+2026-02-24,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,-0.2901699573557872
+2026-03-26,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,-0.09692188031845239
+2026-04-25,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,-0.17546558940129575
+2026-05-25,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,-0.302057974921794
+2026-06-24,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,0.07846880604798256
+2026-07-24,Mentions-Data Poisoning,Solution_DATA PROVENANCE_Mentions,0.16005179933607971
+2024-12-31,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-1.9481123850109405
+2025-01-30,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.1909377008494055
+2025-03-01,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-1.809908382481487
+2025-03-31,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.0984391887980482
+2025-04-30,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.0088641394648805
+2025-05-30,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.2261127628743846
+2025-06-29,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-1.9701920517217428
+2025-07-29,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.0567505116566553
+2025-08-28,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-1.8138291053930367
+2025-09-27,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-1.8696403138755824
+2025-10-27,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.153981749807151
+2025-11-26,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.055289857133524
+2025-12-26,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.24583943565398
+2026-01-25,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-1.9881612369038941
+2026-02-24,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.136207178395886
+2026-03-26,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.2014660242328943
+2026-04-25,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.0907278876788054
+2026-05-25,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.123434119987422
+2026-06-24,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.0414794499342404
+2026-07-24,Mentions-Data Poisoning,Solution_ADVERSARIAL TRAINING_Mentions,-2.2346741074889422
+2024-12-31,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.775403320233984
+2025-01-30,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.390698859134354
+2025-03-01,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.8772554062496085
+2025-03-31,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.816526524523648
+2025-04-30,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.5894388280601714
+2025-05-30,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.79255281575972
+2025-06-29,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.635829648515603
+2025-07-29,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.726502617934434
+2025-08-28,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.771984754157274
+2025-09-27,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.686718969086623
+2025-10-27,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.510273411310105
+2025-11-26,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.6747477776872235
+2025-12-26,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.738685914747022
+2026-01-25,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.4066300314274383
+2026-02-24,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.6091295315935357
+2026-03-26,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.68409943824201
+2026-04-25,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.783467366320584
+2026-05-25,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.670668790434195
+2026-06-24,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.642938438760381
+2026-07-24,Mentions-Data Poisoning,Solution_TRUSTWORTHY AI_Mentions,2.843191879670253
+2024-12-31,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.129838674758503
+2025-01-30,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.441881079291436
+2025-03-01,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-11.95663260958746
+2025-03-31,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-11.397446149579302
+2025-04-30,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.539300882159893
+2025-05-30,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.05566489457346
+2025-06-29,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.131729686514962
+2025-07-29,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.457065014648476
+2025-08-28,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-11.891362734599376
+2025-09-27,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.069103586053101
+2025-10-27,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.541591735187655
+2025-11-26,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.488621975182213
+2025-12-26,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.311940098956114
+2026-01-25,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.117831296493929
+2026-02-24,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.053846513776586
+2026-03-26,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.398955641358835
+2026-04-25,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.257458701257692
+2026-05-25,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.118306755033126
+2026-06-24,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.355546454917787
+2026-07-24,Mentions-Data Poisoning,Solution_Bayesian Network_Mentions,-12.251589911154412
+2024-12-31,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-245.89321286471343
+2025-01-30,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-247.27125906846578
+2025-03-01,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-247.3873852749301
+2025-03-31,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-248.0472117344742
+2025-04-30,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-249.0247870108703
+2025-05-30,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-250.4726562755187
+2025-06-29,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-250.66127770778488
+2025-07-29,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-251.76056112679098
+2025-08-28,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-252.44868556669823
+2025-09-27,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-253.02798467937674
+2025-10-27,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-253.81291134612638
+2025-11-26,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-253.78071131083544
+2025-12-26,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-255.22974228761117
+2026-01-25,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-256.6317276396561
+2026-02-24,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-257.943974560482
+2026-03-26,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-258.19851455491175
+2026-04-25,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-259.5541635471286
+2026-05-25,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-261.0121147348997
+2026-06-24,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-262.44485685688284
+2026-07-24,Mentions-Data Poisoning,Solution_ML/DL_Mentions,-262.777168989953
+2024-12-31,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-84.97861432572905
+2025-01-30,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-85.11324816771486
+2025-03-01,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-85.15681430478396
+2025-03-31,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-85.78032875877676
+2025-04-30,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-86.12061464466525
+2025-05-30,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-86.51496295944686
+2025-06-29,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-86.70563229283054
+2025-07-29,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-87.29947526096483
+2025-08-28,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-87.9189468792169
+2025-09-27,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-87.9612938072613
+2025-10-27,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-88.23355348086152
+2025-11-26,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-88.77063784380732
+2025-12-26,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-89.34150234846604
+2026-01-25,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-89.73520664085926
+2026-02-24,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-89.8578184888842
+2026-03-26,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-90.45588245786773
+2026-04-25,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-90.86637408921091
+2026-05-25,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-91.796272012111
+2026-06-24,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-92.49227035791148
+2026-07-24,Mentions-Data Poisoning,Solution_ANOMALY DETECTION_Mentions,-92.32674045298218
+2024-12-31,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-19.671604443308404
+2025-01-30,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.042471495806335
+2025-03-01,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-19.678849543211577
+2025-03-31,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.07257634984329
+2025-04-30,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.27152893546193
+2025-05-30,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.26619430457347
+2025-06-29,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.137988339392848
+2025-07-29,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.250967307676298
+2025-08-28,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.11310280280567
+2025-09-27,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.37534573955618
+2025-10-27,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.466024130938607
+2025-11-26,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.355647397289232
+2025-12-26,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.475491878528977
+2026-01-25,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.547248562585157
+2026-02-24,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.254893589585155
+2026-03-26,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.401265511324493
+2026-04-25,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.420687757608356
+2026-05-25,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.472223979770455
+2026-06-24,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.487076902058913
+2026-07-24,Mentions-Data Poisoning,Solution_NLP/LLM_Mentions,-20.217466010571705

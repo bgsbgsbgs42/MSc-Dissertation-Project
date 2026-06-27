@@ -1,0 +1,65 @@
+SPATIO-TEMPORAL ENSEMBLE MODEL EVALUATION REPORT
+
+Generated: 2025-12-05 20:21:56
+Model: Dissertation/Ensemble Variant/model/Ensemble/best_hyperparameter_model.pt
+Data: Dissertation/Ensemble Variant/data/sm_data_g.csv
+
+ENSEMBLE MODEL CONFIGURATION
+sequence_length: 12
+forecast_horizon: 36
+vit_patch_size: 6
+vit_embed_dim: 96
+vit_num_heads: 4
+vit_hidden_dim: 192
+vit_num_layers: 3
+graph_hidden_dim: 128
+graph_num_layers: 3
+fusion_dim: 192
+dropout: 0.1
+mc_dropout: 0.1
+learning_rate: 0.0005
+weight_decay: 0.01
+batch_size: 16
+num_nodes: 645
+optimizer_type: adam
+scheduler_patience: 10
+scheduler_factor: 0.3
+gradient_clip: 0.5
+num_mc_samples: 10
+ensemble_weight_decay: 0.01
+
+PERFORMANCE METRICS
+Error Metrics:
+  M-SMAPE_Test: 282.53%
+  M-SMAPE_Train: 313.12%
+  MAE_Test: 80.2908
+  MAE_Train: 29.9072
+  MAPE_Test: 533674336.00%
+  MAPE_Train: 4222043136.00%
+  RMSE_Test: 1287.0610
+  RMSE_Train: 396.3547
+
+Relative Error Metrics:
+  RAE_Comp_Test: 0.0258
+  RAE_Comp_Train: 0.0525
+  RAE_Test: 0.0440
+  RAE_Train: 0.0992
+  RRSE_Comp_Test: 0.0559
+  RRSE_Comp_Train: 0.1163
+  RRSE_Test: 0.0577
+  RRSE_Train: 0.1275
+
+Detection Quality Metrics:
+  AUC_ROC_Test: 0.6039
+  Alert_Precision_Test: 0.6582
+  Attack_Coverage_Test: 0.2512
+  FPR_Test: 0.0434
+
+SUMMARY STATISTICS
+Average Train Metric: 527755484.4722
+Average Test Metric: 44472998.9683
+
+PERFORMANCE ASSESSMENT
+Detection Quality: FAIR (AUC-ROC: 0.604)
+Forecast Accuracy: EXCELLENT (RRSE: 0.058)
+

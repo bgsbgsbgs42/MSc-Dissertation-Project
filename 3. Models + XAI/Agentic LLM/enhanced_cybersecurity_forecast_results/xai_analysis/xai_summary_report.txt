@@ -1,0 +1,48 @@
+COMPREHENSIVE XAI ANALYSIS REPORT
+============================================================
+Generated: 2025-12-06 13:41:05
+
+SHAP ANALYSIS:
+------------------------------
+
+LIME ANALYSIS:
+------------------------------
+
+ATTENTION ANALYSIS:
+------------------------------
+
+PERMUTATION ANALYSIS:
+------------------------------
+
+COUNTERFACTUAL ANALYSIS:
+------------------------------
+
+CAUSAL ANALYSIS:
+------------------------------
+
+FAITHFULNESS ANALYSIS:
+------------------------------
+  RandomForest: Completed
+  LSTM: Completed
+
+DYNAMIC_WEIGHTS ANALYSIS:
+------------------------------
+
+DICE ANALYSIS:
+------------------------------
+
+CONSENSUS ANALYSIS:
+------------------------------
+  high_agreement_features: Completed
+  disagreement_features: Completed
+  consensus_scores: Completed
+  model_specific_insights: Completed
+  consensus_plot: Completed
+
+ANCHORS ANALYSIS:
+------------------------------
+  decision_rules: Completed
+  rule_coverage: Completed
+  rule_precision: Completed
+  cybersecurity_interpretations: Completed
+  anchors_plot: Completed

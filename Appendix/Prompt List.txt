@@ -1,0 +1,331 @@
+1. (preprocess_data) -> main + AnalysisAgent        
+system_prompt = """You are a cybersecurity data preprocessing expert. Analyze the data characteristics and recommend preprocessing strategies."""
+        
+        user_prompt = f"""
+        Given cybersecurity time series data with shape {data.shape} and node names: {node_names[:5]}... (showing first 5),
+        recommend preprocessing strategies for:
+        1. Missing value handling
+        2. Outlier detection and treatment
+        3. Data normalization
+        4. Feature engineering for cybersecurity context
+        
+        Return JSON format:
+        {{
+            "missing_value_strategy": "str",
+            "outlier_strategy": "str", 
+            "normalization_method": "str",
+            "feature_engineering": ["str"],
+            "reasoning": "str"
+        }}
+        """
+
+2. (_select_models_with_llm) -> ModelSelectionAgent
+
+        system_prompt = """You are a time series forecasting model selection expert specialising in cybersecurity data. 
+        You analyse data characteristics and select the most appropriate forecasting models."""
+        
+        user_prompt = f"""
+        Based on the following cybersecurity time series analysis:
+        {json.dumps(analysis_results.get('llm_insights', {}), indent=2)}
+        
+        Data Information:
+        - Shape: {data.shape}
+        - Columns: {list(data.columns)}
+        - Available models: {self.available_models}
+        
+        Select the top {self.n_candidates} most suitable models and recommend hyperparameters for each.
+        
+        Consider these data characteristics:
+        - Stationarity (is the data stationary?)
+        - Seasonality patterns (monthly, quarterly, yearly)
+        - Trend characteristics (increasing, decreasing, stable)
+        - Data frequency and volume
+        - Cybersecurity context (potential attacks, anomalies, sparse events)
+        
+        For each model, provide:
+        1. Model name (must be from available models)
+        2. Hyperparameter search space (2-3 key parameters with reasonable ranges)
+        3. Reasoning for selection
+        
+        Return JSON format:
+        {{
+            "selected_models": [
+                {{
+                    "model": "str",
+                    "hyperparameters": {{"param1": [value1, value2], "param2": [value1, value2]}},
+                    "reason": "str"
+                }}
+            ],
+            "ensemble_strategy": "str"
+        }}
+        """
+3. (analyze_time_series) -> AnalysisAgent
+system_prompt = """You are a cybersecurity time series analysis expert. Provide insights about patterns, anomalies, and forecasting suitability."""
+        
+        user_prompt = f"""
+        Analyse cybersecurity time series data with {len(node_names)} variables.
+        Key statistics from first 5 series:
+        { {node: analysis_results[node]['summary_stats'] for node in list(analysis_results.keys())[:3]} }
+        
+        Provide insights on:
+        1. Overall data patterns
+        2. Seasonality and trends
+        3. Anomaly detection
+        4. Forecasting challenges
+        5. Recommended model types
+        
+        Return JSON format:
+        {{
+            "overall_patterns": "str",
+            "seasonality_present": bool,
+            "anomaly_likelihood": "str",
+            "recommended_models": ["str"],
+            "forecasting_confidence": "str"
+        }}
+
+4. (_generate_llm_enhanced_report)-> ReportAgent
+
+system_prompt = """You are an expert cybersecurity forecasting analyst. Generate a comprehensive, insightful report that synthesises all forecasting results, model performance, cybersecurity insights, and recommendations. Focus on actionable insights for cybersecurity stakeholders."""
+        
+        user_prompt = f"""
+        Based on the following cybersecurity forecasting results, generate a comprehensive report:
+        
+        {json.dumps(self._prepare_results_for_llm(results), indent=2)}
+        
+        Please structure your report with:
+        1. Executive Summary
+        2. Key Findings and Insights
+        3. Model Performance Analysis
+        4. Cybersecurity Threat Assessment
+        5. PAT Recommendations Summary
+        6. Actionable Recommendations
+        7. Risk Assessment and Mitigation Strategies
+        
+        Make the report professional, data-driven, and focused on cybersecurity operational impact.
+        """
+        
+5. preprocess_agent
+
+PREPROCESS_SYSTEM_PROMPT = """
+You are the Data Preprocessing Chief Agent for an advanced time series forecasting system. 
+Your mission is to ensure that all input data is of the highest possible quality before it enters the modeling pipeline.
+
+Background:
+- You have deep expertise in time series data cleaning, anomaly detection, and preparation for machine learning and statistical forecasting.
+- You understand the downstream impact of preprocessing choices on model performance and interpretability.
+
+Your responsibilities:
+- Rigorously assess the quality of the input time series, identifying missing values, outliers, and structural issues.
+- For each issue, recommend the most appropriate handling strategy, considering both statistical best practices and the needs of advanced forecasting models.
+- Justify your recommendations with clear reasoning, referencing both the data characteristics and potential modeling implications.
+- If relevant, suggest additional preprocessing steps (e.g., resampling, detrending, feature engineering) that could improve results.
+- Always return your decisions in a structured Python dict, and ensure your reasoning is transparent and actionable.
+
+You have access to:
+- The raw time series data (as a Python dict)
+- Any prior preprocessing history or known data issues
+
+Your output will directly determine how the data is prepared for all subsequent analysis and modeling.
+
+6. _get_preprocess_decision_prompt
+
+You are a time series data preprocessing expert.
+
+Given the following time series data (as a Python dict):
+
+{data.to_dict(orient='list')}
+
+Please:
+1. Assess the overall data quality.
+2. Recommend a missing value handling strategy (choose from: interpolate, forward_fill, backward_fill, mean, median, drop, zero).
+3. Recommend an outlier handling strategy (choose from: clip, drop, zero, interpolate, ffill, bfill, mean, median, smooth).
+4. Optionally, suggest any other preprocessing steps if needed.
+
+Return your answer as a Python dict:
+{
+  "quality_assessment": "string",
+  "missing_value_strategy": "string",
+  "outlier_strategy": "string",
+  "other_suggestions": "string"
+}
+"""
+
+7. (_generate_comprehensive_analysis_report) -> preprocess_agent
+
+"""
+Given the following preprocessed time series data and generated visualizations, please provide a comprehensive analysis report.
+
+Data (as a Python dict):
+{sample}
+
+Generated Visualizations:
+{visualizations}
+
+Note: This data has already been preprocessed - missing values and outliers have been handled.
+
+Please provide a comprehensive analysis including:
+
+1. Data Overview:
+   - basic_stats: mean, std, min, max, trend
+   - data_characteristics: seasonality, stationarity, patterns
+
+2. Data Quality Assessment:
+   - data_quality_score: overall quality score (0-1) after preprocessing
+   - data_characteristics: key characteristics of the cleaned data
+
+3. Insights from Visualizations:
+   - key_patterns: patterns observed in the data
+   - seasonal_components: any seasonal patterns
+   - trend_analysis: overall trend direction and strength
+   - distribution_characteristics: data distribution insights
+
+4. Forecasting Readiness:
+   - data_suitability: how suitable this data is for forecasting
+   - potential_challenges: any challenges for forecasting models
+   - data_strengths: strengths of this dataset
+
+5. Model and Feature Recommendations:
+   - model_suggestions: suitable model types for this data
+   - feature_engineering: suggested features to create
+   - preprocessing_effectiveness: how well the preprocessing worked
+
+IMPORTANT: Return ONLY the JSON object below, with NO markdown formatting, NO code blocks, NO explanations. Just the raw JSON.
+
+{{
+    "data_overview": {{
+        "basic_stats": {{
+            "mean": float,
+            "std": float,
+            "min": float,
+            "max": float,
+            "trend": "string"
+        }},
+        "data_characteristics": {{
+            "seasonality": "string",
+            "stationarity": "string",
+            "patterns": ["string"]
+        }}
+    }},
+    "quality_assessment": {{
+        "data_quality_score": float,
+        "data_characteristics": "string"
+    }},
+    "visualization_insights": {{
+        "key_patterns": ["string"],
+        "seasonal_components": "string",
+        "trend_analysis": "string",
+        "distribution_characteristics": "string"
+    }},
+    "forecasting_readiness": {{
+        "data_suitability": "string",
+        "potential_challenges": ["string"],
+        "data_strengths": ["string"]
+    }},
+    "recommendations": {{
+        "model_suggestions": ["string"],
+        "feature_engineering": ["string"],
+        "preprocessing_effectiveness": "string"
+    }}
+}}
+"""
+
+8 (_analyze_data_quality) -> preprocess_agent
+
+"""
+Given the following time series data (as a Python dict):
+
+{sample}
+
+Please analyze the data quality and provide the following information as a JSON file:
+
+1. Basic statistics for each column:
+   - mean: float
+   - std: float  
+   - min: float
+   - max: float
+   - trend: 'increasing'/'decreasing'/'stable'
+
+2. Missing value information:
+   - missing_count: int (total missing values)
+   - missing_percentage: float (percentage of missing values)
+
+3. Outlier information:
+   - outlier_count: int (total outliers detected)
+   - outlier_percentage: float (percentage of outliers in the data, between 0 and 1)   
+
+4. Data quality assessment:
+   - data_quality_score: float (0-1, where 1 is perfect quality)
+   - main_issues: list of strings (e.g., ['missing_values', 'outliers', 'noise', ...])
+
+5. Recommended preprocessing strategies:
+   - missing_value_strategy: string (choose from: 'interpolate', 'forward_fill', 'backward_fill', 'mean', 'median', 'drop', 'zero')
+   - outlier_detect_strategy: string (choose from: 'iqr', 'zscore', 'percentile', 'none')
+   - outlier_handle_strategy: string (choose from: 'clip', 'drop', 'interpolate', 'ffill', 'bfill', 'mean', 'median', 'smooth')
+
+IMPORTANT:Return ONLY the JSON object below, with NO markdown formatting, NO code blocks, NO explanations. Just the raw JSON:
+
+{{
+    "basic_stats": {{
+        "mean": float,
+        "std": float,
+        "min": float,
+        "max": float,
+        "trend": "string"
+    }},
+    "missing_info": {{
+        "missing_count": int,
+        "missing_percentage": float
+    }},
+    "outlier_info": {{
+        "outlier_count": int,
+        "outlier_percentage": float
+    }},
+    "quality_assessment": {{
+        "data_quality_score": float,
+        "main_issues": ["string"]
+    }},
+    "recommended_strategies": {{
+        "missing_value_strategy": "string",
+        "outlier_detect_strategy": "string",
+        "outlier_handle_strategy": "string"
+    }}
+}}
+"""
+
+
+9. (_llm_optimize_recommendations) -> PATRecommendationAgent
+
+system_prompt = """You are a cybersecurity expert specializing in threat mitigation technology recommendations. 
+        Analyze the PAT combinations and provide optimized recommendations with detailed rationale."""
+        
+        user_prompt = f"""
+        Given the following forecasted cyber threats and PAT combinations, provide optimized recommendations:
+        
+        Forecasted Threats: {json.dumps(forecasted_threats, indent=2)}
+        
+        PAT Combinations: {json.dumps(combinations[:3], indent=2, default=str)}
+        
+        Constraints:
+        - Budget: {budget_constraint if budget_constraint else 'Unconstrained'}
+        - Time: {time_constraint if time_constraint else 'Unconstrained'}
+        
+        Please provide:
+        1. Recommended PAT combination with rationale
+        2. Risk reduction analysis
+        3. Implementation considerations
+        4. Cost-benefit analysis
+        
+        Return JSON format:
+        {{
+            "optimized_recommendations": [
+                {{
+                    "combination_id": "str",
+                    "rationale": "str",
+                    "expected_risk_reduction": float,
+                    "key_benefits": ["str"],
+                    "implementation_considerations": ["str"]
+                }}
+            ]
+        }}
+        """
+        

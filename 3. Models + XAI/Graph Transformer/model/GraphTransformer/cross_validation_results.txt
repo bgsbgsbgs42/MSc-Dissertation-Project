@@ -1,0 +1,43 @@
+K-Fold Cross Validation Results
+========================================
+
+Number of folds: 3
+Best Hyperparameters:
+  channels: 32
+  num_layers: 3
+  pe_dim: 4
+  dropout: 0.1
+  lr: 0.001
+  attn_type: multihead
+
+Fold-wise Results:
+--------------------
+Fold 1:
+  MSE: 1.389984
+  RMSE: 1.178976
+  MAE: 0.188410
+  RSE: 1.436575
+  RAE: 1.956483
+
+Fold 2:
+  MSE: 864.380493
+  RMSE: 29.400349
+  MAE: 2.533156
+  RSE: 26.900044
+  RAE: 17.837065
+
+Fold 3:
+  MSE: 1.262469
+  RMSE: 1.123596
+  MAE: 0.138231
+  RSE: 1.002364
+  RAE: 0.953616
+
+Summary Statistics:
+--------------------
+Average RSE: 9.779661 ± 12.107237
+Average RAE: 6.915721 ± 7.733401
+Min RSE: 1.002364
+Max RSE: 26.900044
+Min RAE: 0.953616
+Max RAE: 17.837065

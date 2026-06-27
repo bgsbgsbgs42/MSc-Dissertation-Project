@@ -1,0 +1,22 @@
+{
+  "pretrained_domains": [
+    "sm_gimputed_2000_FRED_data_hybrid",
+    "sm_gimputed_ONS_data",
+    "sm_gimputed_yfinance_data",
+    "sm_gmonthly_attack_summary_global_terrorism_database",
+    "sm_gmonthly_averages_FRED_1975",
+    "sm_gtransposed_JH_covid_deaths_global"
+  ],
+  "transfer_strategy": "best",
+  "epochs_pretrain": 50,
+  "epochs_finetune": 20,
+  "final_val_loss": 4.8900507080325645e-06,
+  "final_test_loss": 5.080921127814655e-06,
+  "final_test_mae": 8.241788746466625e-06,
+  "transferred_layers_count": 41,
+  "cyber_data_shape": [
+    162,
+    645
+  ],
+  "timestamp": "2025-11-18T15:54:46.204038"
+}

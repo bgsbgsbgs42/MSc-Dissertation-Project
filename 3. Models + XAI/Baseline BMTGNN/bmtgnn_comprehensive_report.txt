@@ -1,0 +1,78 @@
+BMTGNN CYBER THREAT FORECASTING MODEL EVALUATION REPORT
+
+Generated: 2025-12-07 18:58:54
+Model: model/Bayesian/o_model.pt
+Data: ./data/sm_data.txt
+
+BMTGNN MODEL CONFIGURATION
+data: ./data/sm_data.txt
+normalize: 2
+device: cpu
+gcn_true: True
+buildA_true: True
+gcn_depth: 1
+num_nodes: 142
+dropout: 0.6
+subgraph_size: 70
+node_dim: 100
+dilation_exponential: 1
+conv_channels: 16
+residual_channels: 32
+skip_channels: 256
+end_channels: 1024
+in_dim: 1
+seq_in_len: 10
+seq_out_len: 36
+horizon: 1
+layers: 1
+batch_size: 8
+propalpha: 0.4
+tanhalpha: 1
+num_split: 1
+step_size: 100
+
+EXECUTIVE SUMMARY
+Average M-SMAPE: 168.31%
+Average AUC-ROC: 0.563
+
+DETAILED METRICS
+Accuracy Metrics:
+  M-SMAPE_Train: 148.44%
+  M-SMAPE_Test: 188.19%
+  RRSE_Train: 0.1151
+  RRSE_Test: 0.1119
+  RAE_Train: 0.0606
+  RAE_Test: 0.0637
+  MAPE_Train: 743347392.0000
+  MAPE_Test: 1803.7028
+  MAE_Train: 140.0556
+  MAE_Test: 463.6530
+  RMSE_Train: 2280.2593
+  RMSE_Test: 5100.2046
+
+Robustness and Distribution Metrics:
+  KS_Statistic_Train: 0.127
+  KS_Statistic_Test: 0.261
+  KS_p_value_Train: 0.0000
+  KS_p_value_Test: 0.0000
+  JS_Divergence_Train: 0.016
+  JS_Divergence_Test: 0.046
+  Adversarial_Robustness_Train: 0.077
+  Adversarial_Robustness_Test: 0.107
+
+Uncertainty Quantification (Quantile Loss):
+  Quantile_Loss_Train_quantile_10: 122.9789
+  Quantile_Loss_Train_quantile_50: 612.8017
+  Quantile_Loss_Train_quantile_90: 1102.6149
+  Quantile_Loss_Test_quantile_10: 378.2797
+  Quantile_Loss_Test_quantile_50: 1872.7850
+  Quantile_Loss_Test_quantile_90: 3367.2805
+
+PERFORMANCE ASSESSMENT
+Detection Quality: POOR (AUC-ROC: 0.563)
+Forecast Accuracy: NEEDS IMPROVEMENT (M-SMAPE: 188.19%)
+Model Robustness: NEEDS IMPROVEMENT (Score: 0.107)
+Distribution Fit: POOR DISTRIBUTION MATCH (KS: 0.261)
+
+
+

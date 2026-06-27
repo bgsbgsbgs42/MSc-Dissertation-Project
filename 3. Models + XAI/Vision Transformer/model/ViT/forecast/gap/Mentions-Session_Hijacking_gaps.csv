@@ -1,0 +1,221 @@
+Date,Attack,Technology,Gap
+2024-12-31,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.2765451900337408
+2025-01-30,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.24348322144752244
+2025-03-01,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.22524789513420362
+2025-03-31,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.2780094455209088
+2025-04-30,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.3718002122151194
+2025-05-30,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.19356502972433853
+2025-06-29,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.28740607530237905
+2025-07-29,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.3153597688508045
+2025-08-28,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.5073040940890872
+2025-09-27,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.0656049778292691
+2025-10-27,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.28911250921733767
+2025-11-26,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.4097217929272592
+2025-12-26,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.27531642074184726
+2026-01-25,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.17309172767902203
+2026-02-24,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.33875440457503725
+2026-03-26,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.21713273225202334
+2026-04-25,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.44893228806818053
+2026-05-25,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.3397165002315663
+2026-06-24,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.46369384069567054
+2026-07-24,Mentions-Session Hijacking,Solution_STRONG AUTHENTICATION_Mentions,-0.36405074457742215
+2024-12-31,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.254512230191771
+2025-01-30,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.085908139929423
+2025-03-01,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.7585442341699675
+2025-03-31,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.139117617305309
+2025-04-30,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.318863975019896
+2025-05-30,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.471482966376974
+2025-06-29,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.5630378341572895
+2025-07-29,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.409432490229327
+2025-08-28,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.592739217586633
+2025-09-27,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.480512196836032
+2025-10-27,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.393781599993587
+2025-11-26,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.331208255516704
+2025-12-26,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.482503278841245
+2026-01-25,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.650841274573447
+2026-02-24,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.787204508874509
+2026-03-26,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.281492761806728
+2026-04-25,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-8.000954607682615
+2026-05-25,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.782217068847126
+2026-06-24,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.686825125401735
+2026-07-24,Mentions-Session Hijacking,Solution_PENETRATION TESTING_Mentions,-7.431662299463518
+2024-12-31,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-25.045805656905394
+2025-01-30,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-25.019948029062686
+2025-03-01,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-25.66790633702952
+2025-03-31,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-25.709574546380324
+2025-04-30,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-25.383245318117275
+2025-05-30,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-25.918673711362153
+2025-06-29,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-26.36340430858073
+2025-07-29,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-26.3821759705076
+2025-08-28,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-26.640873779224624
+2025-09-27,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-26.654212082929163
+2025-10-27,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-26.691172401877434
+2025-11-26,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-27.011396709368586
+2025-12-26,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-26.83878599402371
+2026-01-25,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-27.53445618355064
+2026-02-24,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-27.06805111979838
+2026-03-26,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-27.353711426060364
+2026-04-25,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-26.601289469256944
+2026-05-25,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-26.945362176315253
+2026-06-24,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-27.639361233807858
+2026-07-24,Mentions-Session Hijacking,Solution_SSL/TLS_Mentions,-27.08912063728657
+2024-12-31,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-13.871606218853104
+2025-01-30,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-13.901034548871763
+2025-03-01,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.031034255553704
+2025-03-31,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.19975186679408
+2025-04-30,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-13.918368943048296
+2025-05-30,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-13.88087254833733
+2025-06-29,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.108080290974549
+2025-07-29,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.031373888358486
+2025-08-28,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.43156215753059
+2025-09-27,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.175445854140253
+2025-10-27,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.241609225411565
+2025-11-26,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.349046898630892
+2025-12-26,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.297095122628537
+2026-01-25,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.257922437476115
+2026-02-24,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.21265690113032
+2026-03-26,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.357929040104684
+2026-04-25,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.3613726596377
+2026-05-25,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.714287831712811
+2026-06-24,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.64382848626755
+2026-07-24,Mentions-Session Hijacking,Solution_HTTPS_Mentions,-14.495185882383089
+2024-12-31,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-3.822305253321665
+2025-01-30,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-3.8782491659912877
+2025-03-01,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-3.993932548804486
+2025-03-31,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.38070301262598
+2025-04-30,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.145077763209226
+2025-05-30,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.21028554182914
+2025-06-29,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.196409568186058
+2025-07-29,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.044571945261544
+2025-08-28,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.411941861466313
+2025-09-27,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.1940322189157095
+2025-10-27,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.315418416696136
+2025-11-26,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.119384075697356
+2025-12-26,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.266446341512882
+2026-01-25,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.17827201859802
+2026-02-24,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.067493360837494
+2026-03-26,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.098370924420699
+2026-04-25,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.400579557212897
+2026-05-25,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.549112812068135
+2026-06-24,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.669321171947549
+2026-07-24,Mentions-Session Hijacking,Solution_CONTINUOUS AUTHENTICATION_Mentions,-4.45923917844876
+2024-12-31,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-790.3486220050197
+2025-01-30,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-796.0049339531552
+2025-03-01,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-797.431863232264
+2025-03-31,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-805.4019365198218
+2025-04-30,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-812.3790151008012
+2025-05-30,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-820.4991095365721
+2025-06-29,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-819.4949781050694
+2025-07-29,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-822.3306975867
+2025-08-28,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-829.5728273782975
+2025-09-27,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-836.1146600871397
+2025-10-27,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-836.5713240965456
+2025-11-26,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-842.0500455626945
+2025-12-26,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-847.9725179643697
+2026-01-25,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-851.2413691775602
+2026-02-24,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-856.4338916285232
+2026-03-26,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-864.5639428276336
+2026-04-25,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-866.0615647457759
+2026-05-25,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-874.5163495421443
+2026-06-24,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-874.8677403008534
+2026-07-24,Mentions-Session Hijacking,Solution_ENCRYPTION_Mentions,-892.035536948347
+2024-12-31,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-30.024706833483645
+2025-01-30,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-30.194928928648014
+2025-03-01,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-29.96018855136398
+2025-03-31,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-30.384679799840804
+2025-04-30,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-30.41444296395207
+2025-05-30,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-30.32280188522272
+2025-06-29,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-30.36610082443636
+2025-07-29,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-30.642173140192373
+2025-08-28,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-30.741554750958425
+2025-09-27,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-30.76705172179309
+2025-10-27,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-31.034780138292838
+2025-11-26,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-31.31851917990591
+2025-12-26,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-31.173328765967987
+2026-01-25,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-31.40347425350761
+2026-02-24,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-31.735087126390905
+2026-03-26,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-31.50514912422327
+2026-04-25,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-31.76116801879446
+2026-05-25,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-32.18669446245105
+2026-06-24,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-32.29797840018994
+2026-07-24,Mentions-Session Hijacking,Solution_Identity-Based Encryption (IBE)_Mentions,-31.940450018437332
+2024-12-31,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.6919351758288939
+2025-01-30,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.7110724448202524
+2025-03-01,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.6462000502116712
+2025-03-31,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.5639894066819
+2025-04-30,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.5974350239493227
+2025-05-30,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.7006672004602807
+2025-06-29,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.6591792916446597
+2025-07-29,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.760187034418887
+2025-08-28,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.5677468181265258
+2025-09-27,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.6967082897794756
+2025-10-27,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.6359900589973476
+2025-11-26,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.6385159855363599
+2025-12-26,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.7270785708987216
+2026-01-25,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.581961893412266
+2026-02-24,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.65329502206625
+2026-03-26,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.7081603619463483
+2026-04-25,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.5780561895698212
+2026-05-25,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.5248097826442688
+2026-06-24,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.5425544156294219
+2026-07-24,Mentions-Session Hijacking,Solution_SESSION MANAGEMENT_Mentions,0.7747373658834896
+2024-12-31,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-87.31539164588756
+2025-01-30,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-87.08502234233278
+2025-03-01,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-87.53070034205935
+2025-03-31,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-88.11788486705471
+2025-04-30,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-88.23124718700996
+2025-05-30,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-88.6686473107937
+2025-06-29,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-88.94085077672885
+2025-07-29,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-89.42899881551543
+2025-08-28,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-90.4721610654157
+2025-09-27,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-90.05213745618006
+2025-10-27,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-90.41756877987198
+2025-11-26,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-91.03002415200551
+2025-12-26,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-91.46130692675135
+2026-01-25,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-91.80646584924679
+2026-02-24,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-92.03563632514279
+2026-03-26,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-92.49674866857941
+2026-04-25,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-93.29116591574503
+2026-05-25,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-94.11097668361232
+2026-06-24,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-94.83882117804784
+2026-07-24,Mentions-Session Hijacking,Solution_ANOMALY DETECTION_Mentions,-94.62881227888992
+2024-12-31,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-248.22999018487192
+2025-01-30,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-249.2430332430837
+2025-03-01,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-249.76127131220548
+2025-03-31,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-250.38476784275213
+2025-04-30,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-251.135419553215
+2025-05-30,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-252.62634062686553
+2025-06-29,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-252.8964961916832
+2025-07-29,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-253.8900846813416
+2025-08-28,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-255.00189975289703
+2025-09-27,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-255.11882832829548
+2025-10-27,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-255.99692664513685
+2025-11-26,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-256.04009761903365
+2025-12-26,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-257.3495468658965
+2026-01-25,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-258.7029868480437
+2026-02-24,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-260.1217923967406
+2026-03-26,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-260.2393807656234
+2026-04-25,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-261.97895537366276
+2026-05-25,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-263.326819406401
+2026-06-24,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-264.79140767701915
+2026-07-24,Mentions-Session Hijacking,Solution_ML/DL_Mentions,-265.0792408158607
+2024-12-31,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-537.0275880505612
+2025-01-30,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-543.277021782925
+2025-03-01,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-545.4123718880024
+2025-03-31,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-548.990219499369
+2025-04-30,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-551.237260586887
+2025-05-30,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-556.7724901757932
+2025-06-29,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-564.8816831251446
+2025-07-29,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-566.7232973392939
+2025-08-28,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-570.6628093614223
+2025-09-27,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-574.8578589331642
+2025-10-27,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-575.5911082822524
+2025-11-26,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-582.341244428404
+2025-12-26,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-581.4907667532751
+2026-01-25,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-585.646886400269
+2026-02-24,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-589.3273178999881
+2026-03-26,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-591.9258140551748
+2026-04-25,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-597.2640352756135
+2026-05-25,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-598.4280783963784
+2026-06-24,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-603.3851717628577
+2026-07-24,Mentions-Session Hijacking,Solution_CRYPTOGRAPHY_Mentions,-603.53661710981

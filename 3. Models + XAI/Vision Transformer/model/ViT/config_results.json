@@ -1,0 +1,18 @@
+{
+  "config": {
+    "forecast_horizon": 36,
+    "num_nodes": 645,
+    "sequence_length": 12,
+    "patch_size": 2,
+    "embed_dim": 256,
+    "num_heads": 8,
+    "hidden_dim": 128,
+    "num_layers": 3,
+    "dropout": 0.26167946962329225,
+    "mc_dropout": 0.16092275383467414,
+    "learning_rate": 0.00012521954287060395,
+    "batch_size": 16
+  },
+  "best_val_loss": 0.10938999336212873,
+  "timestamp": "2025-11-06T20:37:43.438640"
+}

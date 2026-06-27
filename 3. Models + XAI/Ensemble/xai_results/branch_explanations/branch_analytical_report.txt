@@ -1,0 +1,51 @@
+BRANCH-SPECIFIC EXPLANATION ANALYTICAL REPORT
+======================================================================
+
+TEMPORAL BRANCH ANALYSIS:
+----------------------------------------
+Number of temporal layers: 27
+Strongest temporal layer: vit_branch.patch_embed.projection
+Activation magnitude: 5.2508
+
+Temporal Patterns Detected:
+  projection: decreasing trend, volatility: 8.3572
+  patch_embed: decreasing trend, volatility: 0.0561
+  dropout1: decreasing trend, volatility: 0.1774
+
+RELATIONAL BRANCH ANALYSIS:
+----------------------------------------
+Number of relational layers: 27
+Strongest relational layer: graph_branch.layers.0.norm2
+Activation magnitude: 0.8250
+
+Relationship Analysis:
+Average relationship strength: 0.0422
+
+SECURITY IMPLICATIONS:
+----------------------------------------
+Temporal Branch:
+  Sensitivity Score: 5.2508
+  Pattern Volatility: 1.5342
+  • High temporal sensitivity indicates strong pattern recognition in time-series data
+  • Useful for detecting DDoS patterns, scanning activities, and periodic attacks
+  • Volatility measures consistency of temporal feature extraction
+
+Relational Branch:
+  Sensitivity Score: 0.8250
+  Connectivity Strength: 0.0259
+  • High relational sensitivity indicates strong network pattern recognition
+  • Crucial for detecting APT communications, botnet structures, and lateral movement
+  • Connectivity strength measures relationship extraction capability
+
+OPERATIONAL RECOMMENDATIONS:
+----------------------------------------
+PRIMARY FOCUS: Temporal Analysis
+• Monitor time-series security feeds intensively
+• Prioritize detection of DDoS, scanning, periodic attacks
+• Implement advanced trend analysis for early warnings
+
+VALIDATION GUIDANCE:
+• Compare branch activations with known attack patterns
+• Validate temporal patterns against time-based threats
+• Verify relational patterns against network-based attacks
+• Monitor branch performance across different threat types

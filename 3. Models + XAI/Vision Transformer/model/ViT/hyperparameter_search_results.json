@@ -1,0 +1,231 @@
+{
+  "all_results": [
+    {
+      "iteration": 1,
+      "hyperparameters": {
+        "sequence_length": 12,
+        "patch_size": 4,
+        "embed_dim": 64,
+        "num_heads": 8,
+        "hidden_dim": 512,
+        "num_layers": 2,
+        "dropout": 0.1,
+        "mc_dropout": 0.2,
+        "learning_rate": 0.001,
+        "batch_size": 8,
+        "forecast_horizon": 36,
+        "num_nodes": 645
+      },
+      "best_train_loss": Infinity,
+      "best_val_rrse": Infinity,
+      "best_val_rae": Infinity,
+      "epochs_trained": 10,
+      "final_learning_rate": 0.001
+    },
+    {
+      "iteration": 2,
+      "hyperparameters": {
+        "sequence_length": 12,
+        "patch_size": 2,
+        "embed_dim": 64,
+        "num_heads": 4,
+        "hidden_dim": 512,
+        "num_layers": 3,
+        "dropout": 0.1,
+        "mc_dropout": 0.1,
+        "learning_rate": 0.0001,
+        "batch_size": 8,
+        "forecast_horizon": 36,
+        "num_nodes": 645
+      },
+      "best_train_loss": Infinity,
+      "best_val_rrse": Infinity,
+      "best_val_rae": Infinity,
+      "epochs_trained": 10,
+      "final_learning_rate": 0.0001
+    },
+    {
+      "iteration": 3,
+      "hyperparameters": {
+        "sequence_length": 12,
+        "patch_size": 6,
+        "embed_dim": 64,
+        "num_heads": 4,
+        "hidden_dim": 512,
+        "num_layers": 3,
+        "dropout": 0.1,
+        "mc_dropout": 0.1,
+        "learning_rate": 0.0001,
+        "batch_size": 4,
+        "forecast_horizon": 36,
+        "num_nodes": 645
+      },
+      "best_train_loss": Infinity,
+      "best_val_rrse": Infinity,
+      "best_val_rae": Infinity,
+      "epochs_trained": 10,
+      "final_learning_rate": 0.0001
+    },
+    {
+      "iteration": 4,
+      "hyperparameters": {
+        "sequence_length": 12,
+        "patch_size": 2,
+        "embed_dim": 128,
+        "num_heads": 8,
+        "hidden_dim": 512,
+        "num_layers": 3,
+        "dropout": 0.2,
+        "mc_dropout": 0.1,
+        "learning_rate": 0.0005,
+        "batch_size": 8,
+        "forecast_horizon": 36,
+        "num_nodes": 645
+      },
+      "best_train_loss": Infinity,
+      "best_val_rrse": Infinity,
+      "best_val_rae": Infinity,
+      "epochs_trained": 10,
+      "final_learning_rate": 0.0005
+    },
+    {
+      "iteration": 5,
+      "hyperparameters": {
+        "sequence_length": 12,
+        "patch_size": 3,
+        "embed_dim": 256,
+        "num_heads": 8,
+        "hidden_dim": 256,
+        "num_layers": 3,
+        "dropout": 0.2,
+        "mc_dropout": 0.2,
+        "learning_rate": 0.001,
+        "batch_size": 8,
+        "forecast_horizon": 36,
+        "num_nodes": 645
+      },
+      "best_train_loss": Infinity,
+      "best_val_rrse": Infinity,
+      "best_val_rae": Infinity,
+      "epochs_trained": 10,
+      "final_learning_rate": 0.001
+    },
+    {
+      "iteration": 6,
+      "hyperparameters": {
+        "sequence_length": 12,
+        "patch_size": 2,
+        "embed_dim": 256,
+        "num_heads": 4,
+        "hidden_dim": 256,
+        "num_layers": 3,
+        "dropout": 0.2,
+        "mc_dropout": 0.1,
+        "learning_rate": 0.0005,
+        "batch_size": 8,
+        "forecast_horizon": 36,
+        "num_nodes": 645
+      },
+      "best_train_loss": Infinity,
+      "best_val_rrse": Infinity,
+      "best_val_rae": Infinity,
+      "epochs_trained": 10,
+      "final_learning_rate": 0.0005
+    },
+    {
+      "iteration": 7,
+      "hyperparameters": {
+        "sequence_length": 12,
+        "patch_size": 2,
+        "embed_dim": 256,
+        "num_heads": 8,
+        "hidden_dim": 512,
+        "num_layers": 3,
+        "dropout": 0.1,
+        "mc_dropout": 0.1,
+        "learning_rate": 0.001,
+        "batch_size": 4,
+        "forecast_horizon": 36,
+        "num_nodes": 645
+      },
+      "best_train_loss": Infinity,
+      "best_val_rrse": Infinity,
+      "best_val_rae": Infinity,
+      "epochs_trained": 10,
+      "final_learning_rate": 0.001
+    },
+    {
+      "iteration": 8,
+      "hyperparameters": {
+        "sequence_length": 12,
+        "patch_size": 2,
+        "embed_dim": 128,
+        "num_heads": 4,
+        "hidden_dim": 512,
+        "num_layers": 2,
+        "dropout": 0.2,
+        "mc_dropout": 0.2,
+        "learning_rate": 0.001,
+        "batch_size": 4,
+        "forecast_horizon": 36,
+        "num_nodes": 645
+      },
+      "best_train_loss": Infinity,
+      "best_val_rrse": Infinity,
+      "best_val_rae": Infinity,
+      "epochs_trained": 10,
+      "final_learning_rate": 0.001
+    },
+    {
+      "iteration": 9,
+      "hyperparameters": {
+        "sequence_length": 12,
+        "patch_size": 3,
+        "embed_dim": 64,
+        "num_heads": 8,
+        "hidden_dim": 512,
+        "num_layers": 3,
+        "dropout": 0.1,
+        "mc_dropout": 0.1,
+        "learning_rate": 0.0001,
+        "batch_size": 8,
+        "forecast_horizon": 36,
+        "num_nodes": 645
+      },
+      "best_train_loss": Infinity,
+      "best_val_rrse": Infinity,
+      "best_val_rae": Infinity,
+      "epochs_trained": 10,
+      "final_learning_rate": 0.0001
+    },
+    {
+      "iteration": 10,
+      "hyperparameters": {
+        "sequence_length": 12,
+        "patch_size": 2,
+        "embed_dim": 128,
+        "num_heads": 8,
+        "hidden_dim": 512,
+        "num_layers": 3,
+        "dropout": 0.2,
+        "mc_dropout": 0.1,
+        "learning_rate": 0.0001,
+        "batch_size": 4,
+        "forecast_horizon": 36,
+        "num_nodes": 645
+      },
+      "best_train_loss": Infinity,
+      "best_val_rrse": Infinity,
+      "best_val_rae": Infinity,
+      "epochs_trained": 10,
+      "final_learning_rate": 0.0001
+    }
+  ],
+  "best_hyperparameters": null,
+  "best_rrse": Infinity,
+  "best_rae": Infinity,
+  "best_iteration_info": null,
+  "successful_iterations": 0,
+  "total_iterations": 10,
+  "timestamp": "2025-11-08T15:58:11.154362"
+}

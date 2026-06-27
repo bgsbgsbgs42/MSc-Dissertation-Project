@@ -1,0 +1,94 @@
+COMPREHENSIVE EXPLAINABLE AI (XAI) ANALYSIS REPORT
+======================================================================
+Generated: 2025-12-06 13:41:05
+Total XAI Methods: 11
+Successful: 11
+Failed: 0
+Success Rate: 100.0%
+
+EXECUTION SUMMARY:
+------------------------------
+✓ shap: SUCCESS
+✓ lime: SUCCESS
+✓ attention: SUCCESS
+✓ permutation: SUCCESS
+✓ counterfactual: SUCCESS
+✓ causal: SUCCESS
+✓ faithfulness: SUCCESS
+✓ dynamic_weights: SUCCESS
+✓ dice: SUCCESS
+✓ consensus: SUCCESS
+✓ anchors: SUCCESS
+
+KEY FINDINGS:
+------------------------------
+• High model agreement on features: Solution_MULTI FACTOR AUTHENTICATION_Mentions, Solution_CRYPTOGRAPHY_Mentions, Solution_BLACKLISTING_Mentions
+• Model disagreement on features: Unnamed: 26, Unnamed: 27, Unnamed: 23
+• Highest explanation faithfulness: RandomForest (0.500)
+
+MODEL COVERAGE:
+------------------------------
+Total Models Analyzed: 2
+Models: RandomForest, LSTM
+
+DETAILED RESULTS:
+------------------------------
+
+SHAP ANALYSIS:
+  Status: SUCCESS
+  Results available in detailed output files
+
+LIME ANALYSIS:
+  Status: SUCCESS
+  Results available in detailed output files
+
+ATTENTION ANALYSIS:
+  Status: SUCCESS
+  Results available in detailed output files
+
+PERMUTATION ANALYSIS:
+  Status: SUCCESS
+  Results available in detailed output files
+
+COUNTERFACTUAL ANALYSIS:
+  Status: SUCCESS
+  Results available in detailed output files
+
+CAUSAL ANALYSIS:
+  Status: SUCCESS
+  Results available in detailed output files
+
+FAITHFULNESS ANALYSIS:
+  Status: SUCCESS
+  Results available in detailed output files
+
+DYNAMIC_WEIGHTS ANALYSIS:
+  Status: SUCCESS
+  Results available in detailed output files
+
+DICE ANALYSIS:
+  Status: SUCCESS
+  Results available in detailed output files
+
+CONSENSUS ANALYSIS:
+  Status: SUCCESS
+  Results available in detailed output files
+
+ANCHORS ANALYSIS:
+  Status: SUCCESS
+  Results available in detailed output files
+
+RECOMMENDATIONS:
+------------------------------
+1. Review SHAP plots for global feature importance
+2. Check LIME explanations for local interpretability
+3. Analyze consensus results for model agreement
+4. Verify causal relationships in network analysis
+5. Assess explanation faithfulness for reliability
+
+NEXT STEPS:
+------------------------------
+• Use insights to improve model transparency
+• Apply findings to feature engineering
+• Validate cybersecurity interpretations
+• Share results with stakeholders

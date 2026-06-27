@@ -1,0 +1,24 @@
+{
+  "hyperparameters": {
+    "sequence_length": 12,
+    "patch_size": 4,
+    "embed_dim": 128,
+    "num_heads": 8,
+    "hidden_dim": 256,
+    "num_layers": 3,
+    "dropout": 0.1,
+    "mc_dropout": 0.2,
+    "learning_rate": 0.001,
+    "batch_size": 8,
+    "forecast_horizon": 36,
+    "num_nodes": 645
+  },
+  "final_loss": 0.02517061196267605,
+  "total_epochs": 138,
+  "timestamp": "2025-11-27T17:20:19.904374",
+  "data_shape": [
+    162,
+    645
+  ],
+  "device": "cpu"
+}

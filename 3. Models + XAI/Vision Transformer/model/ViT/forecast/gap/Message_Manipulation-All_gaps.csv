@@ -1,0 +1,141 @@
+Date,Attack,Technology,Gap
+2024-12-31,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-770.9534768102305
+2025-01-30,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-776.9424223421885
+2025-03-01,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-778.3509615246489
+2025-03-31,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-786.3772182122367
+2025-04-30,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-793.7748052283749
+2025-05-30,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-801.9201175349434
+2025-06-29,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-800.672918963525
+2025-07-29,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-803.8299369012594
+2025-08-28,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-810.6094537012443
+2025-09-27,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-817.3055190844299
+2025-10-27,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-817.7790030679007
+2025-11-26,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-823.5495712090052
+2025-12-26,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-829.7118064005676
+2026-01-25,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-832.8085844000633
+2026-02-24,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-839.2845630279528
+2026-03-26,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-846.810404399347
+2026-04-25,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-848.1491053558008
+2026-05-25,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-856.6899555203763
+2026-06-24,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-857.4301421600182
+2026-07-24,Message Manipulation-ALL,Solution_ENCRYPTION_Mentions,-874.9437472540277
+2024-12-31,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-517.6324428557721
+2025-01-30,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-524.2145101719583
+2025-03-01,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-526.3314701803873
+2025-03-31,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-529.9655011917839
+2025-04-30,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-532.6330507144608
+2025-05-30,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-538.1934981741646
+2025-06-29,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-546.0596239836002
+2025-07-29,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-548.2225366538534
+2025-08-28,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-551.6994356843692
+2025-09-27,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-556.0487179304544
+2025-10-27,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-556.7987872536075
+2025-11-26,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-563.8407700747147
+2025-12-26,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-563.2300551894731
+2026-01-25,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-567.2141016227721
+2026-02-24,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-572.1779892994177
+2026-03-26,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-574.1722756268882
+2026-04-25,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-579.3515758856385
+2026-05-25,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-580.6016843746104
+2026-06-24,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-585.9475736220226
+2026-07-24,Message Manipulation-ALL,Solution_CRYPTOGRAPHY_Mentions,-586.4448274154906
+2024-12-31,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,16.01123125654925
+2025-01-30,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,15.974813121899418
+2025-03-01,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,15.795326181273971
+2025-03-31,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,15.679641774241752
+2025-04-30,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,15.294470825361609
+2025-05-30,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,15.285356622579318
+2025-06-29,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,15.297146365930711
+2025-07-29,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,15.190927814446269
+2025-08-28,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,15.440092533452145
+2025-09-27,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,15.367751255908503
+2025-10-27,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,15.407479755295366
+2025-11-26,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,14.952991586187808
+2025-12-26,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,14.536550717620976
+2026-01-25,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,14.773388654860707
+2026-02-24,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,13.461944129695688
+2026-03-26,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,14.317008177837277
+2026-04-25,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,14.100450079423604
+2026-05-25,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,14.037060094796795
+2026-06-24,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,13.588276627424559
+2026-07-24,Message Manipulation-ALL,Solution_DIGITAL WATERMARK_Mentions,13.272059542754285
+2024-12-31,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-338.5483910616609
+2025-01-30,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-339.0210054899045
+2025-03-01,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-338.8073323149091
+2025-03-31,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-339.1805936208541
+2025-04-30,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-339.2068297413938
+2025-05-30,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-339.9420776501592
+2025-06-29,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-339.67253199501215
+2025-07-29,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-340.4192296676026
+2025-08-28,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-339.48484054420203
+2025-09-27,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-339.95620635191267
+2025-10-27,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-340.63231170227505
+2025-11-26,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-340.7297805047412
+2025-12-26,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-341.4879512317989
+2026-01-25,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-341.59579383731244
+2026-02-24,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-342.9310762342362
+2026-03-26,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-343.11420656069777
+2026-04-25,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-344.1004305694724
+2026-05-25,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-345.13204413590597
+2026-06-24,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-346.85534359576855
+2026-07-24,Message Manipulation-ALL,Solution_BLOCKCHAIN_Mentions,-348.26601328515244
+2024-12-31,Message Manipulation-ALL,Solution_ML/DL_Mentions,-228.8348449900828
+2025-01-30,Message Manipulation-ALL,Solution_ML/DL_Mentions,-230.18052163211706
+2025-03-01,Message Manipulation-ALL,Solution_ML/DL_Mentions,-230.68036960459028
+2025-03-31,Message Manipulation-ALL,Solution_ML/DL_Mentions,-231.36004953516704
+2025-04-30,Message Manipulation-ALL,Solution_ML/DL_Mentions,-232.53120968078875
+2025-05-30,Message Manipulation-ALL,Solution_ML/DL_Mentions,-234.04734862523688
+2025-06-29,Message Manipulation-ALL,Solution_ML/DL_Mentions,-234.07443705013884
+2025-07-29,Message Manipulation-ALL,Solution_ML/DL_Mentions,-235.389323995901
+2025-08-28,Message Manipulation-ALL,Solution_ML/DL_Mentions,-236.03852607584392
+2025-09-27,Message Manipulation-ALL,Solution_ML/DL_Mentions,-236.30968732558566
+2025-10-27,Message Manipulation-ALL,Solution_ML/DL_Mentions,-237.20460561649196
+2025-11-26,Message Manipulation-ALL,Solution_ML/DL_Mentions,-237.5396232653442
+2025-12-26,Message Manipulation-ALL,Solution_ML/DL_Mentions,-239.08883530209448
+2026-01-25,Message Manipulation-ALL,Solution_ML/DL_Mentions,-240.27020207054682
+2026-02-24,Message Manipulation-ALL,Solution_ML/DL_Mentions,-242.97246379617022
+2026-03-26,Message Manipulation-ALL,Solution_ML/DL_Mentions,-242.4858423373368
+2026-04-25,Message Manipulation-ALL,Solution_ML/DL_Mentions,-244.06649598368773
+2026-05-25,Message Manipulation-ALL,Solution_ML/DL_Mentions,-245.50042538463293
+2026-06-24,Message Manipulation-ALL,Solution_ML/DL_Mentions,-247.35380953618406
+2026-07-24,Message Manipulation-ALL,Solution_ML/DL_Mentions,-247.98745112154143
+2024-12-31,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-67.92024645109842
+2025-01-30,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-68.02251073136614
+2025-03-01,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-68.44979863444415
+2025-03-31,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-69.09316655946961
+2025-04-30,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-69.62703731458372
+2025-05-30,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-70.08965530916507
+2025-06-29,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-70.11879163518448
+2025-07-29,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-70.92823813007486
+2025-08-28,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-71.5087873883626
+2025-09-27,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-71.24299645347023
+2025-10-27,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-71.62524775122709
+2025-11-26,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-72.52954979831608
+2025-12-26,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-73.20059536294934
+2026-01-25,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-73.37368107174993
+2026-02-24,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-74.88630772457242
+2026-03-26,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-74.7432102402928
+2026-04-25,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-75.37870652577
+2026-05-25,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-76.28458266184428
+2026-06-24,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-77.40122303721272
+2026-07-24,Message Manipulation-ALL,Solution_ANOMALY DETECTION_Mentions,-77.53702258457061
+2024-12-31,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,12.140632964597371
+2025-01-30,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,11.976603471037212
+2025-03-01,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,11.322357473445228
+2025-03-31,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,11.885600690279801
+2025-04-30,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,11.285345897406346
+2025-05-30,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,11.107509035251663
+2025-06-29,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,11.259021307387082
+2025-07-29,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,11.091328195211243
+2025-08-28,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,11.370634459466473
+2025-09-27,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,11.3286288058738
+2025-10-27,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,11.398539428651302
+2025-11-26,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,11.169266098172733
+2025-12-26,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,10.778208284960765
+2026-01-25,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,10.781943502923417
+2026-02-24,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,9.362124091695863
+2026-03-26,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,10.472045666479882
+2026-04-25,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,9.911504782292408
+2026-05-25,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,10.04417695292091
+2026-06-24,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,9.750773015433383
+2026-07-24,Message Manipulation-ALL,Solution_PENETRATION TESTING_Mentions,9.660127394855797

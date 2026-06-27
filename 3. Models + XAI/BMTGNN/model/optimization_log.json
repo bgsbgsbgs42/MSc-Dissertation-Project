@@ -1,0 +1,243 @@
+{
+  "best_parameters": {
+    "hyperparameters": [
+      3,
+      0.0008,
+      4,
+      16,
+      64,
+      1024,
+      20,
+      0.2,
+      2,
+      80,
+      0.8,
+      2,
+      1
+    ],
+    "validation_metrics": {
+      "rse": 1.1154977713911027,
+      "rae": 0.8693752884864807,
+      "correlation": 0.011620214939100343,
+      "smape": 0.29187846183776855
+    },
+    "test_metrics": {
+      "rse": 2.778022649195295,
+      "correlation": 0.08240225848029477
+    },
+    "transfer_learning_used": true
+  },
+  "all_runs": [
+    {
+      "iteration": 0,
+      "hyperparameters": {
+        "gcn_depth": 1,
+        "lr": 0.0005,
+        "adjusted_lr": 5e-05,
+        "conv_channels": 4,
+        "residual_channels": 32,
+        "skip_channels": 128,
+        "end_channels": 256,
+        "layers": 1,
+        "subgraph_size": 30,
+        "dropout": 0.6,
+        "dilation_exponential": 3,
+        "node_dim": 70,
+        "propalpha": 0.4,
+        "tanhalpha": 0.05
+      },
+      "validation_metrics": {
+        "rse": 1.2581862208174068,
+        "rae": 1.236128330230713,
+        "correlation": -0.03750992455684407,
+        "smape": 0.48507925868034363
+      },
+      "test_metrics": {
+        "rse": 3.088442412583914,
+        "rae": 3.3056084476746466,
+        "correlation": 0.6050365841504067,
+        "smape": 0.5389285314553023
+      },
+      "parameters_count": 678297,
+      "transfer_learning_used": true
+    },
+    {
+      "iteration": 1,
+      "hyperparameters": {
+        "gcn_depth": 1,
+        "lr": 0.0005,
+        "adjusted_lr": 5e-05,
+        "conv_channels": 16,
+        "residual_channels": 32,
+        "skip_channels": 256,
+        "end_channels": 256,
+        "layers": 1,
+        "subgraph_size": 20,
+        "dropout": 0.5,
+        "dilation_exponential": 1,
+        "node_dim": 80,
+        "propalpha": 0.1,
+        "tanhalpha": 0.05
+      },
+      "validation_metrics": {
+        "rse": 1.1863528589591237,
+        "rae": 1.0433523654937744,
+        "correlation": -0.07459395713873862,
+        "smape": 0.4113712012767792
+      },
+      "test_metrics": {
+        "rse": 2.9818157817148268,
+        "rae": 3.153886956257452,
+        "correlation": 0.4765159839565848,
+        "smape": 0.5126649710366212
+      },
+      "parameters_count": 782021,
+      "transfer_learning_used": true
+    },
+    {
+      "iteration": 2,
+      "hyperparameters": {
+        "gcn_depth": 3,
+        "lr": 0.0008,
+        "adjusted_lr": 8e-05,
+        "conv_channels": 4,
+        "residual_channels": 16,
+        "skip_channels": 64,
+        "end_channels": 1024,
+        "layers": 1,
+        "subgraph_size": 20,
+        "dropout": 0.2,
+        "dilation_exponential": 2,
+        "node_dim": 80,
+        "propalpha": 0.8,
+        "tanhalpha": 2
+      },
+      "validation_metrics": {
+        "rse": 1.1154977713911027,
+        "rae": 0.8693752884864807,
+        "correlation": 0.011620214939100343,
+        "smape": 0.29187846183776855
+      },
+      "test_metrics": {
+        "rse": 2.778022649195295,
+        "rae": 2.873588899307981,
+        "correlation": 0.08240225848029477,
+        "smape": 0.5378458982290398
+      },
+      "parameters_count": 724125,
+      "transfer_learning_used": true
+    }
+  ],
+  "search_space": {
+    "gcn_depths": [
+      1,
+      2,
+      3
+    ],
+    "lrs": [
+      0.01,
+      0.001,
+      0.0005,
+      0.0008,
+      0.0001,
+      0.0003,
+      0.005
+    ],
+    "convs": [
+      4,
+      8,
+      16
+    ],
+    "ress": [
+      16,
+      32,
+      64
+    ],
+    "skips": [
+      64,
+      128,
+      256
+    ],
+    "ends": [
+      256,
+      512,
+      1024
+    ],
+    "layers": [
+      1,
+      2
+    ],
+    "ks": [
+      20,
+      30
+    ],
+    "dropouts": [
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7
+    ],
+    "dilation_exs": [
+      1,
+      2,
+      3
+    ],
+    "node_dims": [
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90,
+      100
+    ],
+    "prop_alphas": [
+      0.05,
+      0.1,
+      0.15,
+      0.2,
+      0.3,
+      0.4,
+      0.6,
+      0.8
+    ],
+    "tanh_alphas": [
+      0.05,
+      0.1,
+      0.5,
+      1,
+      2,
+      3,
+      5,
+      7,
+      9
+    ]
+  },
+  "config": {
+    "transferred_model": "transfer_learning_pretrain/transferred_model_for_hp_search.pt",
+    "use_transfer": true,
+    "data": "./data/sm_data_g.csv",
+    "save": "model/model.pt",
+    "device": "cpu",
+    "gcn_true": true,
+    "buildA_true": true,
+    "num_nodes": 645,
+    "in_dim": 1,
+    "seq_in_len": 6,
+    "seq_out_len": 12,
+    "horizon": 1,
+    "batch_size": 4,
+    "epochs": 5,
+    "num_split": 1,
+    "step_size": 100,
+    "clip": 5,
+    "optim": "adam",
+    "L1Loss": true,
+    "normalize": 2
+  },
+  "transfer_learning_used": true
+}

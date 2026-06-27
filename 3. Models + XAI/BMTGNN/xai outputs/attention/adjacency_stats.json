@@ -1,0 +1,48 @@
+{
+  "average_connectivity": 318.153488372093,
+  "max_connectivity": 364,
+  "min_connectivity": 281,
+  "density": 0.49972958355868036,
+  "top_connected_nodes": [
+    {
+      "node": "Feature_311",
+      "connections": 364
+    },
+    {
+      "node": "Feature_446",
+      "connections": 362
+    },
+    {
+      "node": "Feature_299",
+      "connections": 359
+    },
+    {
+      "node": "Feature_8",
+      "connections": 356
+    },
+    {
+      "node": "Feature_461",
+      "connections": 355
+    },
+    {
+      "node": "Feature_249",
+      "connections": 355
+    },
+    {
+      "node": "Feature_47",
+      "connections": 352
+    },
+    {
+      "node": "Feature_447",
+      "connections": 351
+    },
+    {
+      "node": "Feature_518",
+      "connections": 350
+    },
+    {
+      "node": "Feature_580",
+      "connections": 350
+    }
+  ]
+}

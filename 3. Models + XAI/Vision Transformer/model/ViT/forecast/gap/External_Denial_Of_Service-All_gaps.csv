@@ -1,0 +1,161 @@
+Date,Attack,Technology,Gap
+2024-12-31,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,15.048552306301975
+2025-01-30,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,15.02951337941167
+2025-03-01,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,14.890749834028814
+2025-03-31,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,15.164787409288556
+2025-04-30,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,15.106045994883004
+2025-05-30,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,15.169971896643206
+2025-06-29,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,15.240586887726977
+2025-07-29,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,15.011291273342138
+2025-08-28,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,15.191360468934999
+2025-09-27,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,15.105611033873759
+2025-10-27,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,15.311281777201534
+2025-11-26,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,15.156454824006376
+2025-12-26,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,15.083345714017002
+2026-01-25,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,14.956903843133778
+2026-02-24,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,14.962593745366547
+2026-03-26,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,14.824463744915633
+2026-04-25,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,14.91973205554769
+2026-05-25,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,14.794782333915911
+2026-06-24,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,14.702386429329632
+2026-07-24,External Denial of Service-ALL,Solution_RATE LIMITING_Mentions,14.707777525352219
+2024-12-31,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.368891066400028
+2025-01-30,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.563162270282886
+2025-03-01,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.419889248855068
+2025-03-31,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.577797986104843
+2025-04-30,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.515902249652523
+2025-05-30,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.531221756256718
+2025-06-29,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.680737020890444
+2025-07-29,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.403106133383014
+2025-08-28,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.508337212856386
+2025-09-27,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.586565261710465
+2025-10-27,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.564392267827028
+2025-11-26,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.439821195822631
+2025-12-26,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.40732481225
+2026-01-25,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.455036206340083
+2026-02-24,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.344295045134736
+2026-03-26,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.311891911926429
+2026-04-25,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.23905874719944
+2026-05-25,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.147339454884662
+2026-06-24,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.132365278177728
+2026-07-24,External Denial of Service-ALL,Solution_TRAFFIC SHAPING_Mentions,15.101901907104116
+2024-12-31,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.519336880502637
+2025-01-30,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.630708783336885
+2025-03-01,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.544227324984927
+2025-03-31,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.731077621556096
+2025-04-30,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.565509249106645
+2025-05-30,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.637812645524965
+2025-06-29,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.864159881207815
+2025-07-29,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.446643959026503
+2025-08-28,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.601522242324636
+2025-09-27,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.633155029571464
+2025-10-27,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.816521762269481
+2025-11-26,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.715947074358002
+2025-12-26,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.606917708201564
+2026-01-25,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.560830202010102
+2026-02-24,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.51555621904776
+2026-03-26,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.35830580989603
+2026-04-25,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.419186408509075
+2026-05-25,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.284094433605496
+2026-06-24,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.194459475509994
+2026-07-24,External Denial of Service-ALL,Solution_PACKET FILTERING_Mentions,13.160888255076603
+2024-12-31,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-2.1562358998363784
+2025-01-30,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-2.2785121818727205
+2025-03-01,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-2.224851108380978
+2025-03-31,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-2.5660686489160938
+2025-04-30,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-2.409314991805992
+2025-05-30,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-2.2626350651346776
+2025-06-29,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-2.8316875938843964
+2025-07-29,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-3.189712960631603
+2025-08-28,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-3.5496441743932543
+2025-09-27,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-3.023692239903724
+2025-10-27,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-3.220315465835423
+2025-11-26,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-3.8822428610066027
+2025-12-26,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-3.786620439885894
+2026-01-25,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-3.7878159584132334
+2026-02-24,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-4.077594694907976
+2026-03-26,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-4.398736129502575
+2026-04-25,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-4.236686183676973
+2026-05-25,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-3.1383853432777133
+2026-06-24,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-4.698315724423255
+2026-07-24,External Denial of Service-ALL,Solution_BLACKHOLING_Mentions,-4.591364198623326
+2024-12-31,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.552326244695564
+2025-01-30,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.788985941377456
+2025-03-01,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.79016052001101
+2025-03-31,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.762705617704391
+2025-04-30,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.893867540359802
+2025-05-30,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.93774751456596
+2025-06-29,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,14.01038026248589
+2025-07-29,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.788810368829257
+2025-08-28,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.750425282478833
+2025-09-27,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,14.08030982257251
+2025-10-27,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.841660110942614
+2025-11-26,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.872221084054406
+2025-12-26,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.760359173380804
+2026-01-25,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.599224489926367
+2026-02-24,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.5563730350046
+2026-03-26,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.764889001596188
+2026-04-25,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.556615975459454
+2026-05-25,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.454096528694704
+2026-06-24,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.452705054559907
+2026-07-24,External Denial of Service-ALL,Solution_BLACKLISTING_Mentions,13.152861723190512
+2024-12-31,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-239.4377040275556
+2025-01-30,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-238.366460351143
+2025-03-01,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-239.46779207883583
+2025-03-31,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-241.3199988163039
+2025-04-30,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-241.73578048210328
+2025-05-30,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-241.89234724005027
+2025-06-29,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-245.89628949982605
+2025-07-29,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-245.71969651399985
+2025-08-28,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-247.70403415197217
+2025-09-27,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-248.47050429760955
+2025-10-27,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-248.77113539012848
+2025-11-26,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-252.6080144306573
+2025-12-26,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-253.45832801875883
+2026-01-25,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-255.5446387384646
+2026-02-24,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-256.9240237428073
+2026-03-26,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-257.7031583792313
+2026-04-25,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-259.08763782201163
+2026-05-25,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-261.89497849450305
+2026-06-24,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-264.46252967997464
+2026-07-24,External Denial of Service-ALL,Solution_IDS/IPS_Mentions,-266.4254245530263
+2024-12-31,External Denial of Service-ALL,Solution_ML/DL_Mentions,-233.6206969237767
+2025-01-30,External Denial of Service-ALL,Solution_ML/DL_Mentions,-234.54040796779557
+2025-03-01,External Denial of Service-ALL,Solution_ML/DL_Mentions,-235.09847793827953
+2025-03-31,External Denial of Service-ALL,Solution_ML/DL_Mentions,-235.57586632648895
+2025-04-30,External Denial of Service-ALL,Solution_ML/DL_Mentions,-236.31634470055207
+2025-05-30,External Denial of Service-ALL,Solution_ML/DL_Mentions,-237.88900669054206
+2025-06-29,External Denial of Service-ALL,Solution_ML/DL_Mentions,-237.98499029100955
+2025-07-29,External Denial of Service-ALL,Solution_ML/DL_Mentions,-239.31853539915812
+2025-08-28,External Denial of Service-ALL,Solution_ML/DL_Mentions,-240.08101422241202
+2025-09-27,External Denial of Service-ALL,Solution_ML/DL_Mentions,-240.36077725287518
+2025-10-27,External Denial of Service-ALL,Solution_ML/DL_Mentions,-241.14335369195928
+2025-11-26,External Denial of Service-ALL,Solution_ML/DL_Mentions,-241.23186247686112
+2025-12-26,External Denial of Service-ALL,Solution_ML/DL_Mentions,-242.6831936916118
+2026-01-25,External Denial of Service-ALL,Solution_ML/DL_Mentions,-244.0205608215597
+2026-02-24,External Denial of Service-ALL,Solution_ML/DL_Mentions,-245.5109711411459
+2026-03-26,External Denial of Service-ALL,Solution_ML/DL_Mentions,-245.78679811662627
+2026-04-25,External Denial of Service-ALL,Solution_ML/DL_Mentions,-247.40180275643127
+2026-05-25,External Denial of Service-ALL,Solution_ML/DL_Mentions,-248.78820247795267
+2026-06-24,External Denial of Service-ALL,Solution_ML/DL_Mentions,-250.2791019233005
+2026-07-24,External Denial of Service-ALL,Solution_ML/DL_Mentions,-250.88482129993133
+2024-12-31,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.3547810309034585
+2025-01-30,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.616717135358694
+2025-03-01,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,6.904249139755995
+2025-03-31,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.669783898957874
+2025-04-30,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.500210877643047
+2025-05-30,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.265850969946481
+2025-06-29,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.348468066516366
+2025-07-29,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.1621167919541335
+2025-08-28,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.328146312898376
+2025-09-27,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.2775388785842825
+2025-10-27,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.45979135318399
+2025-11-26,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.477026886655798
+2025-12-26,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.183849895443448
+2026-01-25,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.031584751910517
+2026-02-24,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,6.823616746720189
+2026-03-26,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,7.1710898871904245
+2026-04-25,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,6.576198009548865
+2026-05-25,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,6.756399859601187
+2026-06-24,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,6.8254806283169565
+2026-07-24,External Denial of Service-ALL,Solution_PENETRATION TESTING_Mentions,6.762757216465886

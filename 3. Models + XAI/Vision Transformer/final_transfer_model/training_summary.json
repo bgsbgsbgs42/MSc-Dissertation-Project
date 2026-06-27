@@ -1,0 +1,33 @@
+{
+  "hyperparameters": {
+    "embed_dim": 128,
+    "sequence_length": 12,
+    "patch_size": 4,
+    "num_heads": 8,
+    "hidden_dim": 128,
+    "num_layers": 3,
+    "dropout": 0.1,
+    "mc_dropout": 0.1,
+    "learning_rate": 0.0003,
+    "weight_decay": 0.001,
+    "batch_size": 8,
+    "num_nodes": 645,
+    "forecast_horizon": 20
+  },
+  "final_metrics": {
+    "best_val_rrse": 0.6278368830680847,
+    "best_val_rae": 0.28753963112831116,
+    "test_rrse": 0.9449005126953125,
+    "test_rae": 0.470805287361145
+  },
+  "training_epochs": 100,
+  "transferred_domains": [
+    "imputed_ONS_data",
+    "imputed_yfinance_data",
+    "monthly_attack_summary_global_terrorism_database",
+    "monthly_averages_FRED_1975",
+    "sm_gimputed_2000_FRED_data_hybrid",
+    "transposed_JH_covid_deaths_global"
+  ],
+  "timestamp": "2025-11-28T12:48:06.880557"
+}

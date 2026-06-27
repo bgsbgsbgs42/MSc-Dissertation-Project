@@ -1,0 +1,50 @@
+{
+  "average_importance": 4.1335333132212297e-07,
+  "max_importance": 0.01131298765540123,
+  "min_importance": 0.0,
+  "std_importance": 3.522060897865369e-05,
+  "top_5_most_important_features": [
+    {
+      "feature": "Feature_0",
+      "impact": 3.089350323344386e-05
+    },
+    {
+      "feature": "Feature_4",
+      "impact": 2.5079896052678425e-05
+    },
+    {
+      "feature": "Feature_15",
+      "impact": 1.9480264926141547e-05
+    },
+    {
+      "feature": "Feature_14",
+      "impact": 1.6107462173284486e-05
+    },
+    {
+      "feature": "Feature_6",
+      "impact": 1.6054297371428143e-05
+    }
+  ],
+  "top_5_most_sensitive_predictions": [
+    {
+      "feature": "Feature_0",
+      "sensitivity": 1.7770431762517884e-05
+    },
+    {
+      "feature": "Feature_4",
+      "sensitivity": 1.589470477991326e-05
+    },
+    {
+      "feature": "Feature_8",
+      "sensitivity": 9.498675895291705e-06
+    },
+    {
+      "feature": "Feature_14",
+      "sensitivity": 9.181754764660384e-06
+    },
+    {
+      "feature": "Feature_6",
+      "sensitivity": 9.083447530288104e-06
+    }
+  ]
+}

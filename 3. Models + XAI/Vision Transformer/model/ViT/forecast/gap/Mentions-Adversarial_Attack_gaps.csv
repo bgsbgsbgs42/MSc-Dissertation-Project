@@ -1,0 +1,301 @@
+Date,Attack,Technology,Gap
+2024-12-31,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,54.742573563133114
+2025-01-30,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,54.811806918221116
+2025-03-01,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,54.86111185832067
+2025-03-31,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,54.640086727337454
+2025-04-30,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,55.330235434853336
+2025-05-30,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,54.52367779527504
+2025-06-29,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,54.899583428463764
+2025-07-29,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,54.75685543737788
+2025-08-28,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,55.12744415218608
+2025-09-27,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,55.21938948743943
+2025-10-27,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,54.67294969753304
+2025-11-26,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,54.52405891196377
+2025-12-26,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,55.08128542307359
+2026-01-25,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,55.25248994173867
+2026-02-24,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,54.87424336863396
+2026-03-26,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,55.139594238115215
+2026-04-25,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,54.871419231543776
+2026-05-25,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,55.093964968694685
+2026-06-24,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,54.93926051468422
+2026-07-24,Mentions-Adversarial Attack,Solution_ADVERSARIAL TRAINING_Mentions,54.85971793273519
+2024-12-31,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,56.72399708112865
+2025-01-30,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,56.63693572234952
+2025-03-01,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,56.64684036766651
+2025-03-31,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,56.62982863073427
+2025-04-30,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,57.05116779005899
+2025-05-30,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,56.53466778571996
+2025-06-29,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,56.683890517961764
+2025-07-29,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,56.994091524362794
+2025-08-28,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,57.47293311681266
+2025-09-27,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,56.71854246618512
+2025-10-27,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,56.69366121344213
+2025-11-26,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,56.621737822796284
+2025-12-26,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,57.310045992254686
+2026-01-25,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,57.129158709595714
+2026-02-24,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,56.912804786301805
+2026-03-26,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,57.01760787849342
+2026-04-25,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,57.27290926708075
+2026-05-25,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,56.99656626572897
+2026-06-24,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,56.646609142768504
+2026-07-24,Mentions-Adversarial Attack,Solution_DATA AUGMENTATION_Mentions,57.218139084321635
+2024-12-31,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.50175572029869
+2025-01-30,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.42207745515248
+2025-03-01,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.58377065458578
+2025-03-31,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.661931704602345
+2025-04-30,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,55.12234310304679
+2025-05-30,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.63482735614937
+2025-06-29,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.58230775778278
+2025-07-29,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.464742784778174
+2025-08-28,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.8530366679664
+2025-09-27,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.88149919512967
+2025-10-27,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.39092940275889
+2025-11-26,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.11880954459756
+2025-12-26,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,55.11550900933644
+2026-01-25,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.836905340121724
+2026-02-24,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.346314973579844
+2026-03-26,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.726195102769836
+2026-04-25,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.613540366286095
+2026-05-25,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.86260466077865
+2026-06-24,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.697957872619206
+2026-07-24,Mentions-Adversarial Attack,Solution_DIMENSIONALITY REDUCTION_Mentions,54.653157742402755
+2024-12-31,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.71101672441398
+2025-01-30,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.59716569013799
+2025-03-01,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.657201669514954
+2025-03-31,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.60026166723329
+2025-04-30,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,60.257787165502734
+2025-05-30,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.503417750150575
+2025-06-29,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.78446366909546
+2025-07-29,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.84055551294806
+2025-08-28,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,60.079491597434384
+2025-09-27,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.861503982666974
+2025-10-27,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.70554656495405
+2025-11-26,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.34311036531607
+2025-12-26,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,60.04540391359148
+2026-01-25,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.86537070636618
+2026-02-24,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.860626226063886
+2026-03-26,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,60.05863022158827
+2026-04-25,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.976099154335955
+2026-05-25,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,60.1072800868187
+2026-06-24,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,59.8602801721227
+2026-07-24,Mentions-Adversarial Attack,Solution_DEFENSIVE DISTILLATION_Mentions,60.06831076603607
+2024-12-31,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.15900769170725
+2025-01-30,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.08371086631919
+2025-03-01,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.08359371152742
+2025-03-31,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.056232363195726
+2025-04-30,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.339418812223734
+2025-05-30,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.228593108044
+2025-06-29,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.452526053021074
+2025-07-29,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.10036792876927
+2025-08-28,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.370022030391404
+2025-09-27,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.36731027535853
+2025-10-27,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.15966085946678
+2025-11-26,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.02604077402145
+2025-12-26,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.36178234005205
+2026-01-25,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.546994149896186
+2026-02-24,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.225733358754894
+2026-03-26,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.75594292963447
+2026-04-25,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.43216728146452
+2026-05-25,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.51354807081
+2026-06-24,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.20440506298722
+2026-07-24,Mentions-Adversarial Attack,Solution_DATA SANITIZATION_Mentions,60.830885179504435
+2024-12-31,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.29437453618752
+2025-01-30,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.287390754354895
+2025-03-01,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.052856655524764
+2025-03-31,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.20572025973949
+2025-04-30,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.53748414597946
+2025-05-30,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.16784865599106
+2025-06-29,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.229852045040765
+2025-07-29,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.04335216232687
+2025-08-28,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.44287800880266
+2025-09-27,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.30502488298437
+2025-10-27,Mentions-Adversarial Attack,Solution_RRAM_Mentions,55.95739839219157
+2025-11-26,Mentions-Adversarial Attack,Solution_RRAM_Mentions,55.77547065375607
+2025-12-26,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.723724902126925
+2026-01-25,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.10465975498435
+2026-02-24,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.030996977284204
+2026-03-26,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.624352063787775
+2026-04-25,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.32922204757205
+2026-05-25,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.483354438387536
+2026-06-24,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.54225261656857
+2026-07-24,Mentions-Adversarial Attack,Solution_RRAM_Mentions,56.27127780676812
+2024-12-31,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,59.72207941122693
+2025-01-30,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,59.701318115809805
+2025-03-01,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,59.641184822236866
+2025-03-31,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,59.810687742930284
+2025-04-30,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,60.066351232483925
+2025-05-30,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,59.66929688673623
+2025-06-29,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,59.700435911418694
+2025-07-29,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,59.7914328319824
+2025-08-28,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,60.15200164404516
+2025-09-27,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,59.99042188944379
+2025-10-27,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,59.61441886267969
+2025-11-26,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,59.47176370838445
+2025-12-26,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,60.19049981256633
+2026-01-25,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,59.99762540254136
+2026-02-24,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,59.85066078360962
+2026-03-26,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,60.11541669563554
+2026-04-25,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,60.09061856131006
+2026-05-25,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,60.0566276497327
+2026-06-24,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,59.92350385158644
+2026-07-24,Mentions-Adversarial Attack,Solution_SPATIAL SMOOTHING_Mentions,60.16354393575865
+2024-12-31,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.20332988401982
+2025-01-30,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.161863751703024
+2025-03-01,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.23176549758622
+2025-03-31,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.170051542221564
+2025-04-30,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.463955781996276
+2025-05-30,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.220475244992286
+2025-06-29,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.356597292347985
+2025-07-29,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.24097835390664
+2025-08-28,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.580704897677705
+2025-09-27,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.3374315208534
+2025-10-27,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.28518135043382
+2025-11-26,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.035565796753765
+2025-12-26,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.61046788635629
+2026-01-25,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.43311711316649
+2026-02-24,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.3811161947545
+2026-03-26,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.64158594079901
+2026-04-25,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.47335379107162
+2026-05-25,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.60039980059498
+2026-06-24,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.27355916056764
+2026-07-24,Mentions-Adversarial Attack,Solution_NOISE INJECTION_Mentions,59.766776100449505
+2024-12-31,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-189.20252691656935
+2025-01-30,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-190.26851444939524
+2025-03-01,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-190.71636503412793
+2025-03-31,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-191.3086858183387
+2025-04-30,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-191.6856874365521
+2025-05-30,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-193.72286571736925
+2025-06-29,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-193.79150222759938
+2025-07-29,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-194.94695517775645
+2025-08-28,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-195.5074123091191
+2025-09-27,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-195.93895487806174
+2025-10-27,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-196.98597989878618
+2025-11-26,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-197.20136254173815
+2025-12-26,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-197.90261742888362
+2026-01-25,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-199.39107646101357
+2026-02-24,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-200.93352401345217
+2026-03-26,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-200.85745429256363
+2026-04-25,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-202.59201642790606
+2026-05-25,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-203.79471564621758
+2026-06-24,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-205.46411689226437
+2026-07-24,Mentions-Adversarial Attack,Solution_ML/DL_Mentions,-205.68277694972886
+2024-12-31,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.11464163952867
+2025-01-30,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.00117177114677
+2025-03-01,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.06996194671495
+2025-03-31,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,54.88371262644105
+2025-04-30,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.27918978131227
+2025-05-30,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,54.86699316124701
+2025-06-29,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.1408225728212
+2025-07-29,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.246790739339744
+2025-08-28,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.34486356053249
+2025-09-27,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.45966146415178
+2025-10-27,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.09401035820787
+2025-11-26,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,54.7371117110587
+2025-12-26,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.46360587531109
+2026-01-25,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.035696381030796
+2026-02-24,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,54.97966454673527
+2026-03-26,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.55816211000845
+2026-04-25,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.09063602178589
+2026-05-25,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.41479499163184
+2026-06-24,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.227780513696864
+2026-07-24,Mentions-Adversarial Attack,Solution_OUTLIER DETECTION_Mentions,55.523660066166066
+2024-12-31,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,56.968175452167
+2025-01-30,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,56.88335600495494
+2025-03-01,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,56.773235014120374
+2025-03-31,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,56.70538911286426
+2025-04-30,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,56.983182233791766
+2025-05-30,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,56.813555551695416
+2025-06-29,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,57.05898447387272
+2025-07-29,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,57.099862646597096
+2025-08-28,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,57.37383199485399
+2025-09-27,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,56.77408640567468
+2025-10-27,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,56.94774213112412
+2025-11-26,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,56.85797150429866
+2025-12-26,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,57.22187629718785
+2026-01-25,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,57.1501904307885
+2026-02-24,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,56.72028058967406
+2026-03-26,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,57.24413838202966
+2026-04-25,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,56.78668152982129
+2026-05-25,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,56.91534111376031
+2026-06-24,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,57.059208770666444
+2026-07-24,Mentions-Adversarial Attack,Solution_DATA PROVENANCE_Mentions,57.25444383956021
+2024-12-31,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.46608926837804
+2025-01-30,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.39344347820487
+2025-03-01,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.54827564705177
+2025-03-31,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.55505244065915
+2025-04-30,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.928538402378386
+2025-05-30,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.54234337390914
+2025-06-29,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.50560512870111
+2025-07-29,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.54010856696897
+2025-08-28,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.713258011736386
+2025-09-27,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.775748770401634
+2025-10-27,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.337204858650296
+2025-11-26,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.254096546784524
+2025-12-26,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,60.06581077347459
+2026-01-25,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.647281210070005
+2026-02-24,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.61958007862338
+2026-03-26,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,60.02515970059012
+2026-04-25,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.745614485543165
+2026-05-25,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.8880678791163
+2026-06-24,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.62367840337884
+2026-07-24,Mentions-Adversarial Attack,Solution_TRUSTWORTHY AI_Mentions,59.93758391989438
+2024-12-31,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.56084727338555
+2025-01-30,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.560863539779085
+2025-03-01,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.7143876312147
+2025-03-31,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,45.341079766556206
+2025-04-30,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.79979869215832
+2025-05-30,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.69412566357596
+2025-06-29,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.738045793670544
+2025-07-29,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.35654093438606
+2025-08-28,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,45.04991052297974
+2025-09-27,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,45.01992621526191
+2025-10-27,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.285339712152535
+2025-11-26,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.09072679391508
+2025-12-26,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,45.01518475977145
+2026-01-25,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,45.12281988214864
+2026-02-24,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.95660403325326
+2026-03-26,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.94210462098928
+2026-04-25,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.70468841796489
+2026-05-25,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,45.09909233364898
+2026-06-24,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.62519350970067
+2026-07-24,Mentions-Adversarial Attack,Solution_Bayesian Network_Mentions,44.84280212906972
+2024-12-31,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-28.287928377585004
+2025-01-30,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-28.11050354864434
+2025-03-01,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-28.485794063981807
+2025-03-31,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-29.041802842641253
+2025-04-30,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-28.78151507034704
+2025-05-30,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-29.765172401297434
+2025-06-29,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-29.835856812645034
+2025-07-29,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-30.485869311930287
+2025-08-28,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-30.97767362163779
+2025-09-27,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-30.872264005946292
+2025-10-27,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-31.406622033521323
+2025-11-26,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-32.19128907471002
+2025-12-26,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-32.01437748973847
+2026-01-25,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-32.49455546221669
+2026-02-24,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-32.847367941854365
+2026-03-26,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-33.114822195519615
+2026-04-25,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-33.90422696998833
+2026-05-25,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-34.578872923428904
+2026-06-24,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-35.51153039329302
+2026-07-24,Mentions-Adversarial Attack,Solution_ANOMALY DETECTION_Mentions,-35.23234841275806
+2024-12-31,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,37.019081504835654
+2025-01-30,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.96027312326419
+2025-03-01,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.99217069759058
+2025-03-31,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.66594956629221
+2025-04-30,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,37.06757063885628
+2025-05-30,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.48359625357595
+2025-06-29,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.73178714079266
+2025-07-29,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.562638641358234
+2025-08-28,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.82817045477344
+2025-09-27,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.71368406175883
+2025-10-27,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.36090731640159
+2025-11-26,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.22370137180806
+2025-12-26,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.85163298019859
+2026-01-25,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.69340261605741
+2026-02-24,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.755556957444696
+2026-03-26,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.93979475102362
+2026-04-25,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.54145936161422
+2026-05-25,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.74517510891165
+2026-06-24,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.49366306255955
+2026-07-24,Mentions-Adversarial Attack,Solution_NLP/LLM_Mentions,36.876926029652424
