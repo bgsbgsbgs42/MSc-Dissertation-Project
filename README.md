@@ -387,7 +387,7 @@ This folder has no `data/` folder and no trained checkpoint, so set up the data 
 ```bash
 cd "3. Models + XAI/Ensemble"
 mkdir -p data
-cp ../BMTGNN/data/sm_data_g.csv ../BMTGNN/data/graph.csv data/    # [check: confirm this is the data the ensemble used]
+cp ../BMTGNN/data/sm_data_g.csv ../BMTGNN/data/graph.csv data/    
 
 python pretrain_transfer_learning.py
 python hyperparameter_optimization_ensemble_pretraining.py \
@@ -487,7 +487,7 @@ A set of LLM-driven agents runs the whole forecasting workflow: preprocessing, t
    ```bash
    cd "3. Models + XAI/Agentic LLM"
    mkdir -p data
-   cp ../BMTGNN/data/sm_data_g.csv ../BMTGNN/data/graph.csv data/    # [check: confirm the data version]
+   cp ../BMTGNN/data/sm_data_g.csv ../BMTGNN/data/graph.csv data/    
    ```
 
 3. Optional, for retrieval-augmented generation:
