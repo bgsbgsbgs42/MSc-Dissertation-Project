@@ -1,7 +1,5 @@
 # Enhancing cyber threat forecasting with dark web signals, transfer learning, an agentic LLM system and explainable AI
 
-MSc Data Science dissertation, Birkbeck, University of London (2025). Author: Isobel (Bella) Smith.
-
 This repository holds the code, processed data, trained model checkpoints and outputs for a project on proactive cyber threat forecasting. The project builds a monthly multivariate time series of cyber attacks and Pertinent Alleviation Technologies (PATs) for July 2011 to December 2024. It adds dark web and other external signals to that series and pre-trains forecasting models on unrelated time series (transfer learning). It then compares seven forecasting models, covering graph neural network, graph transformer, vision transformer and ensemble designs, and explains their forecasts with several XAI methods. An agentic LLM system chooses between models and writes a threat report.
 
 The full write-up is in `MSc_Final_Project_Enhancing_Cyber_Threat_Forecasting_with_Dark_Web_Signals_and_Explainable_AI.pdf`. The slides are in `Presentation-of-Research-Proactive-Cyber-Threat-Forecasting.pdf`.
