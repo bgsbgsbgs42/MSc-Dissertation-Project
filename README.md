@@ -8,18 +8,21 @@ The full write-up is in `MSc_Final_Project_Enhancing_Cyber_Threat_Forecasting_wi
 
 ## Contents
 
-1. [Repository layout](#repository-layout)
-2. [Choose how far back to start](#choose-how-far-back-to-start)
-3. [Set up the environment](#set-up-the-environment)
-4. [One-off step: path compatibility shim](#one-off-step-path-compatibility-shim)
-5. [Stage 1: data collection and preparation](#stage-1-data-collection-and-preparation)
-6. [Stage 2: transfer learning data](#stage-2-transfer-learning-data)
-7. [Stage 3: models and XAI](#stage-3-models-and-xai)
-8. [Stage 4: agentic LLM system](#stage-4-agentic-llm-system)
-9. [Where the outputs go](#where-the-outputs-go)
-10. [Known issues](#known-issues)
-11. [Data sources, terms and ethics](#data-sources-terms-and-ethics)
-12. [Citation, acknowledgements and licence](#citation-acknowledgements-and-licence)
+1. [Overview and Key Contributions](#overview-and-key-contributions)
+2. [Empirical Results and Analysis](#empirical-results-and-analysis)
+3. [Explainable AI (XAI) Suite](#explainable-ai-xai-suite)
+4. [Repository layout](#repository-layout)
+5. [Choose how far back to start](#choose-how-far-back-to-start)
+6. [Set up the environment](#set-up-the-environment)
+7. [One-off step: path compatibility shim](#one-off-step-path-compatibility-shim)
+8. [Stage 1: data collection and preparation](#stage-1-data-collection-and-preparation)
+9. [Stage 2: transfer learning data](#stage-2-transfer-learning-data)
+10. [Stage 3: models and XAI](#stage-3-models-and-xai)
+11. [Stage 4: agentic LLM system](#stage-4-agentic-llm-system)
+12. [Where the outputs go](#where-the-outputs-go)
+13. [Known issues](#known-issues)
+14. [Data sources, terms and ethics](#data-sources-terms-and-ethics)
+15. [Citation, acknowledgements and licence](#citation-acknowledgements-and-licence)
 
 ## Overview and Key Contributions
 
