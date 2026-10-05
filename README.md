@@ -22,7 +22,7 @@ The full write-up is in `MSc_Final_Project_Enhancing_Cyber_Threat_Forecasting_wi
 12. [Where the outputs go](#where-the-outputs-go)
 13. [Known issues](#known-issues)
 14. [Data sources, terms and ethics](#data-sources-terms-and-ethics)
-15. [Citation, acknowledgements and licence](#citation-acknowledgements-and-licence)
+15. [Citation and acknowledgements](#citation-and-acknowledgements)
 
 ## Overview and Key Contributions
 
@@ -553,7 +553,7 @@ Each third-party source has its own terms of use. This repository includes proce
 
 The dark web collection ran in an isolated, hardened virtual machine. Only aggregated term counts and average prices are published. No raw posts, usernames or other personal data are included.
 
-## Citation, acknowledgements and licence
+## Citation and acknowledgements
 
 ### Citation
 
@@ -575,9 +575,5 @@ The dark web collection ran in an isolated, hardened virtual machine. Only aggre
 - The PAT recommendations draw on the MITRE ATT&CK framework.
 - Baseline data comes from [Hackmageddon](https://www.hackmageddon.com/)
 - I'd also like to thank my supervisor, Dr Paul Yoo. 
-
-### Licence
-
-[add: licence for original code, for example MIT. Code adapted from the Bayesian MTGNN baseline stays under its original licence, so check that licence before choosing one for this repository]
 
 Contact: Isobel (Bella) Smith, iggyggsmith42@gmail.com
